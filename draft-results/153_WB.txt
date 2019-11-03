@@ -1,0 +1,58 @@
+DeckId: 153
+Pilot: 13
+Date: 2016-06-16
+Colors: WB
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 156: 2-0
+vs. 151: 2-1
+vs. 155: 2-0
+
+1 Savannah Lions
+1 Student of Warfare
+1 Accorder Paladin
+1 Kor Skyfisher
+1 Cloudgoat Ranger
+1 Sun Titan
+1 Armageddon
+1 Ravages of War
+1 Carnophage
+1 Diregraf Ghoul
+1 Gravecrawler
+1 Asylum Visitor
+1 Drana, Liberator of Malakir
+1 Liliana, Heretical Healer
+1 Mardu Strike Leader
+1 Braids, Cabal Minion
+1 Profane Command
+1 Snuff Out
+1 Rakdos Cackler
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Arid Mesa
+1 Blood Crypt
+1 Godless Shrine
+1 Mana Confluence
+1 Rishadan Port
+1 Sword of Light and Shadow
+1 Smokestack
+5 Plains
+7 Swamp
+
+1 Mana Tithe
+1 Vendilion Clique
+1 Opposition
+1 Languish
+1 Jackal Pup
+1 Manic Vandal
+1 Hornet Queen
+1 Evolutionary Leap
+1 Kiora, the Crashing Wave
+1 Reality Smasher
+1 Ancient Tomb
+1 Chrome Mox
+1 Misty Rainforest
+1 Scalding Tarn
+1 Terramorphic Expanse
+1 Wasteland

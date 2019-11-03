@@ -1,0 +1,60 @@
+DeckId: 56
+Pilot: 5
+Date: 2014-05-15
+Colors: UG
+Labels: 
+Match Record: 0-2-1
+Game Record: 2-5
+vs. 54: 0-2
+vs. 55: 1-2
+vs. 59: 1-1
+
+1 Looter Il-Kor
+1 Omenspeaker
+1 Snapcaster Mage
+1 Man-o'-War
+1 Serendib Efreet
+1 Glen Elendra Archmage
+1 Talrand, Sky Summoner
+1 Meloku, the Clouded Mirror
+1 Force of Will
+1 Ancestral Vision
+1 Brainstorm
+1 Ponder
+1 Counterspell
+1 Impulse
+1 Into the Roil
+1 Memory Lapse
+1 Jace, the Mind Sculptor
+1 Wall of Blossoms
+1 Courser of Kruphix
+1 Eternal Witness
+1 Wickerbough Elder
+1 Trygon Predator
+1 Simic Sky Swallower
+1 Breeding Pool
+1 Strip Mine
+1 Plains
+8 Island
+6 Forest
+
+1 Soltari Priest
+1 Reveillark
+1 Balance
+1 Parallax Wave
+1 Enclave Cryptologist
+1 Mystical Tutor
+1 Profane Command
+1 Hellspark Elemental
+1 Searing Spear
+1 Tarmogoyf
+1 Wild Mongrel
+1 Viridian Shaman
+1 Life from the Loam
+1 Garruk, Primal Hunter
+1 Plow Under
+1 Psychatog
+1 Mox Diamond
+1 Steam Vents
+1 Cursed Scroll
+1 Skullclamp

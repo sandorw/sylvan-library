@@ -1,0 +1,60 @@
+DeckId: 94
+Pilot: 1
+Date: 2015-03-26
+Colors: URwg
+Labels: 
+Match Record: 3-0
+Game Record: 6-2
+vs. 92: 2-1
+vs. 91: 2-1
+vs. 93: 2-0
+
+1 Looter Il-Kor
+1 Waterfront Bouncer
+1 Serendib Efreet
+1 Meloku, the Clouded Mirror
+1 Mulldrifter
+1 Force Spike
+1 Impulse
+1 Memory Lapse
+1 Crystal Shard
+1 Treachery
+1 Feldon of the Third Path
+1 Fire Imp
+1 Squee, Goblin Nabob
+1 Avalanche Riders
+1 Lightning Bolt
+1 Magma Jet
+1 Thragtusk
+1 Huntmaster of the Fells
+1 Dack Fayden
+1 Venser, the Sojourner
+1 Masticore
+1 Gemstone Mine
+1 Mana Confluence
+1 Scalding Tarn
+1 Shivan Reef
+1 Stomping Ground
+1 Temple Garden
+1 Skullclamp
+1 Mimic Vat
+1 Sword of Fire and Ice
+5 Island
+4 Mountain
+1 Forest
+
+1 Porcelain Legionaire
+1 Kira, Great Glass-Spinner
+1 Fact or Fiction
+1 Gravecrawler
+1 Firedrinker Satyr
+1 Plated Geopede
+1 Young Pyromancer
+1 Burst Lightning
+1 Chain Lightning
+1 Wheel of Fortune
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Viridian Shaman
+1 Cultivate
+1 Edric, Spymaster of Trest

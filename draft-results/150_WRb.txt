@@ -1,0 +1,60 @@
+DeckId: 150
+Pilot: 5
+Date: 2016-03-22
+Colors: WRb
+Labels: 
+Match Record: 0-3
+Game Record: 1-6
+vs. 143: 0-2
+vs. 148: 1-2
+vs. 145: 0-2
+
+1 Kor Skyfisher
+1 Brimaz, King of Oreskos
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Path to Exile
+1 Banishing Light
+1 Elspeth, Knight-Errant
+1 Spectral Procession
+1 Flesh Carver
+1 Mardu Strike Leader
+1 Keldon Marauders
+1 War-Name Aspirant
+1 Goblin Rabblemaster
+1 Hellrider
+1 Hero of Oxid Ridge
+1 Thundermaw Hellkite
+1 Magma Jet
+1 Flames of the Firebrand
+1 Koth of the Hammer
+1 Figure of Destiny
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Arid Mesa
+1 Bloodstained Mire
+1 Godless Shrine
+1 Lavaclaw Reaches
+1 Needle Spires
+1 Sacred Foundry
+1 Shambling Vent
+1 Sword of Light and Shadow
+5 Plains
+5 Mountain
+
+1 Mana Tithe
+1 Force Spike
+1 Upheaval
+1 Ophiomancer
+1 Diabolic Edict
+1 Goblin Glory Chaser
+1 Jackal Pup
+1 Young Pyromancer
+1 Fire Imp
+1 Sarkhan, the Dragonspeaker
+1 Fyndhorn Elves
+1 Warden of the First Tree
+1 Trygon Predator
+1 Bloodbraid Elf
+1 Engineered Explosives
+1 Bonesplitter

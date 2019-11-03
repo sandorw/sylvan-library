@@ -1,0 +1,59 @@
+DeckId: 37
+Pilot: 3
+Date: 2014-01-29
+Colors: Rg
+Labels: 
+Match Record: 3-0
+Game Record: 9-3
+vs. 39: 3-2
+vs. 38: 4-0
+vs. 36: 2-1
+
+1 Firedrinker Satyr
+1 Goblin Guide
+1 Jackal Pup
+1 Young Pyromancer
+1 Manic Vandal
+1 Flametongue Kavu
+1 Lightning Bolt
+1 Incinerate
+1 Magma Jet
+1 Searing Spear
+1 Flames of the Firebrand
+1 Sulfuric Vortex
+1 Koth of the Hammer
+1 Jungle Lion
+1 River Boa
+1 Call of the Herd
+1 Dryad Militant
+1 Tattermunge Maniac
+1 Murderous Redcap
+1 Molten-Tail Masticore
+1 Misty Rainforest
+1 Scalding Tarn
+1 Wasteland
+1 Wooded Foothill
+1 Winter Orb
+1 Grafted Wargear
+1 Sword of War and Peace
+1 Tangle Wire
+8 Mountain
+4 Forest
+
+1 Savannah Lions
+1 Thalia, Guardian of Thraben
+1 Soltari Champion
+1 Path to Exile
+1 Memory Lapse
+1 Dark Confidant
+1 Abyssal Persecutor
+1 Toxic Deluge
+1 Greater Gargadon
+1 Avalanche Riders
+1 Staggershock
+1 Joraga Treespeaker
+1 Thragtusk
+1 Duskmantle Seer
+1 Marsh Flats
+1 Mishra's Factory
+1 Grim Monolith

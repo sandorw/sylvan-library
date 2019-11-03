@@ -1,0 +1,58 @@
+DeckId: 199
+Pilot: 9
+Date: 2017-02-21
+Colors: UB
+Labels:
+Match Record: 3-0 
+Game Record: 6-2
+vs. 201: 2-0
+vs. 203: 2-1
+vs. 198: 2-1
+
+1 Oona's Prowler
+1 Sphinx of the Steel Wind
+1 Forbid
+1 Waterfront Bouncer
+1 Snuff Out
+1 Reanimate
+1 Emrakul, the Promised End
+1 Primeval Titan
+1 Thirst for Knowledge
+1 Heir of Falkenrath
+1 Dismember
+1 Venser, Shaper Savant
+1 Fact or Fiction
+1 Deep Analysis
+1 Animate Dead
+1 Strip Mine
+1 Tasigur, the Golden Fang
+1 Jace, Vryn's Prodigy
+1 Gemstone Mine
+1 Condescend
+1 Dig Through Time
+1 Tendo Ice Bridge
+1 Bloodstained Mire
+1 Dragonlord Atarka
+1 Baleful Strix
+1 Bitterblossom
+1 Grave Titan
+7 Island
+6 Swamp
+
+1 Wheel of Fortune
+1 Oath of Druids
+1 Tezzeret the Seeker
+1 Scavenging Ooze
+1 Dark Ritual
+1 Overgrown Tomb
+1 Sinkhole
+1 Regrowth
+1 Rakdos Cackler
+1 Duskwatch Recruiter
+1 Plated Geopede
+1 Zurgo Bellstriker
+1 Jungle Lion
+1 Bloodstained Mire
+1 Rofellos, Llanowar Emissary
+1 Survival of the Fittest
+1 Siege-Gang Commander

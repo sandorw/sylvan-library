@@ -1,0 +1,60 @@
+DeckId: 86
+Pilot: 7
+Date: 2014-12-10
+Colors: Uwbr
+Labels: 
+Match Record: 1-2
+Game Record: 4-5
+vs. 85: 1-2
+vs. 87: 1-2
+vs. 84: 2-1
+
+1 Blade Splicer
+1 Enclave Cryptologist
+1 Looter Il-Kor
+1 Vendilion Clique
+1 Aetherling
+1 Preordain
+1 Remand
+1 Tinker
+1 Vedalken Shackles
+1 Nezumi Graverobber
+1 Dance of the Dead
+1 Necromancy
+1 Consuming Vapors
+1 Greater Gargadon
+1 Sorin, Lord of Innistrad
+1 Venser, the Sojourner
+1 Solemn Simulacrum
+1 Myr Battlesphere
+1 Sundering Titan
+1 Evolving Wilds
+1 Mana Confluence
+1 Umezawa's Jitte
+1 Chromatic Lantern
+1 Mimic Vat
+1 Aether Searcher
+2 Plains
+10 Island
+3 Swamp
+
+1 Lone Missionary
+1 Waterfront Bouncer
+1 Thassa, God of the Sea
+1 Brainstorm
+1 Opposition
+1 Flesh Carver
+1 Braids, Cabal Minion
+1 Dark Ritual
+1 Malicious Affliction
+1 Young Pyromancer
+1 Earthquake
+1 Faithless Looting
+1 Firebolt
+1 Primeval Titan
+1 Dryad Militant
+1 Rakdos Cackler
+1 Grenzo, Dungeon Warden
+1 Falkenrath Aristocrat
+1 Tangle Wire
+1 Smokestack

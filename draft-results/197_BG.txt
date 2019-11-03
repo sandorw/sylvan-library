@@ -1,0 +1,59 @@
+DeckId: 197
+Pilot: 5
+Date: 2017-01-31
+Colors: BG
+Labels:
+Match Record: 2-1
+Game Record: 5-3
+vs. 192: 2-0
+vs. 194: 2-1
+vs. 196: 1-2
+
+1 Thragtusk
+1 Master of the Wild Hunt
+1 Acidic Slime
+1 Oona's Prowler
+1 Tasigur, the Golden Fang
+1 Diabolic Edict
+1 Drana, Liberator of Malakir
+1 Flesh Carver
+1 Thrun, the Last Troll
+1 Duress
+1 Treetop Village
+1 Garruk Relentless
+1 Gnarled Scarhide
+1 Garruk Wildspeaker
+1 Wolfbitten Captive
+1 Arbor Elf
+1 Shriekmaw
+1 Mardu Strike Leader
+1 Elvish Mystic
+1 Umezawa's Jitte
+1 Hornet Queen
+1 Deranged Hermit
+1 Cultivate
+1 Sakura-Tribe Elder
+1 Llanowar Elves
+1 Rancor
+8 Swamp
+7 Forest
+
+1 Rakdos Cackler
+1 Bloodghast
+1 Siege-Gang Commander
+1 Arc Trail
+1 Tundra
+1 Dragonlord Atarka
+1 Natural Order
+1 Pernicious Deed
+1 Languish
+1 Ponder
+1 Plated Geopede
+1 Grim Lavamancer
+1 Sinkhole
+1 Mishra's Factory
+1 Necromancy
+1 Worn Powerstone
+1 Griselbrand
+1 Oath of Druids
+1 Tattermunge Maniac

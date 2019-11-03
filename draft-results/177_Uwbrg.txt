@@ -1,0 +1,60 @@
+DeckId: 177
+Pilot: 23
+Date: 2016-11-02
+Colors: Uwbrg
+Labels: 
+Match Record: 2-1
+Game Record: 4-4
+vs. 175: 2-1
+vs. 176: 0-2
+vs. 172: 2-1
+
+1 Looter Il-Kor
+1 Phyrexian Metamorph
+1 Ponder
+1 Mana Leak
+1 Jace Beleren
+1 Jace, the Mind Sculptor
+1 Mystic Confluence
+1 Tezzeret the Seeker
+1 Demonic Tutor
+1 Rolling Earthquake
+1 Koth of the Hammer
+1 Sarkhan, the Dragonspeaker
+1 Tarmogoyf
+1 Thrun, the Last Troll
+1 Oath of Nissa
+1 Garruk Wildspeaker
+1 Dack Fayden
+1 Kiora, the Crashing Wave
+1 Sorin, Lord of Innistrad
+1 Tezzeret, Agent of Bolas
+1 Arid Mesa
+1 Chrome Mox
+1 Everflowing Chalice
+1 Evolving Wilds
+1 Flooded Strand
+1 Godless Shrine
+1 Lumbering Falls
+1 Marsh Flats
+1 Steam Vents
+1 Verdant Catacombs
+1 Coalition Relic
+3 Island
+2 Swamp
+2 Mountain
+2 Forest
+
+1 Dragon Hunter
+1 Mardu Woe Reaper
+1 Porcelain Legionaire
+1 Ravages of War
+1 Snapcaster Mage
+1 Dance of the Dead
+1 Sinkhole
+1 Yasova Dragonclaw
+1 Evolutionary Leap
+1 Cultivate
+1 Dragonlord Atarka
+1 Guardion Idol
+1 Scroll Rack

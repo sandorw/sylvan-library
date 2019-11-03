@@ -1,0 +1,59 @@
+DeckId: 114
+Pilot: 5
+Date: 2015-10-29
+Colors: WR
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 115: 2-1
+vs. 117: 1-2
+vs. 118: 0-2
+
+1 Isamaru, Hound of Konda
+1 Mardu Woe Reaper
+1 Mother of Runes
+1 Student of Warfare
+1 Accorder Paladin
+1 Imposing Sovereign
+1 Thalia, Guardian of Thraben
+1 Porcelain Legionaire
+1 Hero of Bladehold
+1 Path to Exile
+1 Spear of Heliod
+1 Armageddon
+1 Goblin Guide
+1 Grim Lavamancer
+1 Zurgo Bellstriker
+1 Lightning Mauler
+1 War-Name Aspirant
+1 Hero of Oxid Ridge
+1 Burst Lightning
+1 Chain Lightning
+1 Firebolt
+1 Magma Jet
+1 Wheel of Fortune
+1 Strip Mine
+1 Bonesplitter
+8 Plains
+7 Mountain
+
+1 Dragon Hunter
+1 Wall of Omens
+1 Flickerwisp
+1 Exalted Angel
+1 Cloudgoat Ranger
+1 Reveillark
+1 Sun Titan
+1 Land Tax
+1 Spectral Procession
+1 Preordain
+1 Hellspark Elemental
+1 Young Pyromancer
+1 Manic Vandal
+1 Flametongue Kavu
+1 Char
+1 Troll Ascetic
+1 Dreadbore
+1 Lingering Souls
+1 Ajani Vengeant
+1 Rishadan Port

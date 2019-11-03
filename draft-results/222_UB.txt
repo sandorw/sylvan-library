@@ -1,0 +1,58 @@
+DeckId: 222
+Pilot: 25
+Date: 2017-04-25
+Colors: UB
+Labels:
+Match Record: 1-2
+Game Record: 3-5
+vs. 220: 0-2
+vs. 223: 1-2
+vs. 221: 2-1
+
+1 Crystal Shard
+1 Asylum Visitor
+1 Duress
+1 Badlands
+1 Thirst for Knowledge
+1 Mind Twist
+1 Volcanic Island
+1 Phyrexian Revoker
+1 Creeping Tar Pit
+1 Tundra
+1 Treachery
+1 Venser, Shaper Savant
+1 Underground Sea
+1 Animate Dead
+1 Profane Command
+1 Baleful Strix
+1 Drana, Liberator of Malakir
+1 True-Name Nemesis
+1 Solemn Simulacrum
+1 Reanimate
+1 Damnation
+1 Languish
+1 Phantasmal Image
+1 Brainstorm
+1 Mana Leak
+1 Toxic Deluge
+1 Forbid
+1 Engineered Explosives
+6 Island
+6 Swamp
+
+1 Tarmogoyf
+1 Custodi Lich
+1 Imperial Recruiter
+1 Experiment One
+1 Dack Fayden
+1 Swords to Plowshares
+1 Windswept Heath
+1 Terramorphic Expanse
+1 Bloodghast
+1 Sensei's Divining Top
+1 Armageddon
+1 Warden of the First Tree
+1 Smokestack
+1 Student of Warfare
+1 Tezzeret the Seeker
+1 Dryad Militant

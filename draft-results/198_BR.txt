@@ -1,0 +1,57 @@
+DeckId: 198
+Pilot: 32
+Date: 2017-02-17
+Colors: BR
+Labels:
+Match Record: 2-1
+Game Record: 5-3
+vs. 202: 2-0
+vs. 200: 2-1
+vs. 199: 1-2
+
+1 Prismatic Lens
+1 Mana Confluence
+1 Daretti, Scrap Savant
+1 Grim Monolith
+1 Burning of Xinye
+1 Sneak Attack
+1 Wildfire
+1 Burst Lightning
+1 Blood Crypt
+1 Duress
+1 Lightning Bolt
+1 Mind Stone
+1 Demonic Tutor
+1 Badlands
+1 Grim Lavamancer
+1 Toxic Deluge
+1 Daretti, Ingenious Iconoclast
+1 Pithing Needle
+1 Ancient Tomb
+1 Ratchet Bomb
+1 Everflowing Chalice
+1 Sundering Titan
+1 Pack Rat
+1 Chandra, Torch of Defiance
+1 Scalding Tarn
+1 Ophiomancer
+1 Goblin Welder
+1 Rolling Earthquake
+5 Swamp
+7 Mountain
+
+1 Soldier of the Pantheon
+1 Mardu Woe-Reaper
+1 Wickerbough Elder
+1 Treetop Village
+1 Bayou
+1 Vampiric Tutor
+1 Sorin, Lord of Innistrad
+1 Coldsteel Heart
+1 Incinerate
+1 Drana, Liberator of Malakir
+1 Jackal Pup
+1 Armageddon
+1 Falkenrath Gorger
+1 Yasova Dragonclaw
+1 Ral Zarek

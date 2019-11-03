@@ -1,0 +1,59 @@
+DeckId: 145
+Pilot: 20
+Date: 2016-03-22
+Colors: Gwr
+Labels: 
+Match Record: 1-2
+Game Record: 3-4
+vs. 147: 1-2
+vs. 146: 0-2
+vs. 150: 2-0
+
+1 Balance
+1 Ravages of War
+1 Catastrophe
+1 Greater Gargadon
+1 Arbor Elf
+1 Birds of Paradise
+1 Elvish Mystic
+1 Joraga Treespeaker
+1 Noble Hierarch
+1 Lotus Cobra
+1 Sakura-Tribe Elder
+1 Scavenging Ooze
+1 Tarmogoyf
+1 Acidic Slime
+1 Titania, Protector of Argoth
+1 Edge of Autumn
+1 Life from the Loam
+1 Garruk Wildspeaker
+1 Plow Under
+1 Evolving Wilds
+1 Gemstone Mine
+1 Mox Diamond
+1 Strip Mine
+1 Winter Orb
+1 Crucible of Worlds
+1 Worn Powerstone
+1 Smokestack
+2 Plains
+1 Mountain
+10 Forest
+
+1 Imposing Sovereign
+1 Council's Judgment
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Experiment One
+1 Sylvan Advocate
+1 Wild Mongrel
+1 Thrun, the Last Troll
+1 Green Sun's Zenith
+1 Treetop Village
+1 Rancor
+1 Evolutionary Leap
+1 Kiora, the Crashing Wave
+1 Sarkhan Vol
+1 Overgrown Tomb
+1 Scalding Tarn
+1 Verdant Catacombs

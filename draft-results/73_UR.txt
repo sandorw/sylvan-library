@@ -1,0 +1,58 @@
+DeckId: 73
+Pilot: 17
+Date: 2014-11-13
+Colors: UR
+Labels: 
+Match Record: 0-2
+Game Record: 1-4
+vs. 71: 1-2
+vs. 72: 0-2
+
+1 Looter Il-Kor
+1 Phantasmal Image
+1 Kira, Great Glass-Spinner
+1 Vendilion Clique
+1 Dungeon Geists
+1 Glen Elendra Archmage
+1 Talrand, Sky Summoner
+1 Venser, Shaper Savant
+1 Meloku, the Clouded Mirror
+1 Mana Leak
+1 Miscalculation
+1 Deep Analysis
+1 Greater Gargadon
+1 Chandra's Phoenix
+1 Lightning Bolt
+1 Magma Jet
+1 Arc Lightning
+1 Flames of the Firebrand
+1 Chandra, Pyromaster
+1 Koth of the Hammer
+1 Dack Fayden
+1 Solemn Simulacrum
+1 Mutavault
+1 Terramorphic Expanse
+1 Tangle Wire
+8 Island
+7 Mountain
+
+1 Catastrophe
+1 Enclave Cryptologist
+1 Phyrexian Metamorph
+1 Force of Will
+1 Brainstorm
+1 Upheaval
+1 Vampire Nighthawk
+1 Tombstalker
+1 Dark Ritual
+1 Hellspark Elemental
+1 Stormblood Berserker
+1 Avalanche Riders
+1 Hellrider
+1 Pillage
+1 Sulfuric Vortex
+1 Worldly Tutor
+1 Curse of Predation
+1 Rakdos Cackler
+1 Geist of Saint Traft
+1 Cursed Scroll

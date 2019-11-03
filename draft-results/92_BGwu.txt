@@ -1,0 +1,59 @@
+DeckId: 92
+Pilot: 4
+Date: 2015-03-26
+Colors: BGwu
+Labels: 
+Match Record: 0-3
+Game Record: 2-6
+vs. 94: 1-2
+vs. 93: 1-2
+vs. 91: 0-2
+
+1 Dark Confidant
+1 Oona's Prowler
+1 Flesh Carver
+1 Master of the Feast
+1 Ophiomancer
+1 Nekrataal
+1 Tombstalker
+1 Profane Command
+1 Duress
+1 Dance of the Dead
+1 Diabolic Edict
+1 Necromancy
+1 Recurring Nightmare
+1 Consuming Vapors
+1 Snuff Out
+1 Courser of Kruphix
+1 Reclamation Sage
+1 Vorapede
+1 Woodfall Primus
+1 Warden of the First Tree
+1 Lotleth Troll
+1 Sphinx of the Steel Wind
+1 Phyrexian Revoker
+1 Evolving Wilds
+1 Terramorphic Expanse
+1 Verdant Catacombs
+7 Swamp
+7 Forest
+
+1 Stoneforge Mystic
+1 Cloudgoat Ranger
+1 Enclave Cryptologist
+1 Dungeon Geists
+1 Sower of Temptation
+1 Mystical Tutor
+1 Carnophage
+1 Sarcomancy
+1 Zurgo Bellstriker
+1 War-Name Aspirant
+1 Hellrider
+1 Inferno Titan
+1 Searing Spear
+1 Wildfire
+1 Lotus Cobra
+1 Wall of Roots
+1 Deranged Hermit
+1 Rakdos Cackler
+1 Engineered Explosives

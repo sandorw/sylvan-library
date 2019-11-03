@@ -1,0 +1,59 @@
+DeckId: 91
+Pilot: 2
+Date: 2015-03-26
+Colors: Uw
+Labels: 
+Match Record: 2-1
+Game Record: 5-3
+vs. 93: 2-1
+vs. 94: 1-2
+vs. 92: 2-0
+
+1 Monastery Mentor
+1 Faith's Fetters
+1 Wrath of God
+1 Gideon Jura
+1 Phyrexian Metamorph
+1 Aetherling
+1 Force of Will
+1 Brainstorm
+1 Preordain
+1 Counterspell
+1 Miscalculation
+1 Remand
+1 Forbid
+1 Thirst for Knowledge
+1 Cryptic Command
+1 Tezzeret the Seeker
+1 Solemn Simulacrum
+1 Flooded Strand
+1 Marsh Flats
+1 Polluted Delta
+1 Mana Vault
+1 Sensei's Divining Top
+1 Coldsteel Heart
+1 Grim Monolith
+1 Scroll Rack
+1 Coalition Relic
+6 Plains
+8 Island
+
+1 Blade Splicer
+1 Mana Tithe
+1 Tinker
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Grave Titan
+1 Inquisition of Kozilek
+1 Hymn to Tourach
+1 Damnation
+1 Firebolt
+1 Sneak Attack
+1 Burning of Xinye
+1 Master of the Wild Hunt
+1 Regrowth
+1 Figure of Destiny
+1 Chrome Mox
+1 Mutavault
+1 Rishadan Port
+1 Pithing Needle

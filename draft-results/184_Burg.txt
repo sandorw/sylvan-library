@@ -1,0 +1,61 @@
+DeckId: 184
+Pilot: 9
+Date: 2017-01-17
+Colors: Burg
+Labels: 
+Match Record: 2-1
+Game Record: 4-3
+vs. 183: 2-1
+vs. 187: 2-0
+vs. 188: 0-2
+
+1 Condescend
+1 Show and Tell
+1 Thirst for Knowledge
+1 Deep Analysis
+1 Dig Through Time
+1 Griselbrand
+1 Duress
+1 Reanimate
+1 Vampiric Tutor
+1 Exhume
+1 Dismember
+1 Hero's Downfall
+1 Recurring Nightmare
+1 Toxic Deluge
+1 Languish
+1 Snuff Out
+1 Inferno Titan
+1 Wheel of Fortune
+1 Sneak Attack
+1 Hornet Queen
+1 Oath of Druids
+1 Regrowth
+1 Dragonlord Atarka
+1 Gemstone Mine
+1 Grand Coliseum
+4 Island
+7 Swamp
+2 Mountain
+2 Forest
+
+1 Stoneforge Mystic
+1 Porcelain Legionaire
+1 Enlightened Tutor
+1 True-Name Nemesis
+1 Glen Elendra Archmage
+1 Mulldrifter
+1 Diregraf Ghoul
+1 Tormented Hero
+1 Asylum Visitor
+1 Custodi Lich
+1 Bitterblossom
+1 Searing Spear
+1 Llanowar Elves
+1 Fauna Shaman
+1 Baleful Strix
+1 Celestial Colonnade
+1 Godless Shrine
+1 Marsh Flats
+1 Umezawa's Jitte
+1 Sword of Fire and Ice

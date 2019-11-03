@@ -1,0 +1,103 @@
+DeckId: 157
+Pilot: 4
+Date: 2016-06-30
+Colors: WR
+Labels: 
+Match Record: 0-2
+Game Record: 0-4
+vs. 158: 0-2
+vs. 159: 0-2
+
+1 Mardu Woe Reaper
+1 Stoneforge Mystic
+1 Flickerwisp
+1 Porcelain Legionaire
+1 Unexpectedly Absent
+1 Elspeth, Knight-Errant
+1 Parallax Wave
+1 Firedrinker Satyr
+1 Jackal Pup
+1 Hellspark Elemental
+1 Keldon Marauders
+1 Plated Geopede
+1 Goblin Rabblemaster
+1 Flametongue Kavu
+1 Hero of Oxid Ridge
+1 Searing Spear
+1 Rakdos Cackler
+1 Alesha, Who Smiles at Death
+1 Phyrexian Revoker
+1 City of Brass
+1 Gemstone Mine
+1 Mana Confluence
+1 Mutavault
+1 Umezawa's Jitte
+1 Sword of War and Peace
+1 Tangle Wire
+1 Batterskull
+6 Plains
+7 Mountain
+
+1 Monastery Mentor
+1 Land Tax
+1 Jace, Vryn's Prodigy
+1 Phantasmal Image
+1 Serendib Efreet
+1 Venser, Shaper Savant
+1 Whirler Rogue
+1 Condescend
+1 Daze
+1 Mana Leak
+1 Memory Lapse
+1 Miscalculation
+1 Remand
+1 Jace, the Mind Sculptor
+1 Tezzeret the Seeker
+1 Nezumi Graverobber
+1 Liliana, Heretical Healer
+1 Mardu Strike Leader
+1 Grave Titan
+1 Volrath's Stronghold
+1 Sarcomancy
+1 Animate Dead
+1 Diabolic Edict
+1 Dismember
+1 Hero's Downfall
+1 Toxic Deluge
+1 Languish
+1 Snuff Out
+1 Chain Lightning
+1 Rolling Earthquake
+1 Arc Trail
+1 Experiment One
+1 Sakura-Tribe Elder
+1 Sylvan Advocate
+1 Eternal Witness
+1 Yavimaya Elder
+1 Deranged Hermit
+1 Woodfall Primus
+1 Treetop Village
+1 Oath of Nissa
+1 Life from the Loam
+1 Lotleth Troll
+1 Geist of Saint Traft
+1 Trygon Predator
+1 Duskmantle Seer
+1 Sphinx of the Steel Wind
+1 Kiora, the Crashing Wave
+1 Tezzeret, Agent of Bolas
+1 Solemn Simulacrum
+1 Reality Smasher
+1 Wurmcoil Engine
+1 Kozilek, the Great Distortion
+1 Creeping Tar Pit
+1 Hallowed Fountain
+1 Overgrown Tomb
+1 Tendo Ice Bridge
+1 Wasteland
+1 Coldsteel Heart
+1 Mind Stone
+1 Ratchet Bomb
+1 Scroll Rack
+1 Grafted Wargear
+1 Mimic Vat

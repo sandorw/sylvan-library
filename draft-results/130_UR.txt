@@ -1,0 +1,60 @@
+DeckId: 130
+Pilot: 1
+Date: 2016-01-12
+Colors: UR
+Labels: 
+Match Record: 2-0
+Game Record: 4-0
+vs. 136: 2-0
+vs. 134: 2-0
+
+1 Looter Il-Kor
+1 Man-o'-War
+1 Vendilion Clique
+1 Dungeon Geists
+1 Sower of Temptation
+1 Condescend
+1 Force of Will
+1 Force Spike
+1 Preordain
+1 Daze
+1 Memory Lapse
+1 Remand
+1 Cryptic Command
+1 Grim Lavamancer
+1 Young Pyromancer
+1 Thundermaw Hellkite
+1 Burst Lightning
+1 Firebolt
+1 Lightning Bolt
+1 Arc Trail
+1 Flames of the Firebrand
+1 Sarkhan, the Dragonspeaker
+1 Ral Zarek
+1 Mana Confluence
+1 Rishadan Port
+1 Scalding Tarn
+1 Steam Vents
+1 Sword of Fire and Ice
+7 Island
+5 Mountain
+
+1 Thalia, Guardian of Thraben
+1 Meloku, the Clouded Mirror
+1 Ponder
+1 Into the Roil
+1 Miscalculation
+1 Deep Analysis
+1 Jace, the Mind Sculptor
+1 Braids, Cabal Minion
+1 Volrath's Stronghold
+1 Manic Vandal
+1 Squee, Goblin Nabob
+1 Inferno Titan
+1 Yasova Dragonclaw
+1 Wickerbough Elder
+1 Edric, Spymaster of Trest
+1 Geist of Saint Traft
+1 Dack Fayden
+1 Ajani Vengeant
+1 Phyrexian Revoker

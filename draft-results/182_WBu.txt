@@ -1,0 +1,59 @@
+DeckId: 182
+Pilot: 4
+Date: 2017-01-17
+Colors: WBu
+Labels: 
+Match Record: 0-3
+Game Record: 1-6
+vs. 188: 0-2
+vs. 186: 0-2
+vs. 183: 1-2
+
+1 Baneslayer Angel
+1 Path to Exile
+1 Council's Judgment
+1 Oblivion Ring
+1 Day of Judgment
+1 Wrath of God
+1 Gideon Jura
+1 Phyrexian Metamorph
+1 Dark Confidant
+1 Ophiomancer
+1 Skinrender
+1 Mind Twist
+1 Thoughtseize
+1 Diabolic Edict
+1 Necromancy
+1 Damnation
+1 Lingering Souls
+1 Vindicate
+1 Phyrexian Revoker
+1 Wurmcoil Engine
+1 Strip Mine
+1 Wasteland
+1 Cursed Scroll
+1 Pithing Needle
+1 Crucible of Worlds
+8 Plains
+7 Swamp
+
+1 Disenchant
+1 Serendib Efreet
+1 Preordain
+1 Jace Beleren
+1 Carnophage
+1 Gravecrawler
+1 Oona's Prowler
+1 Scrapheap Scrounger
+1 Braids, Cabal Minion
+1 Firedrinker Satyr
+1 Lightning Mauler
+1 Smash to Smithereens
+1 Deranged Hermit
+1 Oath of Nissa
+1 Cultivate
+1 Garruk Wildspeaker
+1 Figure of Destiny
+1 Sphinx of the Steel Wind
+1 Overgrown Tomb
+1 Smokestack

@@ -1,0 +1,59 @@
+DeckId: 147
+Pilot: 9
+Date: 2016-03-22
+Colors: UB
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 145: 2-1
+vs. 149: 2-0
+vs. 143: 2-0
+
+1 Dimensional Infiltrator
+1 Looter Il-Kor
+1 Phantasmal Image
+1 Snapcaster Mage
+1 Serendib Efreet
+1 Vendilion Clique
+1 Glen Elendra Archmage
+1 Condescend
+1 Force of Will
+1 Arcane Denial
+1 Daze
+1 Mana Leak
+1 Memory Lapse
+1 Miscalculation
+1 Vedalken Shackles
+1 Treachery
+1 Shriekmaw
+1 Bitterblossom
+1 Demonic Tutor
+1 Snuff Out
+1 Baleful Strix
+1 Duskmantle Seer
+1 Tasigur, the Golden Fang
+1 Creeping Tar Pit
+10 Island
+6 Swamp
+
+1 Thalia, Guardian of Thraben
+1 Monastery Mentor
+1 Reveillark
+1 Man-o'-War
+1 Venser, Shaper Savant
+1 Jace Beleren
+1 Thirst for Knowledge
+1 Deep Analysis
+1 Mystic Confluence
+1 Tezzeret the Seeker
+1 Gravecrawler
+1 Bloodghast
+1 Duress
+1 Incinerate
+1 Hornet Queen
+1 Grand Coliseum
+1 Rishadan Port
+1 Pithing Needle
+1 Ratchet Bomb
+1 Grafted Wargear
+1 Sword of War and Peace

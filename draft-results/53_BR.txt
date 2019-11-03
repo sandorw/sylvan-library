@@ -1,0 +1,60 @@
+DeckId: 53
+Pilot: 1
+Date: 2014-05-15
+Colors: BR
+Labels: 
+Match Record: 3-1
+Game Record: 6-4
+vs. 59: 2-0
+vs. 57: 0-2
+vs. 55: 2-1
+vs. 58: 2-1
+
+1 Carnophage
+1 Carrion Feeder
+1 Gnarled Scarhide
+1 Gravecrawler
+1 Blood Scriviner
+1 Nezumi Graverobber
+1 Oona's Prowler
+1 Master of the Feast
+1 Ophiomancer
+1 Duress
+1 Hymn to Tourach
+1 Dismember
+1 Firedrinker Satyr
+1 Jackal Pup
+1 Ash Zealot
+1 Stormblood Berserker
+1 Fire Imp
+1 Hellrider
+1 Hero of Oxid Ridge
+1 Arc Trail
+1 Sulfuric Vortex
+1 Figure of Destiny
+1 Arid Mesa
+1 Blood Crypt
+1 Lavaclaw Reaches
+1 Mana Confluence
+1 Marsh Flats
+1 Scalding Tarn
+1 Wasteland
+1 Bonesplitter
+1 Tangle Wire
+5 Swamp
+4 Mountain
+
+1 Day of Judgment
+1 Force Spike
+1 Miscalculation
+1 Braids, Cabal Minion
+1 Tombstalker
+1 Smallpox
+1 Curse of Shallow Graves
+1 Consuming Vapors
+1 Avalanche Riders
+1 Molten Rain
+1 Boros Charm
+1 Masticore
+1 Clifftop Retreat
+1 Pithing Needle

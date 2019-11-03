@@ -1,0 +1,108 @@
+DeckId: 181
+Pilot: 1
+Date: 2016-11-09
+Colors: WR
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 178: 2-0
+vs. 180: 2-1
+vs. 179: 2-0
+
+1 Dragon Hunter
+1 Kytheon, Heros of Akros
+1 Soldier of the Pantheon
+1 Brimaz, King of Oreskos
+1 Mirror Entity
+1 Thalia, Heretic Cathar
+1 Swords to Plowshares
+1 Elspeth, Knight-Errant
+1 Firedrinker Satyr
+1 Grim Lavamancer
+1 Zurgo Bellstriker
+1 Lightning Mauler
+1 Thundermaw Hellkite
+1 Chain Lightning
+1 Lightning Bolt
+1 Magma Jet
+1 Smash to Smithereens
+1 Arc Lightning
+1 Char
+1 Flames of the Firebrand
+1 Chandra, Torch of Defiance
+1 Alesha, Who Smiles at Death
+1 Ajani Vengeant
+1 Phyrexian Revoker
+1 Arid Mesa
+1 Flooded Strand
+1 Grand Coliseum
+1 Mutavault
+6 Plains
+7 Mountain
+
+1 Wall of Omens
+1 Reveillark
+1 Enlightened Tutor
+1 Land Tax
+1 Phantasmal Image
+1 Snapcaster Mage
+1 Thassa, God of the Sea
+1 True-Name Nemesis
+1 Phyrexian Metamorph
+1 Venser, Shaper Savant
+1 Force Spike
+1 Ponder
+1 Arcane Denial
+1 Memory Lapse
+1 Remand
+1 Crystal Shard
+1 Forbid
+1 Jace Beleren
+1 Opposition
+1 Tezzeret the Seeker
+1 Bloodghast
+1 Heir of Falkenrath
+1 Pack Rat
+1 Liliana, Heretical Healer
+1 Ophiomancer
+1 Volrath's Stronghold
+1 Inquisition of Kozilek
+1 Vampiric Tutor
+1 Bitterblossom
+1 Sinkhole
+1 Necromancy
+1 Languish
+1 Snuff Out
+1 Faithless Looting
+1 Daretti, Scrap Savant
+1 Birds of Paradise
+1 Experiment One
+1 Fyndhorn Elves
+1 Sylvan Advocate
+1 Green Sun's Zenith
+1 Rancor
+1 Regrowth
+1 Survival of the Fittest
+1 Cultivate
+1 Song of the Dryads
+1 Plow Under
+1 Geist of Saint Traft
+1 Knight of the Reliquary
+1 Trygon Predator
+1 Bloodbraid Elf
+1 Dragonlord Atarka
+1 Maelstrom Pulse
+1 Tezzeret, Agent of Bolas
+1 Ancient Tomb
+1 Breeding Pool
+1 Creeping Tar Pit
+1 Hallowed Fountain
+1 Lavaclaw Reaches
+1 Lumbering Falls
+1 Shambling Vent
+1 Verdant Catacombs
+1 Watery Grave
+1 Sensei's Divining Top
+1 Grim Monolith
+1 Scroll Rack
+1 Smokestack

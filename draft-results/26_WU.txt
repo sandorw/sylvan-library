@@ -1,0 +1,58 @@
+DeckId: 26
+Pilot: 4
+Date: 2013-12-21
+Colors: WU
+Labels: 
+Match Record: 0-2
+Game Record: 2-4
+vs. 28: 1-2
+vs. 27: 1-2
+
+1 Savannah Lions
+1 Imposing Sovereign
+1 Kor Skyfisher
+1 Blade Splicer
+1 Flickerwisp
+1 Soltari Champion
+1 Hero of Bladehold
+1 Harm's Way
+1 Ajani Goldmane
+1 Parallax Wave
+1 Spectral Procession
+1 Man-o'-War
+1 Thassa, God of the Sea
+1 Dungeon Geists
+1 Phyrexian Metamorph
+1 Sower of Temptation
+1 Talrand, Sky Summoner
+1 Meloku, the Clouded Mirror
+1 Ponder
+1 Vedalken Shackles
+1 Wurmcoil Engine
+1 Everflowing Chalice
+1 Hallowed Fountain
+9 Plains
+8 Island
+
+1 Catastrophe
+1 Time Spiral
+1 Carrion Feeder
+1 Tormented Hero
+1 Sarcomancy
+1 Earthquake
+1 Incinerate
+1 Jungle Lion
+1 Boon Satyr
+1 Yavimaya Elder
+1 Phantom Centaur
+1 Sylvan Library
+1 Cultivate
+1 Wild Nacatl
+1 Edric, Spymaster of Trest
+1 Knight of the Reliquary
+1 Sacred Foundry
+1 Scalding Tarn
+1 Temple Garden
+1 Ankh of Mishra
+1 Grim Monolith
+1 Talisman of Progress

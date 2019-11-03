@@ -1,0 +1,58 @@
+DeckId: 219
+Pilot: 3
+Date: 2017-04-25
+Colors: WU
+Labels:
+Match Record: 2-1
+Game Record: 5-4
+vs. 223: 2-1
+vs. 221: 2-1
+vs. 220: 1-2
+
+1 Vendilion Clique
+1 Kytheon, Hero of Akros
+1 Waterfront Bouncer
+1 Man-o'-War
+1 Brimaz, King of Oreskos
+1 Isamaru, Hound of Konda
+1 Control Magic
+1 Celestial Colonnade
+1 Geist of Saint Traft
+1 Thalia, Heretic Cathar
+1 Sower of Temptation
+1 Opposition
+1 Soldier of the Pantheon
+1 Porcelain Legionnaire
+1 Force of Will
+1 Force Spike
+1 Cryptic Command
+1 Mana Tithe
+1 Accorder Paladin
+1 Reflector Mage
+1 Whirler Rogue
+1 Flooded Strand
+1 Council's Judgment
+1 Hallowed Spiritkeeper
+1 Chrome Mox
+1 Selfless Spirit
+6 Plains
+8 Island
+
+1 Goblin Guide
+1 Flametongue Kavu
+1 Wickerbough Elder
+1 Everflowing Chalice
+1 Looter il-Kor
+1 Tinker
+1 Aetherling
+1 Sun Titan
+1 Meloku the Clouded Mirror
+1 Fact or Fiction
+1 Bonesplitter
+1 Arc Trail
+1 Ral Zarek
+1 Rancor
+1 Horizon Canopy
+1 Flesh Carver
+1 Wooded Foothills
+1 Bloodbraid Elf

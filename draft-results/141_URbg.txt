@@ -1,0 +1,60 @@
+DeckId: 141
+Pilot: 2
+Date: 2016-02-17
+Colors: URbg
+Labels: 
+Match Record: 2-1
+Game Record: 5-2
+vs. 138: 2-0
+vs. 140: 2-0
+vs. 142: 1-2
+
+1 Looter Il-Kor
+1 Waterfront Bouncer
+1 Sower of Temptation
+1 Mulldrifter
+1 Brainstorm
+1 Impulse
+1 Vampiric Tutor
+1 Recurring Nightmare
+1 Fire Imp
+1 Manic Vandal
+1 Flametongue Kavu
+1 Sneak Attack
+1 Eternal Witness
+1 Acidic Slime
+1 Woodfall Primus
+1 Regrowth
+1 Survival of the Fittest
+1 Baleful Strix
+1 Dack Fayden
+1 Kolaghan's Command
+1 Myr Battlesphere
+1 Sundering Titan
+1 Creeping Tar Pit
+1 Grand Coliseum
+1 Raging Ravine
+1 Stomping Ground
+1 Terramorphic Expanse
+1 Verdant Catacombs
+1 Wooded Foothill
+1 Skullclamp
+4 Island
+1 Swamp
+2 Mountain
+3 Forest
+
+1 Serendib Efreet
+1 Force of Will
+1 Mystical Tutor
+1 Oona's Prowler
+1 Nekrataal
+1 Arc Trail
+1 Searing Spear
+1 Smash to Smithereens
+1 Char
+1 Burning of Xinye
+1 Life from the Loam
+1 Cultivate
+1 Trygon Predator
+1 Strip Mine

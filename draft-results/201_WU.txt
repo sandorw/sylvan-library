@@ -1,0 +1,57 @@
+DeckId: 201
+Pilot: 25
+Date: 2017-02-21
+Colors: WU
+Labels:
+Match Record: 1-2
+Game Record: 3-4
+vs. 199: 0-2
+vs. 202: 1-2
+vs. 200: 2-0
+
+1 Mystic Confluence
+1 Miscalculation
+1 Preordain
+1 City of Brass
+1 Thalia, Heretic Cathar
+1 Sword of Body and Mind
+1 Reflector Mage
+1 Jace Beleren
+1 Monastery Mentor
+1 Kytheon, Hero of Akros
+1 Flooded Strand
+1 Snapcaster Mage
+1 Phyrexian Revoker
+1 Wrath of God
+1 Cryptic Command
+1 Restoration Angel
+1 Sensei's Divining Top
+1 Wall of Omens
+1 Opposition
+1 True-Name Nemesis
+1 Phyrexian Metamorph
+1 Maze of Ith
+1 Student of Warfare
+1 Day of Judgment
+1 Looter Il-Kor
+6 Plains
+9 Island
+
+1 Tinker
+1 Chain Lightning
+1 Young Pyromancer
+1 Dack Fayden
+1 Show and Tell
+1 Wild Nacatl
+1 Watery Grave
+1 Oath of Nissa
+1 Greater Gargadon
+1 Searing Spear
+1 Alesha, Who Smiles at Death
+1 Sacred Foundry
+1 Disenchant
+1 Diabolic Edict
+1 Dryad Militant
+1 Hellrider
+1 Ulamog, the Ceaseless Hunger
+1 Plow Under

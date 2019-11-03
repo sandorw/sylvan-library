@@ -1,0 +1,58 @@
+DeckId: 61
+Pilot: 18
+Date: 2014-06-12
+Colors: WGr
+Labels: 
+Match Record: 0-2
+Game Record: 1-4
+vs. 63: 0-2
+vs. 60: 1-2
+
+1 Savannah Lions
+1 Imposing Sovereign
+1 Lone Missionary
+1 Wall of Omens
+1 Flickerwisp
+1 Cloudgoat Ranger
+1 Oblivion Ring
+1 Parallax Wave
+1 Experiment One
+1 Jungle Lion
+1 Strangleroot Geist
+1 Troll Ascetic
+1 Yavimaya Elder
+1 Polukranos, World Eater
+1 Wickerbough Elder
+1 Vorapede
+1 Hornet Queen
+1 Woodfall Primus
+1 Worldly Tutor
+1 Garruk Wildspeaker
+1 Wild Nacatl
+1 Everflowing Chalice
+1 Mana Confluence
+1 Mishra's Factory
+1 Windswept Heath
+1 Mimic Vat
+6 Plains
+8 Forest
+
+1 Day of Judgment
+1 Catastrophe
+1 Looter Il-Kor
+1 Forbid
+1 Vedalken Shackles
+1 Cryptic Command
+1 Profane Command
+1 Dark Ritual
+1 Diabolic Edict
+1 Smallpox
+1 Guttersnipe
+1 Wildfire
+1 Life from the Loam
+1 Murderous Redcap
+1 Cogwork Librarian
+1 Masticore
+1 Sundering Titan
+1 Godless Shrine
+1 Crucible of Worlds

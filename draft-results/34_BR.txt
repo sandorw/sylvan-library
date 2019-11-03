@@ -1,0 +1,57 @@
+DeckId: 34
+Pilot: 4
+Date: 2014-01-17
+Colors: BR
+Labels: 
+Match Record: 1-1
+Game Record: 3-3
+vs. 31: 1-2
+vs. 32: 2-1
+
+1 Pack Rat
+1 Tombstalker
+1 Profane Command
+1 Duress
+1 Thoughtseize
+1 Curse of Shallow Graves
+1 Hero's Downfall
+1 Goblin Guide
+1 Spikeshot Elder
+1 Stormblood Berserker
+1 Chandra's Phoenix
+1 Manic Vandal
+1 Flametongue Kavu
+1 Inferno Titan
+1 Faithless Looting
+1 Firebolt
+1 Arc Trail
+1 Incinerate
+1 Searing Spear
+1 Koth of the Hammer
+1 Rakdos Cackler
+1 Falkenrath Aristocrat
+1 Dreadbore
+1 Reflecting Pool
+8 Swamp
+8 Mountain
+
+1 Spear of Heliod
+1 Kira, Great Glass-Spinner
+1 Talrand, Sky Summoner
+1 Meloku, the Clouded Mirror
+1 Ponder
+1 Volrath's Stronghold
+1 Consuming Vapors
+1 Squee, Goblin Nabob
+1 Siege-Gang Commander
+1 Staggershock
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Master of the Wild Hunt
+1 Garruk, Primal Hunter
+1 Ral Zarek
+1 Sarkhan Vol
+1 Raging Ravine
+1 Woodland Cemetary
+1 Crucible of Worlds
+1 Sword of Light and Shadow

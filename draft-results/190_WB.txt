@@ -1,0 +1,58 @@
+DeckId: 190
+Pilot: 16
+Date: 2017-01-31
+Colors: WB
+Labels:
+Match Record: 0-3
+Game Record: 1-6
+vs. 196: 0-2
+vs. 193: 1-2
+vs. 191: 0-2
+
+1 Imposing Sovereign
+1 Mirror Entity
+1 Exhume
+1 Recurring Nightmare
+1 Catastrophe
+1 Armageddon
+1 Student of Warfare
+1 Braids, Cabal Minion
+1 Kytheon, Hero of Akros
+1 Swords to Plowshares
+1 Gravecrawler
+1 Demonic Tutor
+1 Crucible of Worlds
+1 Ulamog, the Ceaseless Hunger
+1 Mother of Runes
+1 Sun Titan
+1 Volrath's Stronghold
+1 Damnation
+1 Wrath of God
+1 Asylum Visitor
+1 Tormented Hero
+1 Kalitas, Traitor of Ghet
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Lingering Souls
+8 Plains
+7 Swamp
+
+1 Baleful Strix
+1 Reflector Mage
+1 Sphinx of the Steel Wind
+1 Meloku the Clouded Mirror
+1 Whirler Rogue
+1 Tezzeret, Agent of Bolas
+1 Force of Will
+1 Remand
+1 Brainstorm
+1 Jace, Vryn's Prodigy
+1 Kalonian Hydra
+1 Regrowth
+1 Faithless Looting
+1 Arc Lightning
+1 Unexpectedly Absent
+1 Vedalken Shackles
+1 Hallowed Fountain
+1 Celestial Colonnade
+1 Underground Sea

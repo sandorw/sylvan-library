@@ -1,0 +1,58 @@
+DeckId: 122
+Pilot: 10
+Date: 2015-11-05
+Colors: WR
+Labels: 
+Match Record: 2-0
+Game Record: 4-2
+vs. 125: 2-1
+vs. 123: 2-1
+
+1 Soltari Champion
+1 Reveillark
+1 Sun Titan
+1 Mana Tithe
+1 Swords to Plowshares
+1 Disenchant
+1 Oblivion Ring
+1 Faith's Fetters
+1 Wrath of God
+1 Gideon Jura
+1 Catastrophe
+1 Siege-Gang Commander
+1 Incinerate
+1 Arc Lightning
+1 Char
+1 Koth of the Hammer
+1 Sarkhan, the Dragonspeaker
+1 Wildfire
+1 Ajani Vengeant
+1 Battlefield Forge
+1 Everflowing Chalice
+1 Mind Stone
+1 Crucible of Worlds
+1 Nevinyrral's Disk
+10 Plains
+6 Mountain
+
+1 Dragon Hunter
+1 Student of Warfare
+1 Flickerwisp
+1 Monastery Mentor
+1 Exalted Angel
+1 Cloudgoat Ranger
+1 Unexpectedly Absent
+1 Spectral Procession
+1 Jace Beleren
+1 Cryptic Command
+1 Zurgo Bellstriker
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Figure of Destiny
+1 Geist of Saint Traft
+1 Vindicate
+1 Ral Zarek
+1 Venser, the Sojourner
+1 Celestial Colonnade
+1 Scalding Tarn
+1 Temple Garden

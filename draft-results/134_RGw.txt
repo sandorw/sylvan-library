@@ -1,0 +1,54 @@
+DeckId: 134
+Pilot: 5
+Date: 2016-01-12
+Colors: RGw
+Labels: 
+Match Record: 0-2
+Game Record: 1-4
+vs. 131: 1-2
+vs. 130: 0-2
+
+1 Goblin Glory Chaser
+1 Goblin Guide
+1 Jackal Pup
+1 Hellspark Elemental
+1 Plated Geopede
+1 War-Name Aspirant
+1 Flametongue Kavu
+1 Chain Lightning
+1 Faithless Looting
+1 Arc Lightning
+1 Koth of the Hammer
+1 Experiment One
+1 Jungle Lion
+1 Wolfbitten Captive
+1 Scavenging Ooze
+1 Strangleroot Geist
+1 Tarmogoyf
+1 Curse of Predation
+1 Tattermunge Maniac
+1 Wild Nacatl
+1 Bloodbraid Elf
+1 Huntmaster of the Fells
+1 Evolving Wilds
+1 Stomping Ground
+1 Strip Mine
+1 Wooded Foothill
+1 Bonesplitter
+1 Sword of War and Peace
+7 Mountain
+5 Forest
+
+1 Crystal Shard
+1 Bloodsoaked Champion
+1 Blood Scriviner
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Malicious Affliction
+1 Liliana of the Veil
+1 Reclamation Sage
+1 Garruk Relentless
+1 Maelstrom Pulse
+1 Grand Coliseum
+1 Hallowed Fountain
+1 Mimic Vat

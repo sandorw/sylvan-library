@@ -1,0 +1,59 @@
+DeckId: 93
+Pilot: 3
+Date: 2015-03-26
+Colors: Wb
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 91: 1-2
+vs. 92: 2-1
+vs. 94: 0-2
+
+1 Dragon Hunter
+1 Elite Vanguard
+1 Isamaru, Hound of Konda
+1 Mardu Woe Reaper
+1 Soldier of the Pantheon
+1 Student of Warfare
+1 Accorder Paladin
+1 Kor Skyfisher
+1 Flickerwisp
+1 Hallowed Spiritkeeper
+1 Restoration Angel
+1 Path to Exile
+1 Spear of Heliod
+1 Armageddon
+1 Elspeth, Knight-Errant
+1 Spectral Procession
+1 Dismember
+1 Dryad Militant
+1 Kitchen Finks
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Caves of Koilos
+1 Godless Shrine
+1 Mishra's Factory
+1 Bonesplitter
+1 Sword of Body and Mind
+11 Plains
+3 Swamp
+
+1 Exalted Angel
+1 Enlightened Tutor
+1 Arcane Denial
+1 Nezumi Graverobber
+1 Reanimate
+1 Malicious Affliction
+1 Curse of Shallow Graves
+1 Stromkirk Noble
+1 Hellspark Elemental
+1 Flames of the Firebrand
+1 Jungle Lion
+1 Noble Hierarch
+1 Green Sun's Zenith
+1 Tattermunge Maniac
+1 Maelstrom Pulse
+1 Ancient Tomb
+1 Breeding Pool
+1 Steam Vents
+1 Batterskull

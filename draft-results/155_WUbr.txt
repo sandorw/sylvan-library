@@ -1,0 +1,58 @@
+DeckId: 155
+Pilot: 1
+Date: 2016-06-16
+Colors: WUbr
+Labels: 
+Match Record: 2-1
+Game Record: 4-3
+vs. 152: 2-0
+vs. 156: 2-1
+vs. 153: 0-2
+
+1 Baneslayer Angel
+1 Land Tax
+1 Path to Exile
+1 Balance
+1 Disenchant
+1 Elspeth, Knight-Errant
+1 Wrath of God
+1 Condescend
+1 Miscalculation
+1 Thirst for Knowledge
+1 Jace, the Mind Sculptor
+1 Upheaval
+1 Demonic Tutor
+1 Goblin Welder
+1 Sphinx of the Steel Wind
+1 Detention Sphere
+1 Solemn Simulacrum
+1 Wurmcoil Engine
+1 Myr Battlesphere
+1 Celestial Colonnade
+1 Engineered Explosives
+1 Grand Coliseum
+1 Needle Spires
+1 Polluted Delta
+1 Steam Vents
+1 Wandering Fumarole
+1 Watery Grave
+1 Grim Monolith
+1 Mind Stone
+1 Coalition Relic
+6 Plains
+4 Island
+
+1 Dragon Hunter
+1 Archangel Avacyn
+1 Cryptic Command
+1 Shriekmaw
+1 Volrath's Stronghold
+1 Falkenrath Gorger
+1 Hellspark Elemental
+1 Yavimaya Elder
+1 Primeval Titan
+1 Geist of Saint Traft
+1 Ulamog, the Ceaseless Hunger
+1 Tendo Ice Bridge
+1 Scroll Rack
+1 Tangle Wire

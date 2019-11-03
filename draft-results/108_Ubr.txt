@@ -1,0 +1,60 @@
+DeckId: 108
+Pilot: 2
+Date: 2015-08-13
+Colors: Ubr
+Labels: 
+Match Record: 2-1
+Game Record: 5-4
+vs. 109: 2-1
+vs. 106: 1-2
+vs. 107: 2-1
+
+1 Snapcaster Mage
+1 Glen Elendra Archmage
+1 Venser, Shaper Savant
+1 Mulldrifter
+1 Force of Will
+1 Mystical Tutor
+1 Mana Leak
+1 Vedalken Shackles
+1 Control Magic
+1 Cryptic Command
+1 Fact or Fiction
+1 Demonic Tutor
+1 Toxic Deluge
+1 Damnation
+1 Inferno Titan
+1 Firebolt
+1 Rolling Earthquake
+1 Sarkhan, the Dragonspeaker
+1 Baleful Strix
+1 Solemn Simulacrum
+1 Myr Battlesphere
+1 Bloodstained Mire
+1 Creeping Tar Pit
+1 Polluted Delta
+1 Scalding Tarn
+1 Shivan Reef
+1 Watery Grave
+1 Coldsteel Heart
+1 Mind Stone
+6 Island
+2 Swamp
+3 Mountain
+
+1 Banishing Light
+1 Phantasmal Image
+1 Dungeon Geists
+1 Remand
+1 Jace Beleren
+1 Deep Analysis
+1 Opposition
+1 Bitterblossom
+1 Malicious Affliction
+1 Flametongue Kavu
+1 Searing Spear
+1 Burning of Xinye
+1 Yasova Dragonclaw
+1 Thrun, the Last Troll
+1 Detention Sphere
+1 Mana Vault

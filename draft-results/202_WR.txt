@@ -1,0 +1,58 @@
+DeckId: 202
+Pilot: 3
+Date: 2017-02-21
+Colors: WR
+Labels:
+Match Record: 2-1
+Game Record: 4-3
+vs. 198: 0-2
+vs. 201: 2-1
+vs. 203: 2-0
+
+1 Elspeth, Knight Errant
+1 Inferno Titan
+1 Council's Judgment
+1 Arid Mesa
+1 Pia and Kiran Nalaar
+1 Char
+1 Figure of Destiny
+1 Gideon Jura
+1 Brimaz, King of Oreskos
+1 Sin Prodder
+1 Arc Lightning
+1 Fleetwheel Cruiser
+1 Hallowed Spiritkeeper
+1 Hero of Oxid Ridge
+1 Faithless Looting
+1 Grafted Wargear
+1 Banishing Light
+1 Imposing Sovereign
+1 Thundermaw Hellkite
+1 Wurmcoil Engine
+1 Ajani Vengeant
+1 Baneslayer Angel
+1 Kitchen Finks
+1 Arc Trail
+9 Plains
+7 Mountain
+
+1 Selfless Spirit
+1 Goblin Guide
+1 Stormblood Berserker
+1 Keldon Marauders
+1 Mirror Entity
+1 Kolaghan's Command
+1 Stoneforge Mystic
+1 Enlightened Tutor
+1 Parallax Wave
+1 Treachery
+1 Mulldrifter
+1 Courser of Kruphix
+1 Scroll Rack
+1 Stomping Ground
+1 Abbot of Keral Keep
+1 Firedrinker Satyr
+1 Smash to Smithereens
+1 Smuggler's Copter
+1 Flesh Carver
+1 Tormented Hero

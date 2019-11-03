@@ -1,0 +1,60 @@
+DeckId: 131
+Pilot: 4
+Date: 2016-01-12
+Colors: BG
+Labels: 
+Match Record: 1-1
+Game Record: 3-3
+vs. 134: 2-1
+vs. 132: 1-2
+
+1 Ophiomancer
+1 Shriekmaw
+1 Grave Titan
+1 Tombstalker
+1 Thoughtseize
+1 Diabolic Edict
+1 Hymn to Tourach
+1 Hero's Downfall
+1 Necromancy
+1 Phyrexian Arena
+1 Damnation
+1 Languish
+1 Birds of Paradise
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Courser of Kruphix
+1 Yavimaya Elder
+1 Polukranos, World Eater
+1 Thrun, the Last Troll
+1 Vorapede
+1 Warden of the First Tree
+1 Tasigur, the Golden Fang
+1 Pernicious Deed
+1 Verdant Catacombs
+1 Umezawa's Jitte
+7 Swamp
+8 Forest
+
+1 Mother of Runes
+1 Cloudgoat Ranger
+1 Reveillark
+1 Day of Judgment
+1 Impulse
+1 Forbid
+1 Bloodghast
+1 Drana, Liberator of Malakir
+1 Mardu Strike Leader
+1 Dark Ritual
+1 Inquisition of Kozilek
+1 Dance of the Dead
+1 Toxic Deluge
+1 Goblin Rabblemaster
+1 Hero of Oxid Ridge
+1 Woodfall Primus
+1 Lingering Souls
+1 Creeping Tar Pit
+1 Engineered Explosives
+1 Marsh Flats
+1 Watery Grave
+1 Nevinyrral's Disk

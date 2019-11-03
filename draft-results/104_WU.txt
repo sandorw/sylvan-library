@@ -1,0 +1,57 @@
+DeckId: 104
+Pilot: 4
+Date: 2015-05-28
+Colors: WU
+Labels: 
+Match Record: 0-1
+Game Record: 2-3
+vs. 105: 2-3
+
+1 Brimaz, King of Oreskos
+1 Flickerwisp
+1 Mirror Entity
+1 Exalted Angel
+1 Council's Judgment
+1 Day of Judgment
+1 Enclave Cryptologist
+1 Looter Il-Kor
+1 Mulldrifter
+1 Academy Ruins
+1 Condescend
+1 Force of Will
+1 Preordain
+1 Arcane Denial
+1 Miscalculation
+1 Thirst for Knowledge
+1 Control Magic
+1 Phyrexian Revoker
+1 Sundering Titan
+1 Arid Mesa
+1 Flooded Strand
+1 Hallowed Fountain
+1 Marsh Flats
+1 Misty Rainforest
+1 Wasteland
+1 Pithing Needle
+1 Sensei's Divining Top
+1 Crucible of Worlds
+1 Nevinyrral's Disk
+6 Plains
+6 Island
+
+1 Isamaru, Hound of Konda
+1 Student of Warfare
+1 Dark Confidant
+1 Mardu Strike Leader
+1 Recurring Nightmare
+1 Damnation
+1 Goblin Welder
+1 Feldon of the Third Path
+1 Manic Vandal
+1 Hellrider
+1 Arc Trail
+1 Noble Hierarch
+1 Kitchen Finks
+1 Venser, the Sojourner
+1 Creeping Tar Pit
+1 Sword of Fire and Ice

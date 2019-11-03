@@ -1,0 +1,60 @@
+DeckId: 83
+Pilot: 4
+Date: 2014-12-10
+Colors: WURbg
+Labels: 
+Match Record: 1-1
+Game Record: 2-3
+vs. 84: 0-2
+vs. 85: 2-1
+
+1 Isamaru, Hound of Konda
+1 Mother of Runes
+1 Student of Warfare
+1 Accorder Paladin
+1 Imposing Sovereign
+1 Stoneforge Mystic
+1 Wall of Omens
+1 Porcelain Legionaire
+1 Soltari Champion
+1 Baneslayer Angel
+1 Enlightened Tutor
+1 Spear of Heliod
+1 Faith's Fetters
+1 Parallax Wave
+1 Spectral Procession
+1 Kira, Great Glass-Spinner
+1 Clever Impersonator
+1 Sower of Temptation
+1 Talrand, Sky Summoner
+1 Mana Leak
+1 Control Magic
+1 Cryptic Command
+1 Ophiomancer
+1 Demonic Tutor
+1 Keldon Marauders
+1 Plated Geopede
+1 War-Name Aspirant
+1 Manic Vandal
+1 Pyrewild Shaman
+1 Purphoros, God of the Forge
+1 Lightning Bolt
+1 Incinerate
+1 Arc Lightning
+1 Koth of the Hammer
+1 Jungle Lion
+1 Fauna Shaman
+1 Kalonian Hydra
+1 Worldly Tutor
+1 Natural Order
+1 Ral Zarek
+1 Terramorphic Expanse
+1 Worldknit
+1 Skullclamp
+1 Sword of Fire and Ice
+2 Plains
+5 Island
+8 Swamp
+7 Mountain
+6 Forest
+

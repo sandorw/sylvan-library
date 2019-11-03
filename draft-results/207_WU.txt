@@ -1,0 +1,59 @@
+DeckId: 207
+Pilot: 2
+Date: 2017-03-07
+Colors: WU
+Labels:
+Match Record: 3-0
+Game Record: 6-1
+vs. 210: 2-0
+vs. 209: 2-1
+vs. 208: 2-0
+
+1 Vendilion Clique
+1 Thalia, Guardian of Thraben
+1 Balance
+1 Geist of Saint Traft
+1 Phyrexian Revoker
+1 Mulldrifter
+1 Whirler Rogue
+1 Preordain
+1 Monastery Mentor
+1 Cryptic Command
+1 Memory Lapse
+1 Vedalken Shackles
+1 Opposition
+1 Dig Through Time
+1 Control Magic
+1 Remand
+1 Reveillark
+1 Flooded Strand
+1 Treachery
+1 Umezawa's Jitte
+1 Reflector Mage
+1 Mystic Confluence
+1 Force of Will
+1 Ponder
+6 Plains
+10 Island
+
+1 Wickerbough Elder
+1 Oath of Nissa
+1 Grave Titan
+1 Dismember
+1 Fact or Fiction
+1 Waterfront Bouncer
+1 Enlightened Tutor
+1 Imposing Sovereign
+1 Daze
+1 Disenchant
+1 Cursed Scroll
+1 Birds of Paradise
+1 Tormented Hero
+1 Breeding Pool
+1 Qasali Pridemage
+1 Smokestack
+1 Joraga Treespeaker
+1 Bloodstained Champion
+1 Pia Nalaar
+1 Fleetwheel Cruiser
+1 Faerie Conclave 

@@ -1,0 +1,59 @@
+DeckId: 135
+Pilot: 3
+Date: 2016-01-12
+Colors: W
+Labels: 
+Match Record: 1-1
+Game Record: 2-2
+vs. 136: 0-2
+vs. 133: 2-0
+
+1 Soldier of the Pantheon
+1 Student of Warfare
+1 Flickerwisp
+1 Monastery Mentor
+1 Exalted Angel
+1 Baneslayer Angel
+1 Sun Titan
+1 Path to Exile
+1 Swords to Plowshares
+1 Disenchant
+1 Unexpectedly Absent
+1 Council's Judgment
+1 Elspeth, Knight-Errant
+1 Faith's Fetters
+1 Parallax Wave
+1 Spectral Procession
+1 Gideon Jura
+1 Kitchen Finks
+1 Solemn Simulacrum
+1 Wurmcoil Engine
+1 Skullclamp
+1 Coldsteel Heart
+1 Sword of Body and Mind
+17 Plains
+
+1 Mardu Woe Reaper
+1 Imposing Sovereign
+1 Mirror Entity
+1 Soltari Champion
+1 Land Tax
+1 Mana Tithe
+1 Glen Elendra Archmage
+1 Gnarled Scarhide
+1 Priest of the Blood Rite
+1 Profane Command
+1 Rolling Earthquake
+1 Sneak Attack
+1 Fauna Shaman
+1 Lotus Cobra
+1 Sakura-Tribe Elder
+1 Master of the Wild Hunt
+1 Rancor
+1 Cultivate
+1 Song of the Dryads
+1 Qasali Pridemage
+1 Lotleth Troll
+1 Ratchet Bomb
+1 Winter Orb
+1 Smokestack

@@ -1,0 +1,59 @@
+DeckId: 79
+Pilot: 13
+Date: 2014-12-03
+Colors: BG
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 78: 1-2
+vs. 81: 0-2
+vs. 80: 2-1
+
+1 Shriekmaw
+1 Grave Titan
+1 Reanimate
+1 Dance of the Dead
+1 Demonic Tutor
+1 Toxic Deluge
+1 Damnation
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Llanowar Elves
+1 Noble Hierarch
+1 Fauna Shaman
+1 Reclamation Sage
+1 Acidic Slime
+1 Deranged Hermit
+1 Primeval Titan
+1 Woodfall Primus
+1 Natural Order
+1 Lotleth Troll
+1 Solemn Simulacrum
+1 Wurmcoil Engine
+1 Verdant Catacombs
+1 Chromatic Lantern
+1 Coalition Relic
+6 Swamp
+10 Forest
+
+1 Land Tax
+1 Mana Tithe
+1 Council's Judgment
+1 Gideon Jura
+1 Mulldrifter
+1 Daze
+1 Diregraf Ghoul
+1 Snuff Out
+1 Flames of the Firebrand
+1 Sakura-Tribe Elder
+1 Master of the Wild Hunt
+1 Cultivate
+1 Plow Under
+1 Deal Broker
+1 Chrome Mox
+1 Marsh Flats
+1 Misty Rainforest
+1 Paliano, the High City
+1 Stomping Ground
+1 Wooded Foothill
+1 Yavimaya Coast

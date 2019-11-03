@@ -1,0 +1,59 @@
+DeckId: 125
+Pilot: 6
+Date: 2015-11-05
+Colors: BRg
+Labels: 
+Match Record: 0-2
+Game Record: 1-4
+vs. 119: 0-2
+vs. 122: 1-2
+
+1 Bloodsoaked Champion
+1 Gnarled Scarhide
+1 Gravecrawler
+1 Blood Scriviner
+1 Oona's Prowler
+1 Pack Rat
+1 Drana, Liberator of Malakir
+1 Liliana, Heretical Healer
+1 Mardu Strike Leader
+1 Braids, Cabal Minion
+1 Priest of the Blood Rite
+1 Sarcomancy
+1 Greater Gargadon
+1 Lightning Mauler
+1 War-Name Aspirant
+1 Young Pyromancer
+1 Squee, Goblin Nabob
+1 Rolling Earthquake
+1 Flames of the Firebrand
+1 Tattermunge Maniac
+1 Alesha, Who Smiles at Death
+1 Huntmaster of the Fells
+1 Kolaghan's Command
+1 City of Brass
+1 Raging Ravine
+1 Wooded Foothill
+1 Umezawa's Jitte
+7 Swamp
+5 Mountain
+1 Forest
+
+1 Academy Ruins
+1 Mystical Tutor
+1 Tinker
+1 Vedalken Shackles
+1 Tezzeret the Seeker
+1 Recurring Nightmare
+1 Toxic Deluge
+1 Pyroclasm
+1 Daretti, Scrap Savant
+1 Sneak Attack
+1 Primeval Titan
+1 Cultivate
+1 Wild Nacatl
+1 Myr Battlesphere
+1 Hallowed Fountain
+1 Shambling Vent
+1 Steam Vents
+1 Wasteland

@@ -1,0 +1,62 @@
+DeckId: 133
+Pilot: 24
+Date: 2016-01-12
+Colors: WBR
+Labels: 
+Match Record: 0-3
+Game Record: 1-6
+vs. 132: 1-2
+vs. 135: 0-2
+vs. 136: 0-2
+
+1 Isamaru, Hound of Konda
+1 Kytheon, Heros of Akros
+1 Accorder Paladin
+1 Kor Skyfisher
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Porcelain Legionaire
+1 Hero of Bladehold
+1 Carnophage
+1 Diregraf Ghoul
+1 Gravecrawler
+1 Dark Confidant
+1 Zurgo Bellstriker
+1 Keldon Marauders
+1 Lightning Mauler
+1 Stormblood Berserker
+1 Hellrider
+1 Magma Jet
+1 Char
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Figure of Destiny
+1 Rakdos Cackler
+1 Dreadbore
+1 Vindicate
+1 Arid Mesa
+1 Battlefield Forge
+1 Blood Crypt
+1 Bloodstained Mire
+1 Godless Shrine
+4 Plains
+3 Swamp
+3 Mountain
+
+1 Savannah Lions
+1 Balance
+1 Aether Adept
+1 Nezumi Graverobber
+1 Nekrataal
+1 Bitterblossom
+1 Pia and Kiran Nalaar
+1 Siege-Gang Commander
+1 Dryad Militant
+1 Sorin, Lord of Innistrad
+1 Horizon Canopy
+1 Lumbering Falls
+1 Mutavault
+1 Raging Ravine
+1 Shambling Vent
+1 Wasteland
+1 Grafted Wargear

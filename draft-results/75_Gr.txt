@@ -1,0 +1,59 @@
+DeckId: 75
+Pilot: 1
+Date: 2014-11-13
+Colors: Gr
+Labels: 
+Match Record: 1-1-1
+Game Record: 4-4
+vs. 74: 2-1
+vs. 71: 1-2
+vs. 76: 1-1
+
+1 Squee, Goblin Nabob
+1 Inferno Titan
+1 Faithless Looting
+1 Wheel of Fortune
+1 Birds of Paradise
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Joraga Treespeaker
+1 Fauna Shaman
+1 Lotus Cobra
+1 Wall of Roots
+1 Polukranos, World Eater
+1 Kalonian Hydra
+1 Vorapede
+1 Green Sun's Zenith
+1 Sylvan Library
+1 Song of the Dryads
+1 Garruk Relentless
+1 Natural Order
+1 Huntmaster of the Fells
+1 Myr Battlesphere
+1 Ancient Tomb
+1 Grand Coliseum
+1 Rishadan Port
+1 Stomping Ground
+1 Wasteland
+1 Wooded Foothill
+1 Grim Monolith
+1 Coalition Relic
+1 Sword of Light and Shadow
+3 Mountain
+7 Forest
+
+1 Unexpectedly Absent
+1 Carnophage
+1 Gravecrawler
+1 Inquisition of Kozilek
+1 Necromancy
+1 Snuff Out
+1 Grim Lavamancer
+1 Llanowar Elves
+1 Duskmantle Seer
+1 Falkenrath Aristocrat
+1 Dreadbore
+1 Cogwork Librarian
+1 Blood Crypt
+1 Coldsteel Heart
+1 Aether Searcher

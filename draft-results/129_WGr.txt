@@ -1,0 +1,59 @@
+DeckId: 129
+Pilot: 1
+Date: 2015-11-18
+Colors: WGr
+Labels: 
+Match Record: 1-1
+Game Record: 3-2
+vs. 126: 2-0
+vs. 128: 1-2
+
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Mirror Entity
+1 Restoration Angel
+1 Cloudgoat Ranger
+1 Balance
+1 Unexpectedly Absent
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Lotus Cobra
+1 Eternal Witness
+1 Reclamation Sage
+1 Polukranos, World Eater
+1 Hornet Queen
+1 Woodfall Primus
+1 Green Sun's Zenith
+1 Qasali Pridemage
+1 Bloodbraid Elf
+1 Ajani Vengeant
+1 Myr Battlesphere
+1 Evolving Wilds
+1 Marsh Flats
+1 Misty Rainforest
+1 Sacred Foundry
+1 Temple Garden
+1 Wooded Foothill
+1 Skullclamp
+1 Coldsteel Heart
+1 Sword of War and Peace
+1 Worn Powerstone
+4 Plains
+1 Mountain
+5 Forest
+
+1 Enlightened Tutor
+1 Land Tax
+1 Control Magic
+1 Gnarled Scarhide
+1 Fire Imp
+1 Sulfuric Vortex
+1 Experiment One
+1 Rancor
+1 Warden of the First Tree
+1 Wild Nacatl
+1 Tezzeret, Agent of Bolas
+1 Ulamog, the Ceaseless Hunger
+1 Mishra's Factory
+1 Mutavault
+1 Tangle Wire

@@ -1,0 +1,60 @@
+DeckId: 38
+Pilot: 1
+Date: 2014-01-29
+Colors: WUbg
+Labels: 
+Match Record: 2-1
+Game Record: 4-5
+vs. 36: 2-0
+vs. 37: 0-4
+vs. 39: 2-1
+
+1 Wall of Omens
+1 Exalted Angel
+1 Baneslayer Angel
+1 Balance
+1 Wrath of God
+1 Meloku, the Clouded Mirror
+1 Mystical Tutor
+1 Ponder
+1 Control Magic
+1 Fact or Fiction
+1 Jace, the Mind Sculptor
+1 Birds of Paradise
+1 Acidic Slime
+1 Woodfall Primus
+1 Detention Sphere
+1 Lingering Souls
+1 Maelstrom Pulse
+1 Vindicate
+1 Solemn Simulacrum
+1 Engineered Explosives
+1 Godless Shrine
+1 Grand Coliseum
+1 Hallowed Fountain
+1 Horizon Canopy
+1 Mox Diamond
+1 Polluted Delta
+1 Reflecting Pool
+1 Simic Growth Chamber
+1 Windswept Heath
+1 Talisman of Progress
+1 Coalition Relic
+4 Plains
+4 Island
+1 Forest
+
+1 Restoration Angel
+1 Enlightened Tutor
+1 Unexpectedly Absent
+1 Snapcaster Mage
+1 Glen Elendra Archmage
+1 Phyrexian Metamorph
+1 Miscalculation
+1 Gifts Ungiven
+1 Thoughtseize
+1 Knight of the Reliquary
+1 Mystic Snake
+1 Supreme Verdict
+1 Venser, the Sojourner
+1 Memory Jar

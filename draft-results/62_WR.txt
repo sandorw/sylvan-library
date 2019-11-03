@@ -1,0 +1,58 @@
+DeckId: 62
+Pilot: 2
+Date: 2014-06-12
+Colors: WR
+Labels: 
+Match Record: 2-0
+Game Record: 4-2
+vs. 60: 2-1
+vs. 63: 2-1
+
+1 Student of Warfare
+1 Kor Skyfisher
+1 Soltari Monk
+1 Mirror Entity
+1 Soltari Champion
+1 Hero of Bladehold
+1 Elspeth, Knight-Errant
+1 Ash Zealot
+1 Chandra's Phoenix
+1 Flametongue Kavu
+1 Hellrider
+1 Hero of Oxid Ridge
+1 Burst Lightning
+1 Chain Lightning
+1 Magma Jet
+1 Arc Lightning
+1 Staggershock
+1 Koth of the Hammer
+1 Dryad Militant
+1 Figure of Destiny
+1 Arid Mesa
+1 Clifftop Retreat
+1 Sacred Foundry
+1 Strip Mine
+1 Bonesplitter
+1 Sword of Fire and Ice
+1 Batterskull
+7 Plains
+6 Mountain
+
+1 Disenchant
+1 Carnophage
+1 Abyssal Persecutor
+1 Magus of the Abyss
+1 Reanimate
+1 Sarcomancy
+1 Hymn to Tourach
+1 Char
+1 Flames of the Firebrand
+1 Molten Rain
+1 Chandra Nalaar
+1 Knight of the Reliquary
+1 Boros Charm
+1 Supreme Verdict
+1 Venser, the Sojourner
+1 Stomping Ground
+1 Grim Monolith
+1 Ratchet Bomb

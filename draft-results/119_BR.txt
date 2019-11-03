@@ -1,0 +1,59 @@
+DeckId: 119
+Pilot: 4
+Date: 2015-11-05
+Colors: BR
+Labels: 
+Match Record: 2-1
+Game Record: 4-2
+vs. 125: 2-0
+vs. 120: 2-0
+vs. 121: 0-2
+
+1 Flesh Carver
+1 Skinrender
+1 Grave Titan
+1 Duress
+1 Thoughtseize
+1 Demonic Tutor
+1 Hymn to Tourach
+1 Malicious Affliction
+1 Goblin Welder
+1 Hellspark Elemental
+1 Feldon of the Third Path
+1 Fire Imp
+1 Flametongue Kavu
+1 Pia and Kiran Nalaar
+1 Inferno Titan
+1 Faithless Looting
+1 Arc Trail
+1 Murderous Redcap
+1 Dreadbore
+1 Wurmcoil Engine
+1 Blood Crypt
+1 Lavaclaw Reaches
+1 Cursed Scroll
+1 Pithing Needle
+1 Batterskull
+8 Swamp
+7 Mountain
+
+1 Savannah Lions
+1 Stoneforge Mystic
+1 Balance
+1 Brainstorm
+1 Impulse
+1 Mana Leak
+1 Crystal Shard
+1 Control Magic
+1 Opposition
+1 Jackal Pup
+1 Smash to Smithereens
+1 Courser of Kruphix
+1 Eternal Witness
+1 Thragtusk
+1 Qasali Pridemage
+1 Rakdos Cackler
+1 Mutavault
+1 Overgrown Tomb
+1 Shivan Reef
+1 Worn Powerstone

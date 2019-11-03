@@ -1,0 +1,59 @@
+DeckId: 143
+Pilot: 13
+Date: 2016-03-22
+Colors: BGr
+Labels: 
+Match Record: 2-1
+Game Record: 4-2
+vs. 150: 2-0
+vs. 144: 2-0
+vs. 147: 0-2
+
+1 Oona's Prowler
+1 Nekrataal
+1 Inquisition of Kozilek
+1 Reanimate
+1 Vampiric Tutor
+1 Animate Dead
+1 Dance of the Dead
+1 Recurring Nightmare
+1 Toxic Deluge
+1 Sneak Attack
+1 Llanowar Elves
+1 Fauna Shaman
+1 Rofellos, Llanowar Emissary
+1 Eternal Witness
+1 Deranged Hermit
+1 Primeval Titan
+1 Woodfall Primus
+1 Survival of the Fittest
+1 Sylvan Library
+1 Lotleth Troll
+1 Maelstrom Pulse
+1 Myr Battlesphere
+1 Ulamog, the Ceaseless Hunger
+1 Polluted Delta
+1 Steam Vents
+1 Tendo Ice Bridge
+1 Windswept Heath
+6 Swamp
+7 Forest
+
+1 Eldrazi Displacer
+1 Tinker
+1 Carnophage
+1 Braids, Cabal Minion
+1 Skinrender
+1 Phyrexian Arena
+1 Stormblood Berserker
+1 Faithless Looting
+1 Wickerbough Elder
+1 Cultivate
+1 Dryad Militant
+1 Edric, Spymaster of Trest
+1 Sphinx of the Steel Wind
+1 Reality Smasher
+1 Kozilek, the Great Distortion
+1 Horizon Canopy
+1 Mishra's Factory
+1 Temple Garden

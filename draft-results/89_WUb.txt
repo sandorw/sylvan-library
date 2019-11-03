@@ -1,0 +1,59 @@
+DeckId: 89
+Pilot: 15
+Date: 2014-12-10
+Colors: WUb
+Labels: 
+Match Record: 0-2
+Game Record: 1-4
+vs. 87: 1-2
+vs. 90: 0-2
+
+1 Soldier of the Pantheon
+1 Brimaz, King of Oreskos
+1 Exalted Angel
+1 Land Tax
+1 Council's Judgment
+1 Day of Judgment
+1 Wrath of God
+1 Gideon Jura
+1 Omenspeaker
+1 Phantasmal Image
+1 Glen Elendra Archmage
+1 Mulldrifter
+1 Daze
+1 Impulse
+1 Jace Beleren
+1 Jace, the Mind Sculptor
+1 Geist of Saint Traft
+1 Detention Sphere
+1 Lingering Souls
+1 Celestial Colonnade
+1 Creeping Tar Pit
+1 Godless Shrine
+1 Hallowed Fountain
+1 Mishra's Factory
+1 Polluted Delta
+1 Strip Mine
+1 Ratchet Bomb
+1 Scroll Rack
+1 Nevinyrral's Disk
+1 Batterskull
+5 Plains
+4 Island
+1 Swamp
+
+1 Steppe Lynx
+1 Phyrexian Metamorph
+1 Miscalculation
+1 Shriekmaw
+1 Vampiric Tutor
+1 Lightning Mauler
+1 Squee, Goblin Nabob
+1 Sulfuric Vortex
+1 Strangleroot Geist
+1 Boros Charm
+1 Rishadan Port
+1 Verdant Catacombs
+1 Cursed Scroll
+1 Sensei's Divining Top
+1 Winter Orb

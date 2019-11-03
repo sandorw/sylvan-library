@@ -1,0 +1,59 @@
+DeckId: 189
+Pilot: 5
+Date: 2017-01-17
+Colors: UR
+Labels: 
+Match Record: 1-2
+Game Record: 4-5
+vs. 186: 2-1
+vs. 188: 1-2
+vs. 187: 1-2
+
+1 Snapcaster Mage
+1 Sower of Temptation
+1 Ponder
+1 Daze
+1 Mana Leak
+1 Remand
+1 Control Magic
+1 Cryptic Command
+1 Young Pyromancer
+1 Feldon of the Third Path
+1 Thundermaw Hellkite
+1 Lightning Bolt
+1 Rolling Earthquake
+1 Arc Trail
+1 Incinerate
+1 Char
+1 Chandra, Torch of Defiance
+1 Daretti, Scrap Savant
+1 Burning of Xinye
+1 Wildfire
+1 Dack Fayden
+1 Sundering Titan
+1 Ulamog, the Ceaseless Hunger
+1 Ancient Tomb
+1 Chrome Mox
+1 Everflowing Chalice
+1 Scalding Tarn
+1 Volcanic Island
+1 Coldsteel Heart
+5 Island
+6 Mountain
+
+1 Dragon Hunter
+1 Waterfront Bouncer
+1 Man-o'-War
+1 Force Spike
+1 Falkenrath Gorger
+1 Greater Gargadon
+1 Jackal Pup
+1 Plated Geopede
+1 Hero of Oxid Ridge
+1 Magma Jet
+1 Sulfuric Vortex
+1 Yasova Dragonclaw
+1 Edric, Spymaster of Trest
+1 Saheeli Rai
+1 Taiga
+1 Tangle Wire

@@ -1,0 +1,59 @@
+DeckId: 36
+Pilot: 4
+Date: 2014-01-29
+Colors: WU
+Labels: 
+Match Record: 0-3
+Game Record: 2-6
+vs. 38: 0-2
+vs. 39: 1-2
+vs. 37: 1-2
+
+1 Blade Splicer
+1 Mirror Entity
+1 Silverblade Paladin
+1 Revoke Existence
+1 Ajani Goldmane
+1 Elspeth, Knight-Errant
+1 Enclave Cryptologist
+1 Omenspeaker
+1 Phantasmal Image
+1 Waterfront Bouncer
+1 Kira, Great Glass-Spinner
+1 Condescend
+1 Force of Will
+1 Brainstorm
+1 Arcane Denial
+1 Counterspell
+1 Crystal Shard
+1 Vedalken Shackles
+1 Cryptic Command
+1 Figure of Destiny
+1 Sundering Titan
+1 Icy Manipulator
+1 Thran Dynamo
+8 Plains
+9 Island
+
+1 Vampire Hexmage
+1 Profane Command
+1 Pox
+1 Damnation
+1 Stormblood Berserker
+1 Chandra, Pyromaster
+1 Wildfire
+1 Troll Ascetic
+1 Vorapede
+1 Green Sun's Zenith
+1 Treetop Village
+1 Worldly Tutor
+1 Garruk Wildspeaker
+1 Natural Order
+1 Plow Under
+1 Burning-Tree Emissary
+1 Edric, Spymaster of Trest
+1 Shadowmage Infiltrator
+1 Izzet Charm
+1 Steam Augury
+1 Creeping Tar Pit
+1 Watery Grave

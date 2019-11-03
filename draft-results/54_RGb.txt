@@ -1,0 +1,60 @@
+DeckId: 54
+Pilot: 13
+Date: 2014-05-15
+Colors: RGb
+Labels: 
+Match Record: 1-2
+Game Record: 4-4
+vs. 56: 2-0
+vs. 58: 1-2
+vs. 57: 1-2
+
+1 Goblin Guide
+1 Grim Lavamancer
+1 Stromkirk Noble
+1 Keldon Marauders
+1 Lightning Mauler
+1 Plated Geopede
+1 Chandra's Phoenix
+1 Guttersnipe
+1 Prophetic Flamespeaker
+1 Burst Lightning
+1 Chain Lightning
+1 Lightning Bolt
+1 Incinerate
+1 Magma Jet
+1 Char
+1 Jungle Lion
+1 Strangleroot Geist
+1 Dryad Militant
+1 Rakdos Cackler
+1 Tattermunge Maniac
+1 Burning-Tree Emissary
+1 Bloodbraid Elf
+1 Maelstrom Pulse
+1 Stomping Ground
+1 Verdant Catacombs
+1 Woodland Cemetary
+1 Umezawa's Jitte
+1 Sword of Light and Shadow
+2 Swamp
+7 Mountain
+3 Forest
+
+1 Journey to Nowhere
+1 Forbid
+1 Time Spiral
+1 Volrath's Stronghold
+1 Vampiric Tutor
+1 Greater Gargadon
+1 Young Pyromancer
+1 Purphoros, God of the Forge
+1 Faithless Looting
+1 Flames of the Firebrand
+1 Chandra Nalaar
+1 Vengevine
+1 Worldly Tutor
+1 Lotleth Troll
+1 Ancient Tomb
+1 Engineered Explosives
+1 Ankh of Mishra

@@ -1,0 +1,57 @@
+DeckId: 105
+Pilot: 1
+Date: 2015-05-28
+Colors: BG
+Labels: 
+Match Record: 1-0
+Game Record: 3-2
+vs. 104: 3-2
+
+1 Bloodsoaked Champion
+1 Carrion Feeder
+1 Diregraf Ghoul
+1 Gravecrawler
+1 Blood Scriviner
+1 Bloodghast
+1 Liliana, Heretical Healer
+1 Braids, Cabal Minion
+1 Skinrender
+1 Volrath's Stronghold
+1 Duress
+1 Unearth
+1 Animate Dead
+1 Demonic Tutor
+1 Hymn to Tourach
+1 Snuff Out
+1 Eternal Witness
+1 Reclamation Sage
+1 Deranged Hermit
+1 Thragtusk
+1 Garruk Relentless
+1 Lotleth Troll
+1 Tasigur, the Golden Fang
+1 Maelstrom Pulse
+1 City of Brass
+1 Overgrown Tomb
+1 Rishadan Port
+1 Sword of War and Peace
+8 Swamp
+4 Forest
+
+1 Porcelain Legionaire
+1 Memory Lapse
+1 Jace Beleren
+1 Fact or Fiction
+1 Nekrataal
+1 Sarcomancy
+1 Diabolic Edict
+1 Dismember
+1 Squee, Goblin Nabob
+1 Hero of Oxid Ridge
+1 Searing Spear
+1 Experiment One
+1 Tarmogoyf
+1 Vorapede
+1 Gemstone Mine
+1 Steam Vents
+1 Yavimaya Coast

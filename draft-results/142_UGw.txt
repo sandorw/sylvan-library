@@ -1,0 +1,59 @@
+DeckId: 142
+Pilot: 1
+Date: 2016-02-17
+Colors: UGw
+Labels: 
+Match Record: 2-1
+Game Record: 4-4
+vs. 139: 2-1
+vs. 138: 0-2
+vs. 141: 2-1
+
+1 Path to Exile
+1 Wrath of God
+1 Phantasmal Image
+1 Man-o'-War
+1 Venser, Shaper Savant
+1 Remand
+1 Vedalken Shackles
+1 Control Magic
+1 Jace, the Mind Sculptor
+1 Treachery
+1 Upheaval
+1 Joraga Treespeaker
+1 Noble Hierarch
+1 Sakura-Tribe Elder
+1 Courser of Kruphix
+1 Deranged Hermit
+1 Song of the Dryads
+1 Garruk Wildspeaker
+1 Plow Under
+1 Wurmcoil Engine
+1 City of Brass
+1 Engineered Explosives
+1 Lumbering Falls
+1 Temple Garden
+1 Scroll Rack
+1 Coalition Relic
+1 Sword of Fire and Ice
+1 Plains
+6 Island
+6 Forest
+
+1 Thalia, Guardian of Thraben
+1 Brimaz, King of Oreskos
+1 Flickerwisp
+1 Land Tax
+1 Parallax Wave
+1 Whirler Rogue
+1 Academy Ruins
+1 Jackal Pup
+1 Pyroclasm
+1 Jungle Lion
+1 Warden of the First Tree
+1 Edric, Spymaster of Trest
+1 Gemstone Mine
+1 Scalding Tarn
+1 Ratchet Bomb
+1 Winter Orb
+1 Nevinyrral's Disk

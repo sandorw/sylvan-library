@@ -1,0 +1,58 @@
+DeckId: 151
+Pilot: 2
+Date: 2016-06-16
+Colors: WB
+Labels: 
+Match Record: 1-2
+Game Record: 3-4
+vs. 154: 2-0
+vs. 153: 1-2
+vs. 152: 0-2
+
+1 Isamaru, Hound of Konda
+1 Mardu Woe Reaper
+1 Mother of Runes
+1 Soldier of the Pantheon
+1 Imposing Sovereign
+1 Thalia, Guardian of Thraben
+1 Blade Splicer
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Porcelain Legionaire
+1 Soltari Champion
+1 Banishing Light
+1 Council's Judgment
+1 Spectral Procession
+1 Bloodsoaked Champion
+1 Gnarled Scarhide
+1 Dark Confidant
+1 Oona's Prowler
+1 Flesh Carver
+1 Kalitas, Traitor of Ghet
+1 Bitterblossom
+1 Dryad Militant
+1 Lingering Souls
+1 Mutavault
+1 Overgrown Tomb
+1 Windswept Heath
+1 Sword of Body and Mind
+8 Plains
+5 Swamp
+
+1 Monastery Mentor
+1 Restoration Angel
+1 Counterspell
+1 Vedalken Shackles
+1 Phyrexian Arena
+1 Toxic Deluge
+1 Zurgo Bellstriker
+1 Keldon Marauders
+1 Siege-Gang Commander
+1 Lightning Bolt
+1 Flames of the Firebrand
+1 Fiery Confluence
+1 Rancor
+1 Qasali Pridemage
+1 Grenzo, Dungeon Warden
+1 Kozilek, the Great Distortion
+1 Sacred Foundry

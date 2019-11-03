@@ -1,0 +1,79 @@
+DeckId: 103
+Pilot: 4
+Date: 2015-04-16
+Colors: WU
+Labels: 
+Match Record: 0-2
+Game Record: 0-4
+vs. 101: 0-2
+vs. 102: 0-2
+
+1 Blade Splicer
+1 Hallowed Spiritkeeper
+1 Reveillark
+1 Sun Titan
+1 Swords to Plowshares
+1 Balance
+1 Banishing Light
+1 Faith's Fetters
+1 Parallax Wave
+1 Snapcaster Mage
+1 Glen Elendra Archmage
+1 Sower of Temptation
+1 Meloku, the Clouded Mirror
+1 Aetherling
+1 Arcane Denial
+1 Memory Lapse
+1 Forbid
+1 Vedalken Shackles
+1 Jace, the Mind Sculptor
+1 Soulfire Grand Master
+1 Detention Sphere
+1 Venser, the Sojourner
+1 Arid Mesa
+1 Hallowed Fountain
+1 Misty Rainforest
+1 Windswept Heath
+1 Tangle Wire
+6 Plains
+7 Island
+
+1 Stoneforge Mystic
+1 Exalted Angel
+1 Land Tax
+1 Armageddon
+1 Spectral Procession
+1 Waterfront Bouncer
+1 Force Spike
+1 Jace Beleren
+1 Master of the Feast
+1 Curse of Shallow Graves
+1 Goblin Guide
+1 Goblin Welder
+1 Keldon Marauders
+1 Stormblood Berserker
+1 Fire Imp
+1 Siege-Gang Commander
+1 Chain Lightning
+1 Rolling Earthquake
+1 Pyroclasm
+1 Daretti, Scrap Savant
+1 Sarkhan, the Dragonspeaker
+1 Burning of Xinye
+1 Fyndhorn Elves
+1 Fauna Shaman
+1 Strangleroot Geist
+1 Courser of Kruphix
+1 Eternal Witness
+1 Reclamation Sage
+1 Viridian Shaman
+1 Thrun, the Last Troll
+1 Rancor
+1 Tattermunge Maniac
+1 Alesha, Who Smiles at Death
+1 Duskmantle Seer
+1 Tasigur, the Golden Fang
+1 Breeding Pool
+1 Gemstone Mine
+1 Grand Coliseum
+1 Mimic Vat
