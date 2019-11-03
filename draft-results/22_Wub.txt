@@ -2,7 +2,7 @@ DeckId: 22
 Pilot: 28
 Date: 2013-11-21
 Colors: Wub
-Labels: 
+Labels: Midrange
 Match Record: 3-0
 Game Record: 7-2
 vs. 20: 2-1
