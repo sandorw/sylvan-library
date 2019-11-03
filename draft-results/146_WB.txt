@@ -1,0 +1,59 @@
+DeckId: 146
+Pilot: 6
+Date: 2016-03-22
+Colors: WB
+Labels: 
+Match Record: 1-2
+Game Record: 4-4
+vs. 149: 1-2
+vs. 145: 2-0
+vs. 148: 1-2
+
+1 Isamaru, Hound of Konda
+1 Kytheon, Heros of Akros
+1 Soldier of the Pantheon
+1 Student of Warfare
+1 Accorder Paladin
+1 Stoneforge Mystic
+1 Blade Splicer
+1 Oblivion Ring
+1 Armageddon
+1 Parallax Wave
+1 Bloodsoaked Champion
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Dark Confidant
+1 Pack Rat
+1 Drana, Liberator of Malakir
+1 Master of the Feast
+1 Dark Ritual
+1 Thoughtseize
+1 Hymn to Tourach
+1 Rakdos Cackler
+1 Lingering Souls
+1 City of Brass
+1 Marsh Flats
+1 Wasteland
+1 Skullclamp
+1 Umezawa's Jitte
+1 Sword of Body and Mind
+6 Plains
+7 Swamp
+
+1 Dragon Hunter
+1 Savannah Lions
+1 Flickerwisp
+1 Disenchant
+1 Wrath of God
+1 Phyrexian Metamorph
+1 Tormented Hero
+1 Bearer of Silence
+1 Kalitas, Traitor of Ghet
+1 Sarcomancy
+1 Hero's Downfall
+1 Languish
+1 Firedrinker Satyr
+1 Grim Lavamancer
+1 Lightning Mauler
+1 Lumbering Falls
+1 Tangle Wire

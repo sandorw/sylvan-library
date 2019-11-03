@@ -1,0 +1,59 @@
+DeckId: 183
+Pilot: 3
+Date: 2017-01-17
+Colors: WGr
+Labels: 
+Match Record: 1-2
+Game Record: 4-5
+vs. 184: 1-2
+vs. 185: 1-2
+vs. 182: 2-1
+
+1 Isamaru, Hound of Konda
+1 Soldier of the Pantheon
+1 Accorder Paladin
+1 Imposing Sovereign
+1 Thalia, Heretic Cathar
+1 Elspeth, Knight-Errant
+1 Ravages of War
+1 Jungle Lion
+1 Wolfbitten Captive
+1 Duskwatch Recruiter
+1 Sylvan Advocate
+1 Eternal Witness
+1 Tireless Tracker
+1 Rancor
+1 Dryad Militant
+1 Qasali Pridemage
+1 Warden of the First Tree
+1 Wild Nacatl
+1 Savannah
+1 Temple Garden
+1 Wooded Foothill
+1 Smuggler's Copter
+1 Winter Orb
+1 Grafted Wargear
+1 Sword of Light and Shadow
+1 Fleetwheel Cruiser
+7 Plains
+7 Forest
+
+1 Memory Lapse
+1 Heir of Falkenrath
+1 Drana, Liberator of Malakir
+1 Dark Ritual
+1 Inquisition of Kozilek
+1 Grim Lavamancer
+1 Keldon Marauders
+1 Stormblood Berserker
+1 Sin Prodder
+1 Flametongue Kavu
+1 Burst Lightning
+1 Arbor Elf
+1 Thrun, the Last Troll
+1 Natural Order
+1 Tattermunge Maniac
+1 Bloodbraid Elf
+1 Maze of Ith
+1 Sacred Foundry
+1 Ratchet Bomb

@@ -1,0 +1,60 @@
+DeckId: 55
+Pilot: 12
+Date: 2014-05-15
+Colors: WGr
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 59: 0-2
+vs. 56: 2-1
+vs. 53: 1-2
+
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Baneslayer Angel
+1 Path to Exile
+1 Unexpectedly Absent
+1 Gideon Jura
+1 Flametongue Kavu
+1 Thundermaw Hellkite
+1 Staggershock
+1 Chandra, Pyromaster
+1 Experiment One
+1 Lotus Cobra
+1 River Boa
+1 Scavenging Ooze
+1 Troll Ascetic
+1 Master of the Wild Hunt
+1 Phantom Centaur
+1 Thrun, the Last Troll
+1 Vorapede
+1 Rancor
+1 Curse of Predation
+1 Garruk Wildspeaker
+1 Raging Ravine
+1 Windswept Heath
+1 Wooded Foothill
+1 Coalition Relic
+6 Plains
+3 Mountain
+5 Forest
+
+1 Enlightened Tutor
+1 Land Tax
+1 Disenchant
+1 Wrath of God
+1 Catastrophe
+1 Abyssal Persecutor
+1 Dark Ritual
+1 Yavimaya Elder
+1 Natural Order
+1 Dreadbore
+1 Detention Sphere
+1 Steam Augury
+1 Supreme Verdict
+1 City of Brass
+1 Reflecting Pool
+1 Simic Growth Chamber
+1 Worn Powerstone
+1 Icy Manipulator
+1 Nevinyrral's Disk

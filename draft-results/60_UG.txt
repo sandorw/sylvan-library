@@ -1,0 +1,58 @@
+DeckId: 60
+Pilot: 20
+Date: 2014-06-12
+Colors: UG
+Labels: 
+Match Record: 1-1
+Game Record: 3-3
+vs. 62: 1-2
+vs. 61: 2-1
+
+1 Snapcaster Mage
+1 Vendilion Clique
+1 Dungeon Geists
+1 Talrand, Sky Summoner
+1 Mulldrifter
+1 Aetherling
+1 Force of Will
+1 Ponder
+1 Preordain
+1 Daze
+1 Impulse
+1 Memory Lapse
+1 Miscalculation
+1 Jace Beleren
+1 River Boa
+1 Courser of Kruphix
+1 Master of the Wild Hunt
+1 Acidic Slime
+1 Call of the Herd
+1 Cultivate
+1 Natural Order
+1 Burning-Tree Emissary
+1 Trygon Predator
+1 Grand Coliseum
+1 Misty Rainforest
+1 Reflecting Pool
+1 Scalding Tarn
+1 Verdant Catacombs
+6 Island
+6 Forest
+
+1 Oona's Prowler
+1 Hypnotic Specter
+1 Master of the Feast
+1 Grim Lavamancer
+1 Hellspark Elemental
+1 Young Pyromancer
+1 Simic Sky Swallower
+1 Sarkhan Vol
+1 Engineered Explosives
+1 Mox Diamond
+1 Woodland Cemetary
+1 Cursed Scroll
+1 Ankh of Mishra
+1 Talisman of Dominance
+1 Winter Orb
+1 Grafted Wargear
+1 Worn Powerstone

@@ -1,0 +1,59 @@
+DeckId: 22
+Pilot: 28
+Date: 2013-11-21
+Colors: Wub
+Labels: 
+Match Record: 3-0
+Game Record: 7-2
+vs. 20: 2-1
+vs. 21: 3-0
+vs. 23: 2-1
+
+1 Isamaru, Hound of Konda
+1 Mother of Runes
+1 Soldier of the Pantheon
+1 Imposing Sovereign
+1 Blade Splicer
+1 Flickerwisp
+1 Baneslayer Angel
+1 Reveillark
+1 Journey to Nowhere
+1 Unexpectedly Absent
+1 Gideon Jura
+1 Kira, Great Glass-Spinner
+1 Mulldrifter
+1 Memory Lapse
+1 Jace Beleren
+1 Jace, the Mind Sculptor
+1 Dismember
+1 Dryad Militant
+1 Figure of Destiny
+1 Mimic Vat
+1 Sword of Body and Mind
+1 Sword of War and Peace
+1 Batterskull
+10 Plains
+7 Island
+
+1 Balance
+1 Revoke Existence
+1 Catastrophe
+1 Meloku, the Clouded Mirror
+1 Tinker
+1 Vedalken Shackles
+1 Tormented Hero
+1 Profane Command
+1 Vampiric Tutor
+1 Inferno Titan
+1 Deranged Hermit
+1 Burning-Tree Emissary
+1 Lingering Souls
+1 Ral Zarek
+1 Lavaclaw Reaches
+1 Steam Vents
+1 Watery Grave
+1 Cursed Scroll
+1 Sensei's Divining Top
+1 Coldsteel Heart
+1 Icy Manipulator
+1 Nevinyrral's Disk

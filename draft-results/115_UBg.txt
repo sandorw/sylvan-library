@@ -1,0 +1,59 @@
+DeckId: 115
+Pilot: 2
+Date: 2015-10-29
+Colors: UBg
+Labels: 
+Match Record: 1-2
+Game Record: 4-5
+vs. 114: 1-2
+vs. 113: 1-2
+vs. 116: 2-1
+
+1 Snapcaster Mage
+1 Sower of Temptation
+1 Whirler Rogue
+1 Brainstorm
+1 Remand
+1 Thirst for Knowledge
+1 Control Magic
+1 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Opposition
+1 Treachery
+1 Dig Through Time
+1 Pack Rat
+1 Grave Titan
+1 Bitterblossom
+1 Thragtusk
+1 Baleful Strix
+1 Edric, Spymaster of Trest
+1 Tasigur, the Golden Fang
+1 Maelstrom Pulse
+1 Wurmcoil Engine
+1 Bloodstained Mire
+1 Breeding Pool
+1 Lumbering Falls
+1 Scalding Tarn
+1 Steam Vents
+1 Watery Grave
+1 Wooded Foothill
+1 Mind Stone
+1 Sword of War and Peace
+5 Island
+3 Swamp
+2 Forest
+
+1 Blade Splicer
+1 Gideon Jura
+1 Waterfront Bouncer
+1 Daze
+1 Crystal Shard
+1 Upheaval
+1 Master of the Feast
+1 Squee, Goblin Nabob
+1 Sakura-Tribe Elder
+1 Survival of the Fittest
+1 Duskmantle Seer
+1 Sorin, Lord of Innistrad
+1 Hallowed Fountain
+1 Grafted Wargear

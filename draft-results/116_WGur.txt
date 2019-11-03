@@ -1,0 +1,58 @@
+DeckId: 116
+Pilot: 4
+Date: 2015-10-29
+Colors: WGur
+Labels: 
+Match Record: 0-2
+Game Record: 2-4
+vs. 117: 1-2
+vs. 115: 1-2
+
+1 Mirror Entity
+1 Restoration Angel
+1 Balance
+1 Council's Judgment
+1 Faith's Fetters
+1 Parallax Wave
+1 Fyndhorn Elves
+1 Noble Hierarch
+1 Strangleroot Geist
+1 Tarmogoyf
+1 Courser of Kruphix
+1 Yavimaya Elder
+1 Vorapede
+1 Hornet Queen
+1 Woodfall Primus
+1 Warden of the First Tree
+1 Wild Nacatl
+1 Simic Sky Swallower
+1 Myr Battlesphere
+1 Horizon Canopy
+1 Mox Diamond
+1 Temple Garden
+1 Sword of Light and Shadow
+1 Worn Powerstone
+6 Plains
+1 Island
+9 Forest
+
+1 Monastery Mentor
+1 Day of Judgment
+1 Wrath of God
+1 Aether Adept
+1 Aetherling
+1 Force of Will
+1 Arcane Denial
+1 Mana Leak
+1 Forbid
+1 Bloodsoaked Champion
+1 Priest of the Blood Rite
+1 Hellrider
+1 Incinerate
+1 Koth of the Hammer
+1 Acidic Slime
+1 Dryad Militant
+1 Geist of Saint Traft
+1 Arid Mesa
+1 Lavaclaw Reaches
+1 Smokestack

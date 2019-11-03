@@ -1,0 +1,59 @@
+DeckId: 50
+Pilot: 4
+Date: 2014-04-24
+Colors: RGw
+Labels: 
+Match Record: 0-3
+Game Record: 0-6
+vs. 51: 0-2
+vs. 49: 0-2
+vs. 52: 0-2
+
+1 Imposing Sovereign
+1 Oblivion Ring
+1 Young Pyromancer
+1 Inferno Titan
+1 Devil's Play
+1 Reckless Charge
+1 Molten Rain
+1 Koth of the Hammer
+1 Experiment One
+1 Joraga Treespeaker
+1 River Boa
+1 Wall of Blossoms
+1 Courser of Kruphix
+1 Troll Ascetic
+1 Acidic Slime
+1 Genesis
+1 Thragtusk
+1 Woodfall Primus
+1 Rancor
+1 Sylvan Library
+1 Garruk Wildspeaker
+1 Sarkhan Vol
+1 Clifftop Retreat
+1 Stomping Ground
+1 Temple Garden
+1 Nevinyrral's Disk
+6 Mountain
+8 Forest
+
+1 Harm's Way
+1 Spectral Procession
+1 Kira, Great Glass-Spinner
+1 Diregraf Ghoul
+1 Pack Rat
+1 Sarcomancy
+1 Pox
+1 Jackal Pup
+1 Siege-Gang Commander
+1 Chandra Nalaar
+1 Jungle Lion
+1 Wild Dogs
+1 Qasali Pridemage
+1 Knight of the Reliquary
+1 Psychatog
+1 Ajani Goldmane
+1 Sundering Titan
+1 Woodland Cemetary
+1 Ratchet Bomb

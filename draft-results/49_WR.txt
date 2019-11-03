@@ -1,0 +1,59 @@
+DeckId: 49
+Pilot: 3
+Date: 2014-04-24
+Colors: WR
+Labels: 
+Match Record: 2-1
+Game Record: 7-2
+vs. 52: 4-0
+vs. 50: 2-0
+vs. 51: 1-2
+
+1 Stoneforge Mystic
+1 Porcelain Legionaire
+1 Soltari Champion
+1 Disenchant
+1 Firedrinker Satyr
+1 Stromkirk Noble
+1 Hellspark Elemental
+1 Torch Fiend
+1 Chandra's Phoenix
+1 Flametongue Kavu
+1 Hero of Oxid Ridge
+1 Thundermaw Hellkite
+1 Firebolt
+1 Lightning Bolt
+1 Incinerate
+1 Magma Jet
+1 Flames of the Firebrand
+1 Staggershock
+1 Figure of Destiny
+1 Ajani Vengeant
+1 Arid Mesa
+1 Bloodstained Mire
+1 Sacred Foundry
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Batterskull
+5 Plains
+9 Mountain
+
+1 Mother of Runes
+1 Dungeon Geists
+1 Brainstorm
+1 Daze
+1 Carnophage
+1 Shriekmaw
+1 Tombstalker
+1 Duress
+1 Animate Dead
+1 Diabolic Edict
+1 Necromancy
+1 Regrowth
+1 Bloodbraid Elf
+1 Duskmantle Seer
+1 Murderous Redcap
+1 Sorin, Lord of Innistrad
+1 Mox Diamond
+1 Cursed Scroll
+1 Ankh of Mishra

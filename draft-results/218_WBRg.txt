@@ -1,0 +1,59 @@
+DeckId: 218
+Pilot: 9
+Date: 2017-04-25
+Colors: WBRg
+Labels:
+Match Record: 2-1
+Game Record: 5-4
+vs. 221: 2-1
+vs. 220: 1-2
+vs. 223: 2-1
+
+1 Gideon Jura
+1 Overgrown Tomb
+1 Blood Crypt
+1 Polluted Delta
+1 Wurmcoil Engine
+1 Restoration Angel
+1 Lightning Bolt
+1 Ophiomancer
+1 Hallowed Spiritkeeper
+1 Kolaghan's Command
+1 Baneslayer Angel
+1 Grand Coliseum
+1 Mother of Runes
+1 Firebolt
+1 Pia and Kiran Nalaar
+1 Elspeth, Knight-Errant
+1 Ajani Vengeant
+1 Godless Shrine
+1 Flickerwisp
+1 Dragonlord Atarka
+1 Balance
+1 Oblivion Ring
+1 Unexpectedly Absent
+1 Plateau
+1 Sacred Foundry
+1 Daretti, Ingenious Iconoclast
+1 Lingering Souls
+1 Marsh Flats
+1 Angel of Invention
+1 Phyrexian Metamorph
+1 Sorin, Lord of Innistrad
+5 Plains
+1 Swamp
+3 Mountain
+
+1 Dark Ritual
+1 Stoneforge Mystic
+1 Exhume
+1 Goblin Welder
+1 Mirror Entity
+1 Figure of Destiny
+1 Spectral Procession
+1 Daretti, Scrap Savant
+1 Sneak Attack
+1 Qasali Pridemage
+1 Wolfbitten Captive
+1 Arcane Denial
+1 Tattermunge Maniac

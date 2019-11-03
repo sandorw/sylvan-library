@@ -1,0 +1,61 @@
+DeckId: 211
+Pilot: 3
+Date: 2017-03-07
+Colors: WUBg
+Labels:
+Match Record: 
+Game Record: 
+vs. 208: 0-2
+vs. 206: 2-0
+vs. 210: 0-2
+
+1 Diabolic Edict
+1 Hymn to Tourach
+1 Flesh Carver
+1 Marsh Flats
+1 Polluted Delta
+1 Sorin, Lord of Innistrad
+1 Inquisition of Kozilek
+1 True-Name Nemesis
+1 Pernicious Deed
+1 Sword of Light and Shadow
+1 Batterskull
+1 Custodi Lich
+1 Asylum Visitor
+1 Hero's Downfall
+1 Drana, Liberator of Malakir
+1 Horizon Canopy
+1 Maelstrom Pulse
+1 Underground Sea
+1 Verdant Catacombs
+1 Mardu Strike Leader
+1 Kalitas, Traitor of Ghet
+1 Ophiomancer
+1 Vindicate
+1 Skinrender
+1 Creeping Tar Pit
+1 Pack Rat
+1 City of Brass
+1 Jace, the Mind Sculptor
+1 Plains
+3 Island
+5 Swamp
+1 Forest
+
+1 Reanimate
+1 Keldon Marauders
+1 Dack Fayden
+1 Arcane Denial
+1 Counterspell
+1 Scrapheap Scrounger
+1 Maze of Ith
+1 Taiga
+1 Oath of Druids
+1 Braids, Cabal Minion
+1 Chain Lightning
+1 Wild Nacatl
+1 Mutavault
+1 Dark Confidant
+1 Kolaghan's Command
+1 Blood Crypt
+1 Terramorphic Expanse

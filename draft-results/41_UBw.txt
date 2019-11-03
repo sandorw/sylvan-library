@@ -1,0 +1,58 @@
+DeckId: 41
+Pilot: 16
+Date: 2014-02-05
+Colors: UBw
+Labels: 
+Match Record: 0-3
+Game Record: 1-6
+vs. 40: 0-2
+vs. 42: 0-2
+vs. 44: 1-2
+
+1 Porcelain Legionaire
+1 Looter Il-Kor
+1 Snapcaster Mage
+1 Waterfront Bouncer
+1 Thassa, God of the Sea
+1 Force of Will
+1 Mystical Tutor
+1 Daze
+1 Jace Beleren
+1 Control Magic
+1 Vampire Hexmage
+1 Magus of the Abyss
+1 Shriekmaw
+1 Volrath's Stronghold
+1 Dark Ritual
+1 Animate Dead
+1 Smallpox
+1 Liliana of the Veil
+1 Pox
+1 Shadowmage Infiltrator
+1 Solemn Simulacrum
+1 Mox Diamond
+1 Sensei's Divining Top
+8 Island
+9 Swamp
+
+1 Mother of Runes
+1 Disenchant
+1 Day of Judgment
+1 Talrand, Sky Summoner
+1 Aetherling
+1 Preordain
+1 Tinker
+1 Time Spiral
+1 Inquisition of Kozilek
+1 Sarcomancy
+1 Plated Geopede
+1 Burst Lightning
+1 Firebolt
+1 Vorapede
+1 Plow Under
+1 Sorin, Lord of Innistrad
+1 Engineered Explosives
+1 Sacred Foundry
+1 Steam Vents
+1 Temple Garden
+1 Winter Orb

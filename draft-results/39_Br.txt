@@ -1,0 +1,59 @@
+DeckId: 39
+Pilot: 12
+Date: 2014-01-29
+Colors: Br
+Labels: 
+Match Record: 1-2
+Game Record: 5-6
+vs. 37: 2-3
+vs. 36: 2-1
+vs. 38: 1-2
+
+1 Diregraf Ghoul
+1 Blood Scriviner
+1 Oona's Prowler
+1 Pack Rat
+1 Geralf's Messenger
+1 Ophiomancer
+1 Braids, Cabal Minion
+1 Nekrataal
+1 Duress
+1 Inquisition of Kozilek
+1 Reanimate
+1 Bitterblossom
+1 Diabolic Edict
+1 Hymn to Tourach
+1 Curse of Shallow Graves
+1 Dismember
+1 Phyrexian Arena
+1 Lightning Mauler
+1 Hero of Oxid Ridge
+1 Firebolt
+1 Falkenrath Aristocrat
+1 Dreadbore
+1 Blood Crypt
+1 Ankh of Mishra
+1 Smokestack
+9 Swamp
+6 Mountain
+
+1 Journey to Nowhere
+1 Oblivion Ring
+1 Looter Il-Kor
+1 Talrand, Sky Summoner
+1 Tinker
+1 Carnophage
+1 Nezumi Graverobber
+1 Dark Ritual
+1 Torch Fiend
+1 Squee, Goblin Nabob
+1 Inferno Titan
+1 Fireblast
+1 Phantom Centaur
+1 Genesis
+1 Chrome Mox
+1 Clifftop Retreat
+1 Pithing Needle
+1 Sensei's Divining Top
+1 Mind Stone
+1 Scroll Rack

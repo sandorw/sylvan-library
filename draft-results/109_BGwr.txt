@@ -1,0 +1,59 @@
+DeckId: 109
+Pilot: 6
+Date: 2015-08-13
+Colors: BGwr
+Labels: 
+Match Record: 0-3
+Game Record: 2-6
+vs. 108: 1-2
+vs. 107: 1-2
+vs. 106: 0-2
+
+1 Sun Titan
+1 Oona's Prowler
+1 Volrath's Stronghold
+1 Reanimate
+1 Thoughtseize
+1 Animate Dead
+1 Hymn to Tourach
+1 Liliana of the Veil
+1 Necromancy
+1 Phyrexian Arena
+1 Languish
+1 Greater Gargadon
+1 Fauna Shaman
+1 Eternal Witness
+1 Wickerbough Elder
+1 Vorapede
+1 Treetop Village
+1 Lotleth Troll
+1 Tasigur, the Golden Fang
+1 Pernicious Deed
+1 Sundering Titan
+1 Llanowar Wastes
+1 Raging Ravine
+1 Grim Monolith
+1 Sword of Fire and Ice
+1 Batterskull
+10 Swamp
+4 Forest
+
+1 Exalted Angel
+1 Braids, Cabal Minion
+1 Skinrender
+1 Profane Command
+1 Lightning Bolt
+1 Llanowar Elves
+1 Lotus Cobra
+1 Sakura-Tribe Elder
+1 Scavenging Ooze
+1 Strangleroot Geist
+1 Wild Mongrel
+1 Master of the Wild Hunt
+1 Polukranos, World Eater
+1 Regrowth
+1 Natural Order
+1 Plow Under
+1 Huntmaster of the Fells
+1 Ancient Tomb
+1 Skullclamp

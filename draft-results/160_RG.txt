@@ -1,0 +1,103 @@
+DeckId: 160
+Pilot: 5
+Date: 2016-06-30
+Colors: RG
+Labels: 
+Match Record: 1-1
+Game Record: 2-3
+vs. 159: 2-1
+vs. 158: 0-2
+
+1 Lightning Mauler
+1 Hellrider
+1 Inferno Titan
+1 Burst Lightning
+1 Magma Jet
+1 Arc Lightning
+1 Char
+1 Koth of the Hammer
+1 Sarkhan, the Dragonspeaker
+1 Arbor Elf
+1 Noble Hierarch
+1 Lotus Cobra
+1 Wild Mongrel
+1 Courser of Kruphix
+1 Thrun, the Last Troll
+1 Rancor
+1 Bloodbraid Elf
+1 Sarkhan Vol
+1 Misty Rainforest
+1 Raging Ravine
+1 Strip Mine
+1 Windswept Heath
+1 Bonesplitter
+1 Sword of Body and Mind
+1 Sword of Fire and Ice
+7 Mountain
+8 Forest
+
+1 Kytheon, Heros of Akros
+1 Mother of Runes
+1 Savannah Lions
+1 Accorder Paladin
+1 Thalia, Guardian of Thraben
+1 Hallowed Spiritkeeper
+1 Soltari Champion
+1 Restoration Angel
+1 Disenchant
+1 Oblivion Ring
+1 Catastrophe
+1 Looter Il-Kor
+1 Man-o'-War
+1 Thassa, God of the Sea
+1 True-Name Nemesis
+1 Master of Waves
+1 Phyrexian Metamorph
+1 Sower of Temptation
+1 Force of Will
+1 Preordain
+1 Thirst for Knowledge
+1 Tinker
+1 Opposition
+1 Carnophage
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Heir of Falkenrath
+1 Drana, Liberator of Malakir
+1 Ophiomancer
+1 Nekrataal
+1 Bitterblossom
+1 Demonic Tutor
+1 Recurring Nightmare
+1 Goblin Welder
+1 Young Pyromancer
+1 Feldon of the Third Path
+1 Faithless Looting
+1 Wheel of Fortune
+1 Wildfire
+1 Joraga Treespeaker
+1 Titania, Protector of Argoth
+1 Green Sun's Zenith
+1 Evolutionary Leap
+1 Survival of the Fittest
+1 Qasali Pridemage
+1 Warden of the First Tree
+1 Edric, Spymaster of Trest
+1 Knight of the Reliquary
+1 Tasigur, the Golden Fang
+1 Kolaghan's Command
+1 Lingering Souls
+1 Maelstrom Pulse
+1 Pernicious Deed
+1 Sundering Titan
+1 Ancient Tomb
+1 Blood Crypt
+1 Chrome Mox
+1 Everflowing Chalice
+1 Hissing Quagmire
+1 Lavaclaw Reaches
+1 Mox Diamond
+1 Polluted Delta
+1 Shambling Vent
+1 Worn Powerstone
+1 Smokestack

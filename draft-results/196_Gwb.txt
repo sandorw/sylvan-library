@@ -1,0 +1,58 @@
+DeckId: 196
+Pilot: 32
+Date: 2017-01-31
+Colors: Gwb
+Labels:
+Match Record: 2-1
+Game Record: 4-3
+vs. 190: 2-0
+vs. 195: 0-2
+vs. 197: 2-1
+
+1 Verdant Catacombs
+1 Woodfall Primus
+1 Ravages of War
+1 Joraga Treespeaker
+1 Rofellos
+1 Overgrown Tomb
+1 Wickerbough Elder
+1 Marsh Flats
+1 Everflowing Chalice
+1 Ancient Tomb
+1 Temple Garden
+1 Fauna Shaman
+1 Sylvan Library
+1 Bayou
+1 Reanimate
+1 Noble Hierarch
+1 Sundering Titan
+1 Song of the Dryads
+1 Survival of the Fittest
+1 Grim Monolith
+1 Duskwatch Recruiter
+1 Fyndhorn Elves
+1 Animate Dead
+1 Primeval Titan
+1 Coalition Relic
+1 Scavenging Ooze
+1 Engineered Explosives
+1 Reclamation Sage
+1 Savannah
+1 Polluted Delta
+1 Bloodstained Mire
+1 Myr Battlesphere
+8 Forest
+
+1 Prismatic Lens
+1 Crystal Shard
+1 Isamaru, Hound of Konda
+1 Pithing Needle
+1 Hymn to Tourach
+1 Show and Tell
+1 Tangle Wire
+1 Thirst for Knowledge
+1 Scroll Rack
+1 Rolling Earthquake
+1 Winter Orb
+1 Parallax Wave
+1 Watery Grave

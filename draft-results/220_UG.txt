@@ -1,0 +1,58 @@
+DeckId: 220
+Pilot: 2
+Date: 2017-04-25
+Colors: UG
+Labels:
+Match Record: 3-0
+Game Record: 6-2
+vs. 222: 2-0
+vs. 218: 2-1
+vs. 219: 2-1
+
+1 Upheaval
+1 Preordain
+1 City of Brass
+1 Tropical Island
+1 Eternal Witness
+1 Sylvan Library
+1 Breeding Pool
+1 Glen Elendra Archmage
+1 Elvish Mystic
+1 Llanowar Elves
+1 Cultivate
+1 Oath of Nissa
+1 Hornet Queen
+1 Arbor Elf
+1 Tireless Tracker
+1 Birds of Paradise
+1 Jace Beleren
+1 Reclamation Sage
+1 Woodfall Primus
+1 Dig Through Time
+1 Nissa, Steward of Elements
+1 Dismember
+1 Lotus Cobra
+1 Jace, the Mind Sculptor
+1 Joraga Treespeaker
+1 Polukranos, World Eater
+1 Green Sun's Zenith
+1 Scalding Tarn
+1 Garruk Wildspeaker
+4 Island
+7 Forest
+
+1 Banishing Light
+1 Bloodsoaked Champion
+1 Survival of the Fittest
+1 Chain Lightning
+1 Fauna Shaman
+1 Kessig Prowler
+1 Pithing Needle
+1 Yasova Dragonclaw
+1 Master of the Wild Hunt
+1 Regrowth
+1 Daze
+1 Jace, Vryn's Prodigy
+1 Yavimaya Elder
+1 Edric, Spymaster of Trest
+1 Gravecrawler

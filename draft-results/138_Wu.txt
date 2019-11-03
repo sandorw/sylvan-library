@@ -1,0 +1,57 @@
+DeckId: 138
+Pilot: 3
+Date: 2016-02-17
+Colors: Wu
+Labels: 
+Match Record: 2-1
+Game Record: 4-2
+vs. 141: 0-2
+vs. 142: 2-0
+vs. 137: 2-0
+
+1 Kytheon, Heros of Akros
+1 Soldier of the Pantheon
+1 Student of Warfare
+1 Imposing Sovereign
+1 Kor Skyfisher
+1 Stoneforge Mystic
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Monastery Mentor
+1 Hero of Bladehold
+1 Restoration Angel
+1 Enlightened Tutor
+1 Swords to Plowshares
+1 Banishing Light
+1 Oblivion Ring
+1 Spear of Heliod
+1 Dryad Militant
+1 Soulfire Grand Master
+1 Geist of Saint Traft
+1 Detention Sphere
+1 Venser, the Sojourner
+1 Celestial Colonnade
+1 Mox Diamond
+1 Sword of Body and Mind
+1 Sword of War and Peace
+9 Plains
+6 Island
+
+1 Exalted Angel
+1 Day of Judgment
+1 Faith's Fetters
+1 Aether Adept
+1 Ponder
+1 Memory Lapse
+1 Crystal Shard
+1 Forbid
+1 Deep Analysis
+1 Hero of Oxid Ridge
+1 Incinerate
+1 Experiment One
+1 Yasova Dragonclaw
+1 Qasali Pridemage
+1 Duskmantle Seer
+1 Chrome Mox
+1 Bonesplitter
+1 Sensei's Divining Top

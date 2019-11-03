@@ -1,0 +1,60 @@
+DeckId: 187
+Pilot: 1
+Date: 2017-01-17
+Colors: URb
+Labels: 
+Match Record: 2-1
+Game Record: 4-4
+vs. 185: 2-1
+vs. 184: 0-2
+vs. 189: 2-1
+
+1 Jace, Vryn's Prodigy
+1 Forbid
+1 Tinker
+1 Jace, the Mind Sculptor
+1 Mystic Confluence
+1 Tezzeret the Seeker
+1 Upheaval
+1 Goblin Welder
+1 Pia and Kiran Nalaar
+1 Firebolt
+1 Arc Lightning
+1 Fiery Confluence
+1 Dreadbore
+1 Daretti, Ingenious Iconoclast
+1 Kolaghan's Command
+1 Ral Zarek
+1 Tezzeret, Agent of Bolas
+1 Myr Battlesphere
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 Creeping Tar Pit
+1 Engineered Explosives
+1 Steam Vents
+1 Underground Sea
+1 Sensei's Divining Top
+1 Mind Stone
+1 Prismatic Lens
+1 Worn Powerstone
+5 Island
+1 Swamp
+4 Mountain
+
+1 Vedalken Shackles
+1 Bloodghast
+1 Pack Rat
+1 Flesh Carver
+1 Shriekmaw
+1 Hymn to Tourach
+1 Sinkhole
+1 Goblin Guide
+1 Chain Lightning
+1 Trygon Predator
+1 Tasigur, the Golden Fang
+1 Pernicious Deed
+1 Tendo Ice Bridge
+1 Bonesplitter
+1 Scroll Rack

@@ -1,0 +1,103 @@
+DeckId: 111
+Pilot: 4
+Date: 2015-09-17
+Colors: WG
+Labels: 
+Match Record: 1-1
+Game Record: 3-2
+vs. 112: 2-0
+vs. 110: 1-2
+
+1 Mother of Runes
+1 Mirror Entity
+1 Baneslayer Angel
+1 Sun Titan
+1 Spectral Procession
+1 Wrath of God
+1 Catastrophe
+1 Birds of Paradise
+1 Fyndhorn Elves
+1 Joraga Treespeaker
+1 Noble Hierarch
+1 Fauna Shaman
+1 Tarmogoyf
+1 Eternal Witness
+1 Yavimaya Elder
+1 Thrun, the Last Troll
+1 Thragtusk
+1 Survival of the Fittest
+1 Solemn Simulacrum
+1 Sundering Titan
+1 Flooded Strand
+1 Marsh Flats
+1 Mox Diamond
+1 Rishadan Port
+1 Verdant Catacombs
+1 Ratchet Bomb
+1 Crucible of Worlds
+6 Plains
+7 Forest
+
+1 Kytheon, Heros of Akros
+1 Imposing Sovereign
+1 Thalia, Guardian of Thraben
+1 Hallowed Spiritkeeper
+1 Snapcaster Mage
+1 Man-o'-War
+1 Serendib Efreet
+1 Dungeon Geists
+1 Phyrexian Metamorph
+1 Whirler Rogue
+1 Academy Ruins
+1 Condescend
+1 Ponder
+1 Miscalculation
+1 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Tezzeret the Seeker
+1 Treachery
+1 Bloodsoaked Champion
+1 Carnophage
+1 Diregraf Ghoul
+1 Nezumi Graverobber
+1 Liliana, Heretical Healer
+1 Braids, Cabal Minion
+1 Skinrender
+1 Shriekmaw
+1 Dark Ritual
+1 Vampiric Tutor
+1 Malicious Affliction
+1 Curse of Shallow Graves
+1 Phyrexian Arena
+1 Plated Geopede
+1 Goblin Rabblemaster
+1 Flametongue Kavu
+1 Hero of Oxid Ridge
+1 Pia and Kiran Nalaar
+1 Faithless Looting
+1 Firebolt
+1 Smash to Smithereens
+1 Daretti, Scrap Savant
+1 Strangleroot Geist
+1 Life from the Loam
+1 Plow Under
+1 Lotleth Troll
+1 Soulfire Grand Master
+1 Edric, Spymaster of Trest
+1 Duskmantle Seer
+1 Murderous Redcap
+1 Tasigur, the Golden Fang
+1 Detention Sphere
+1 Pernicious Deed
+1 Ajani Vengeant
+1 Bloodstained Mire
+1 Caves of Koilos
+1 Llanowar Wastes
+1 Mishra's Factory
+1 Polluted Delta
+1 Shivan Reef
+1 Watery Grave
+1 Skullclamp
+1 Scroll Rack
+1 Grafted Wargear
+1 Tangle Wire

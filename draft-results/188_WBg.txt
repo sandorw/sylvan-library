@@ -1,0 +1,59 @@
+DeckId: 188
+Pilot: 2
+Date: 2017-01-17
+Colors: WBg
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 182: 2-0
+vs. 189: 2-1
+vs. 184: 2-0
+
+1 Wall of Omens
+1 Restoration Angel
+1 Sun Titan
+1 Balance
+1 Unexpectedly Absent
+1 Banishing Light
+1 Armageddon
+1 Parallax Wave
+1 Catastrophe
+1 Elspeth, Sun's Champion
+1 Kalitas, Traitor of Ghet
+1 Grave Titan
+1 Animate Dead
+1 Demonic Tutor
+1 Liliana of the Veil
+1 Reclamation Sage
+1 Thragtusk
+1 Garruk Relentless
+1 Kitchen Finks
+1 Maelstrom Pulse
+1 Sorin, Lord of Innistrad
+1 Bayou
+1 Mox Diamond
+1 Polluted Delta
+1 Scrubland
+1 Tropical Island
+1 Verdant Catacombs
+1 Windswept Heath
+1 Grim Monolith
+1 Coalition Relic
+5 Plains
+5 Swamp
+
+1 Looter Il-Kor
+1 Phantasmal Image
+1 Force of Will
+1 Gnarled Scarhide
+1 Mardu Strike Leader
+1 Profane Command
+1 Fireblast
+1 Elvish Mystic
+1 Sakura-Tribe Elder
+1 Survival of the Fittest
+1 Plow Under
+1 Breeding Pool
+1 Plateau
+1 Stomping Ground
+1 Watery Grave

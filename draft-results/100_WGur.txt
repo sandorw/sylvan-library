@@ -1,0 +1,61 @@
+DeckId: 100
+Pilot: 1
+Date: 2015-04-09
+Colors: WGur
+Labels: 
+Match Record: 1-2
+Game Record: 2-5
+vs. 96: 2-1
+vs. 98: 0-2
+vs. 97: 0-2
+
+1 Lone Missionary
+1 Wall of Omens
+1 Sun Titan
+1 Wrath of God
+1 Aetherling
+1 Fact or Fiction
+1 Siege-Gang Commander
+1 Arc Trail
+1 Sneak Attack
+1 Llanowar Elves
+1 Noble Hierarch
+1 Sakura-Tribe Elder
+1 Viridian Shaman
+1 Yavimaya Elder
+1 Thragtusk
+1 Vorapede
+1 Primeval Titan
+1 Detention Sphere
+1 Ajani Vengeant
+1 Venser, the Sojourner
+1 Solemn Simulacrum
+1 Battlefield Forge
+1 Breeding Pool
+1 Grand Coliseum
+1 Mox Diamond
+1 Stomping Ground
+1 Temple Garden
+1 Windswept Heath
+1 Sword of War and Peace
+4 Plains
+1 Island
+2 Mountain
+4 Forest
+
+1 Catastrophe
+1 Opposition
+1 Braids, Cabal Minion
+1 Goblin Welder
+1 Zurgo Bellstriker
+1 Goblin Rabblemaster
+1 Sulfuric Vortex
+1 Burning of Xinye
+1 Experiment One
+1 Scavenging Ooze
+1 Yasova Dragonclaw
+1 Master of the Wild Hunt
+1 Wild Nacatl
+1 Simic Sky Swallower
+1 Masticore
+1 Overgrown Tomb

@@ -1,0 +1,60 @@
+DeckId: 132
+Pilot: 22
+Date: 2016-01-12
+Colors: UG
+Labels: 
+Match Record: 2-0
+Game Record: 4-2
+vs. 133: 2-1
+vs. 131: 2-1
+
+1 Phyrexian Metamorph
+1 Venser, Shaper Savant
+1 Mulldrifter
+1 Jace Beleren
+1 Opposition
+1 Treachery
+1 Upheaval
+1 Elvish Mystic
+1 Joraga Treespeaker
+1 Noble Hierarch
+1 Wall of Roots
+1 Deranged Hermit
+1 Thragtusk
+1 Primeval Titan
+1 Terastodon
+1 Green Sun's Zenith
+1 Treetop Village
+1 Sylvan Library
+1 Garruk Wildspeaker
+1 Natural Order
+1 Ulamog, the Ceaseless Hunger
+1 Breeding Pool
+1 Chrome Mox
+1 Misty Rainforest
+1 Mox Diamond
+1 Windswept Heath
+1 Mana Vault
+1 Grim Monolith
+1 Coalition Relic
+1 Worn Powerstone
+5 Island
+5 Forest
+
+1 Armageddon
+1 Catastrophe
+1 Jace, Vryn's Prodigy
+1 Phantasmal Image
+1 Waterfront Bouncer
+1 Aetherling
+1 Arcane Denial
+1 Fact or Fiction
+1 Oona's Prowler
+1 Flesh Carver
+1 Recurring Nightmare
+1 Wildfire
+1 Viridian Shaman
+1 Acidic Slime
+1 Everflowing Chalice
+1 Overgrown Tomb
+1 Temple Garden

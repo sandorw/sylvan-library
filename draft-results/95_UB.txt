@@ -1,0 +1,59 @@
+DeckId: 95
+Pilot: 14
+Date: 2015-04-09
+Colors: UB
+Labels: 
+Match Record: 0-3
+Game Record: 1-6
+vs. 99: 0-2
+vs. 96: 0-2
+vs. 98: 1-2
+
+1 Enclave Cryptologist
+1 Snapcaster Mage
+1 Glen Elendra Archmage
+1 Mulldrifter
+1 Mystical Tutor
+1 Counterspell
+1 Daze
+1 Impulse
+1 Mana Leak
+1 Remand
+1 Forbid
+1 Cryptic Command
+1 Nezumi Graverobber
+1 Master of the Feast
+1 Tombstalker
+1 Volrath's Stronghold
+1 Duress
+1 Demonic Tutor
+1 Malicious Affliction
+1 Dismember
+1 Hero's Downfall
+1 Damnation
+1 Duskmantle Seer
+1 Creeping Tar Pit
+1 Watery Grave
+1 Mana Vault
+1 Grim Monolith
+8 Island
+6 Swamp
+
+1 Day of Judgment
+1 Waterfront Bouncer
+1 Condescend
+1 Arcane Denial
+1 Crystal Shard
+1 Thirst for Knowledge
+1 Upheaval
+1 Diregraf Ghoul
+1 Bloodghast
+1 War-Name Aspirant
+1 Avalanche Riders
+1 Lightning Bolt
+1 Char
+1 Jungle Lion
+1 Life from the Loam
+1 Caves of Koilos
+1 City of Brass
+1 Sensei's Divining Top

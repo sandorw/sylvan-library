@@ -1,0 +1,59 @@
+DeckId: 213
+Pilot: 1
+Date: 2017-03-28
+Colors: BRG
+Labels:
+Match Record: 0-3
+Game Record: 0-6
+vs. 214: 0-2
+vs. 217: 0-2
+vs. 216: 0-2
+
+1 Mind Twist
+1 Badlands
+1 Taiga
+1 Bayou
+1 Arid Mesa
+1 Marsh Flats
+1 Polluted Delta
+1 Terramorphic Expanse
+1 Volrath's Stronghold
+1 Siege-Gang Commander
+1 Primeval Titan
+1 Acidic Slime
+1 Languish
+1 Sneak Attack
+1 Necromancy
+1 Recurring Nightmare
+1 Fauna Shaman
+1 Lotus Cobra
+1 Survival of the Fittest
+1 Thoughtseize
+1 Arc Trail
+1 Regrowth
+1 Griselbrand
+1 Inferno Titan
+1 Feldon of the Third Path
+1 Eternal Witness
+1 Reclamation Sage
+1 Imperial Recruiter
+1 Elvish Mystic
+1 Llanowar Elves
+1 Birds of Paradise
+3 Swamp
+3 Mountain
+3 Forest
+
+1 Mana Tithe
+1 Scroll Rack
+1 Umezawa's Jitte
+1 Hymn to Tourach
+1 Sylvan Advocate
+1 Rolling Earthquake
+1 Oona's Prowler
+1 Qasali Pridemage
+1 Mishra's Factory
+1 Tropical Island
+1 Temple Garden
+1 Crystal Shard
+1 Greater Gargadon

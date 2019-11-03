@@ -1,0 +1,58 @@
+DeckId: 163
+Pilot: 13
+Date: 2016-07-06
+Colors: Gr
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 164: 2-0
+vs. 162: 2-0
+vs. 161: 2-1
+
+1 Lightning Bolt
+1 Birds of Paradise
+1 Elvish Mystic
+1 Joraga Treespeaker
+1 Llanowar Elves
+1 Noble Hierarch
+1 Rofellos, Llanowar Emissary
+1 Sakura-Tribe Elder
+1 Courser of Kruphix
+1 Tireless Tracker
+1 Master of the Wild Hunt
+1 Polukranos, World Eater
+1 Thrun, the Last Troll
+1 Primeval Titan
+1 Green Sun's Zenith
+1 Oath of Nissa
+1 Sylvan Library
+1 Song of the Dryads
+1 Garruk Wildspeaker
+1 Natural Order
+1 Dragonlord Atarka
+1 Ulamog, the Ceaseless Hunger
+1 Mutavault
+1 Rishadan Port
+1 Stomping Ground
+1 Tendo Ice Bridge
+1 Verdant Catacombs
+1 Wooded Foothill
+1 Skullclamp
+1 Mountain
+11 Forest
+
+1 Mother of Runes
+1 Armageddon
+1 Spectral Procession
+1 Phantasmal Image
+1 Keldon Marauders
+1 Lightning Mauler
+1 Reclamation Sage
+1 Regrowth
+1 Qasali Pridemage
+1 Warden of the First Tree
+1 Bloodbraid Elf
+1 City of Brass
+1 Pithing Needle
+1 Grafted Wargear
+1 Sword of Light and Shadow

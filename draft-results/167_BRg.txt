@@ -1,0 +1,60 @@
+DeckId: 167
+Pilot: 1
+Date: 2016-08-17
+Colors: BRg
+Labels: 
+Match Record: 0-3
+Game Record: 0-6
+vs. 170: 0-2
+vs. 168: 0-2
+vs. 169: 0-2
+
+1 Carnophage
+1 Asylum Visitor
+1 Bloodghast
+1 Nezumi Graverobber
+1 Flesh Carver
+1 Braids, Cabal Minion
+1 Duress
+1 Inquisition of Kozilek
+1 Reanimate
+1 Sarcomancy
+1 Bitterblossom
+1 Liliana of the Veil
+1 Greater Gargadon
+1 Hanweir Garrison
+1 Faithless Looting
+1 Char
+1 Scavenging Ooze
+1 Grenzo, Dungeon Warden
+1 Alesha, Who Smiles at Death
+1 Tasigur, the Golden Fang
+1 Dreadbore
+1 Kolaghan's Command
+1 Chrome Mox
+1 Evolving Wilds
+1 Overgrown Tomb
+1 Verdant Catacombs
+1 Bonesplitter
+6 Swamp
+6 Mountain
+1 Forest
+
+1 Soldier of the Pantheon
+1 Blade Splicer
+1 Thassa, God of the Sea
+1 Force of Will
+1 Ponder
+1 Toxic Deluge
+1 Wildfire
+1 Fauna Shaman
+1 Sakura-Tribe Elder
+1 Oath of Nissa
+1 Life from the Loam
+1 Qasali Pridemage
+1 Edric, Spymaster of Trest
+1 Duskmantle Seer
+1 Lingering Souls
+1 Ral Zarek
+1 Sorin, Lord of Innistrad
+1 Celestial Colonnade

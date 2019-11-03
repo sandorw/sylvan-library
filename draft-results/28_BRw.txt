@@ -1,0 +1,59 @@
+DeckId: 28
+Pilot: 1
+Date: 2013-12-21
+Colors: BRw
+Labels: 
+Match Record: 2-0
+Game Record: 4-2
+vs. 26: 2-1
+vs. 29: 2-1
+
+1 Oblivion Ring
+1 Dark Confidant
+1 Pack Rat
+1 Reassembling Skeleton
+1 Vampire Nighthawk
+1 Curse of Shallow Graves
+1 Grim Lavamancer
+1 Young Pyromancer
+1 Chandra's Phoenix
+1 Manic Vandal
+1 Burst Lightning
+1 Firebolt
+1 Arc Trail
+1 Magma Jet
+1 Molten Rain
+1 Staggershock
+1 Koth of the Hammer
+1 Falkenrath Aristocrat
+1 Murderous Redcap
+1 Dreadbore
+1 Sorin, Lord of Innistrad
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Brass
+1 Lavaclaw Reaches
+1 Mox Diamond
+1 Strip Mine
+1 Skullclamp
+1 Sword of Fire and Ice
+1 Plains
+4 Swamp
+6 Mountain
+
+1 Wall of Omens
+1 Disenchant
+1 Braids, Cabal Minion
+1 Skinrender
+1 Animate Dead
+1 Necromancy
+1 Toxic Deluge
+1 Plated Geopede
+1 Stormblood Berserker
+1 Fireblast
+1 Faithless Looting
+1 Wheel of Fortune
+1 Kitchen Finks
+1 Bloodbraid Elf
+1 Steam Augury
+1 Crucible of Worlds

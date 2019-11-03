@@ -1,0 +1,104 @@
+DeckId: 179
+Pilot: 9
+Date: 2016-11-09
+Colors: WRb
+Labels: 
+Match Record: 1-2
+Game Record: 3-4
+vs. 180: 1-2
+vs. 178: 2-0
+vs. 181: 0-2
+
+1 Flickerwisp
+1 Monastery Mentor
+1 Restoration Angel
+1 Unexpectedly Absent
+1 Armageddon
+1 Ravages of War
+1 Wrath of God
+1 Gideon Jura
+1 Dismember
+1 Greater Gargadon
+1 Feldon of the Third Path
+1 Sin Prodder
+1 Flametongue Kavu
+1 Inferno Titan
+1 Dreadbore
+1 Daretti, Ingenious Iconoclast
+1 Solemn Simulacrum
+1 Wurmcoil Engine
+1 Blood Crypt
+1 Gemstone Mine
+1 Marsh Flats
+1 Needle Spires
+1 Scalding Tarn
+1 Strip Mine
+1 Terramorphic Expanse
+1 Windswept Heath
+1 Coldsteel Heart
+1 Prismatic Lens
+1 Umezawa's Jitte
+1 Crucible of Worlds
+4 Plains
+2 Swamp
+4 Mountain
+
+1 Isamaru, Hound of Konda
+1 Mardu Woe Reaper
+1 Thalia, Guardian of Thraben
+1 Blade Splicer
+1 Porcelain Legionaire
+1 Angel of Invention
+1 Looter Il-Kor
+1 Kira, Great Glass-Spinner
+1 Serendib Efreet
+1 Master of Waves
+1 Whirler Rogue
+1 Mulldrifter
+1 Mana Leak
+1 Miscalculation
+1 Tinker
+1 Control Magic
+1 Jace, the Mind Sculptor
+1 Dig Through Time
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Flesh Carver
+1 Skinrender
+1 Custodi Lich
+1 Grave Titan
+1 Profane Command
+1 Sarcomancy
+1 Thoughtseize
+1 Diabolic Edict
+1 Falkenrath Gorger
+1 Keldon Marauders
+1 War-Name Aspirant
+1 Young Pyromancer
+1 Burst Lightning
+1 Arc Trail
+1 Searing Spear
+1 Noble Hierarch
+1 Tireless Tracker
+1 Yasova Dragonclaw
+1 Thrun, the Last Troll
+1 Deranged Hermit
+1 Regal Behemoth
+1 Hornet Queen
+1 Woodfall Primus
+1 Treetop Village
+1 Warden of the First Tree
+1 Edric, Spymaster of Trest
+1 Dack Fayden
+1 Pernicious Deed
+1 Saheeli Rai
+1 Sarkhan Vol
+1 Myr Battlesphere
+1 Overgrown Tomb
+1 Stomping Ground
+1 Temple Garden
+1 Wandering Fumarole
+1 Pithing Needle
+1 Sword of Light and Shadow
+1 Tangle Wire
+1 Fleetwheel Cruiser

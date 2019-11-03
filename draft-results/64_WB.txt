@@ -1,0 +1,58 @@
+DeckId: 64
+Pilot: 4
+Date: 2014-10-16
+Colors: WB
+Labels: 
+Match Record: 0-3
+Game Record: 2-6
+vs. 66: 1-2
+vs. 68: 1-2
+vs. 65: 0-2
+
+1 Isamaru, Hound of Konda
+1 Student of Warfare
+1 Lone Missionary
+1 Stoneforge Mystic
+1 Blade Splicer
+1 Flickerwisp
+1 Mirror Entity
+1 Restoration Angel
+1 Sun Titan
+1 Spear of Heliod
+1 Faith's Fetters
+1 Geralf's Messenger
+1 Nekrataal
+1 Skinrender
+1 Thoughtseize
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Recurring Nightmare
+1 Consuming Vapors
+1 Marsh Flats
+1 Bonesplitter
+1 Skullclamp
+1 Sword of Light and Shadow
+1 Batterskull
+8 Plains
+8 Swamp
+
+1 Steppe Lynx
+1 Mana Tithe
+1 Aetherling
+1 Tinker
+1 Damnation
+1 Flametongue Kavu
+1 Pyroclasm
+1 Fyndhorn Elves
+1 Deranged Hermit
+1 Hornet Queen
+1 Green Sun's Zenith
+1 Call of the Herd
+1 Knight of the Reliquary
+1 Detention Sphere
+1 Gemstone Mine
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Temple Garden
+1 Pithing Needle
+1 Grim Monolith

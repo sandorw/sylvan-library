@@ -1,0 +1,58 @@
+DeckId: 106
+Pilot: 4
+Date: 2015-08-13
+Colors: Wu
+Labels: 
+Match Record: 3-0
+Game Record: 6-1
+vs. 107: 2-0
+vs. 108: 2-1
+vs. 109: 2-0
+
+1 Isamaru, Hound of Konda
+1 Kytheon, Heros of Akros
+1 Mother of Runes
+1 Soldier of the Pantheon
+1 Imposing Sovereign
+1 Thalia, Guardian of Thraben
+1 Blade Splicer
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Hero of Bladehold
+1 Elspeth, Knight-Errant
+1 Parallax Wave
+1 Spectral Procession
+1 Catastrophe
+1 Man-o'-War
+1 Phyrexian Metamorph
+1 Condescend
+1 Brainstorm
+1 Soulfire Grand Master
+1 Celestial Colonnade
+1 Mutavault
+1 Sword of Body and Mind
+1 Sword of Light and Shadow
+1 Tangle Wire
+12 Plains
+4 Island
+
+1 Wrath of God
+1 Sower of Temptation
+1 Aetherling
+1 Forbid
+1 Tezzeret the Seeker
+1 Dig Through Time
+1 Vampiric Tutor
+1 Arc Trail
+1 Incinerate
+1 Arc Lightning
+1 Elvish Mystic
+1 Acidic Slime
+1 Green Sun's Zenith
+1 Cultivate
+1 Warden of the First Tree
+1 Trygon Predator
+1 Simic Sky Swallower
+1 Engineered Explosives
+1 Temple Garden
+1 Pithing Needle

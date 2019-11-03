@@ -1,0 +1,59 @@
+DeckId: 77
+Pilot: 4
+Date: 2014-12-03
+Colors: UB
+Labels: 
+Match Record: 2-1
+Game Record: 5-4
+vs. 80: 1-2
+vs. 82: 2-1
+vs. 78: 2-1
+
+1 Phantasmal Image
+1 Man-o'-War
+1 Thassa, God of the Sea
+1 Sower of Temptation
+1 Condescend
+1 Force of Will
+1 Ponder
+1 Memory Lapse
+1 Control Magic
+1 Treachery
+1 Nezumi Graverobber
+1 Pack Rat
+1 Animate Dead
+1 Bitterblossom
+1 Malicious Affliction
+1 Hero's Downfall
+1 Necromancy
+1 Phyrexian Arena
+1 Baleful Strix
+1 Shadowmage Infiltrator
+1 Duskmantle Seer
+1 Creeping Tar Pit
+1 Evolving Wilds
+1 Umezawa's Jitte
+1 Sword of Body and Mind
+8 Island
+7 Swamp
+
+1 Elite Vanguard
+1 Parallax Wave
+1 Enclave Cryptologist
+1 Snapcaster Mage
+1 Impulse
+1 Remand
+1 Crystal Shard
+1 Jace Beleren
+1 Gravecrawler
+1 Greater Gargadon
+1 Wolfbitten Captive
+1 Strangleroot Geist
+1 Tarmogoyf
+1 Titania, Protector of Argoth
+1 Vorapede
+1 Sundering Titan
+1 Everflowing Chalice
+1 Hallowed Fountain
+1 Llanowar Wastes
+1 Mind Stone

@@ -1,0 +1,62 @@
+DeckId: 78
+Pilot: 9
+Date: 2014-12-03
+Colors: WUBRG
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 79: 2-1
+vs. 80: 0-2
+vs. 77: 1-2
+
+1 Accorder Paladin
+1 Wall of Omens
+1 Exalted Angel
+1 Restoration Angel
+1 Sun Titan
+1 Enlightened Tutor
+1 Spear of Heliod
+1 Venser, Shaper Savant
+1 Brainstorm
+1 Mystical Tutor
+1 Cryptic Command
+1 Time Spiral
+1 Upheaval
+1 Dig Through Time
+1 Carnophage
+1 Vampire Nighthawk
+1 Tombstalker
+1 Inquisition of Kozilek
+1 Consuming Vapors
+1 Fire Imp
+1 Guttersnipe
+1 Flametongue Kavu
+1 Chandra, Pyromaster
+1 Experiment One
+1 Jungle Lion
+1 Wild Mongrel
+1 Rancor
+1 Worldly Tutor
+1 Curse of Predation
+1 Garruk Wildspeaker
+1 Edric, Spymaster of Trest
+1 Geist of Saint Traft
+1 Trygon Predator
+1 Falkenrath Aristocrat
+1 Huntmaster of the Fells
+1 Ajani Vengeant
+1 Ral Zarek
+1 Venser, the Sojourner
+1 Molten-Tail Masticore
+1 Lavaclaw Reaches
+1 Polluted Delta
+1 Worldknit
+1 Bonesplitter
+1 Scroll Rack
+1 Crucible of Worlds
+4 Plains
+10 Island
+11 Swamp
+4 Mountain
+3 Forest
+

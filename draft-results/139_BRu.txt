@@ -1,0 +1,59 @@
+DeckId: 139
+Pilot: 10
+Date: 2016-02-17
+Colors: BRu
+Labels: 
+Match Record: 0-2-1
+Game Record: 3-5
+vs. 142: 1-2
+vs. 137: 1-1
+vs. 140: 1-2
+
+1 Phyrexian Metamorph
+1 Bloodsoaked Champion
+1 Drana, Liberator of Malakir
+1 Flesh Carver
+1 Ophiomancer
+1 Diabolic Edict
+1 Damnation
+1 Goblin Welder
+1 Zurgo Bellstriker
+1 Hellspark Elemental
+1 War-Name Aspirant
+1 Goblin Rabblemaster
+1 Pia and Kiran Nalaar
+1 Siege-Gang Commander
+1 Faithless Looting
+1 Firebolt
+1 Lightning Bolt
+1 Arc Lightning
+1 Koth of the Hammer
+1 Sarkhan, the Dragonspeaker
+1 Alesha, Who Smiles at Death
+1 Murderous Redcap
+1 Dreadbore
+7 Swamp
+10 Mountain
+
+1 Isamaru, Hound of Konda
+1 Spectral Procession
+1 Jace, Vryn's Prodigy
+1 Fact or Fiction
+1 Liliana, Heretical Healer
+1 Priest of the Blood Rite
+1 Grave Titan
+1 Profane Command
+1 Hymn to Tourach
+1 Curse of Shallow Graves
+1 Plated Geopede
+1 Hellrider
+1 Burst Lightning
+1 Rolling Earthquake
+1 Llanowar Elves
+1 Strangleroot Geist
+1 Rancor
+1 Rakdos Cackler
+1 Bloodbraid Elf
+1 Masticore
+1 Watery Grave
+1 Mimic Vat

@@ -1,0 +1,59 @@
+DeckId: 72
+Pilot: 4
+Date: 2014-11-13
+Colors: WB
+Labels: 
+Match Record: 1-2
+Game Record: 3-4
+vs. 76: 0-2
+vs. 73: 2-0
+vs. 71: 1-2
+
+1 Elite Vanguard
+1 Isamaru, Hound of Konda
+1 Mother of Runes
+1 Accorder Paladin
+1 Blade Splicer
+1 Mirror Entity
+1 Enlightened Tutor
+1 Spear of Heliod
+1 Parallax Wave
+1 Spectral Procession
+1 Gnarled Scarhide
+1 Dark Confidant
+1 Pack Rat
+1 Hypnotic Specter
+1 Master of the Feast
+1 Bitterblossom
+1 Curse of Shallow Graves
+1 Phyrexian Arena
+1 Sorin, Lord of Innistrad
+1 Phyrexian Revoker
+1 Bloodstained Mire
+1 Godless Shrine
+1 Winter Orb
+1 Sword of Body and Mind
+1 Sword of Fire and Ice
+8 Plains
+7 Swamp
+
+1 Memory Lapse
+1 Blood Scriviner
+1 Dance of the Dead
+1 Firedrinker Satyr
+1 Jackal Pup
+1 Stromkirk Noble
+1 Keldon Marauders
+1 Goblin Rabblemaster
+1 Guttersnipe
+1 Flametongue Kavu
+1 Hero of Oxid Ridge
+1 Purphoros, God of the Forge
+1 Thundermaw Hellkite
+1 Burst Lightning
+1 Arc Trail
+1 Staggershock
+1 Sarkhan, the Dragonspeaker
+1 Boros Charm
+1 Sacred Foundry
+1 Scroll Rack

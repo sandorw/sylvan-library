@@ -1,0 +1,58 @@
+DeckId: 154
+Pilot: 3
+Date: 2016-06-16
+Colors: RG
+Labels: 
+Match Record: 1-2
+Game Record: 2-4
+vs. 151: 0-2
+vs. 152: 0-2
+vs. 156: 2-0
+
+1 Feldon of the Third Path
+1 Sin Prodder
+1 Flametongue Kavu
+1 Thundermaw Hellkite
+1 Inferno Titan
+1 Chain Lightning
+1 Firebolt
+1 Incinerate
+1 Magma Jet
+1 Char
+1 Sarkhan, the Dragonspeaker
+1 Arbor Elf
+1 Elvish Mystic
+1 Noble Hierarch
+1 Tarmogoyf
+1 Reclamation Sage
+1 Yasova Dragonclaw
+1 Polukranos, World Eater
+1 Garruk Wildspeaker
+1 Kitchen Finks
+1 Bloodbraid Elf
+1 Dragonlord Atarka
+1 Wooded Foothill
+1 Sword of Fire and Ice
+10 Mountain
+6 Forest
+
+1 Aetherling
+1 Forbid
+1 Tezzeret the Seeker
+1 Liliana of the Veil
+1 Grim Lavamancer
+1 Young Pyromancer
+1 Fire Imp
+1 Sulfuric Vortex
+1 Wheel of Fortune
+1 Experiment One
+1 Figure of Destiny
+1 Warden of the First Tree
+1 Alesha, Who Smiles at Death
+1 Kolaghan's Command
+1 Sarkhan Vol
+1 Phyrexian Revoker
+1 Bloodstained Mire
+1 Mishra's Factory
+1 Ratchet Bomb
+1 Grafted Wargear

@@ -1,0 +1,61 @@
+DeckId: 63
+Pilot: 1
+Date: 2014-06-12
+Colors: WUBRG
+Labels: 
+Match Record: 1-1
+Game Record: 3-2
+vs. 61: 2-0
+vs. 62: 1-2
+
+1 Sun Titan
+1 Balance
+1 Banishing Light
+1 Spear of Heliod
+1 Spectral Procession
+1 Phantasmal Image
+1 Man-o'-War
+1 Serendib Efreet
+1 Mystical Tutor
+1 Arcane Denial
+1 Jace, the Mind Sculptor
+1 Treachery
+1 Geralf's Messenger
+1 Grave Titan
+1 Duress
+1 Animate Dead
+1 Curse of Shallow Graves
+1 Recurring Nightmare
+1 Toxic Deluge
+1 Reckless Reveler
+1 Inferno Titan
+1 Earthquake
+1 Devil's Play
+1 Faithless Looting
+1 Chandra, Pyromaster
+1 Llanowar Elves
+1 Viridian Shaman
+1 Deranged Hermit
+1 Survival of the Fittest
+1 Sylvan Library
+1 Curse of Predation
+1 Shadowmage Infiltrator
+1 Dack's Duplicate
+1 Dreadbore
+1 Detention Sphere
+1 Vindicate
+1 Ajani Vengeant
+1 Ral Zarek
+1 Izzet Boilerworks
+1 Marsh Flats
+1 Raging Ravine
+1 Worldknit
+1 Pithing Needle
+1 Sword of Light and Shadow
+1 Nevinyrral's Disk
+6 Plains
+5 Island
+5 Swamp
+5 Mountain
+5 Forest
+

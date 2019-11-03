@@ -1,0 +1,58 @@
+DeckId: 174
+Pilot: 5
+Date: 2016-11-02
+Colors: BG
+Labels: 
+Match Record: 3-0
+Game Record: 6-2
+vs. 176: 2-1
+vs. 172: 2-1
+vs. 173: 2-0
+
+1 Diregraf Ghoul
+1 Bloodghast
+1 Nezumi Graverobber
+1 Pack Rat
+1 Drana, Liberator of Malakir
+1 Flesh Carver
+1 Skinrender
+1 Profane Command
+1 Dark Ritual
+1 Bitterblossom
+1 Dismember
+1 Scavenging Ooze
+1 Courser of Kruphix
+1 Reclamation Sage
+1 Master of the Wild Hunt
+1 Polukranos, World Eater
+1 Wickerbough Elder
+1 Garruk Relentless
+1 Dryad Militant
+1 Lotleth Troll
+1 Maelstrom Pulse
+1 Myr Battlesphere
+1 Batterskull
+8 Swamp
+9 Forest
+
+1 Elspeth, Knight-Errant
+1 Catastrophe
+1 Man-o'-War
+1 Preordain
+1 Carnophage
+1 Liliana, Heretical Healer
+1 Duress
+1 Languish
+1 Thundermaw Hellkite
+1 Elvish Mystic
+1 Fauna Shaman
+1 Yavimaya Elder
+1 Woodfall Primus
+1 Regrowth
+1 Natural Order
+1 Pernicious Deed
+1 Blood Crypt
+1 Cursed Scroll
+1 Crucible of Worlds
+1 Mimic Vat
+1 Worn Powerstone

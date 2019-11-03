@@ -1,0 +1,59 @@
+DeckId: 192
+Pilot: 1
+Date: 2017-01-31
+Colors: URG
+Labels:
+Match Record: 1-2
+Game Record: 2-4
+vs. 197: 0-2
+vs. 191: 2-0
+vs. 193: 0-2
+
+1 Stomping Ground
+1 Saheeli Rai
+1 Edric, Spymaster of Trest
+1 Hanweir Garrison
+1 Treachery
+1 Condescend
+1 Tropical Island
+1 Opposition
+1 Abbot of Keral Keep
+1 Memory Lapse
+1 Thundermaw Hellkite
+1 Goblin Rabblemaster
+1 Phyrexian Revoker
+1 Lotus Cobra
+1 Bonesplitter
+1 Control Magic
+1 Yasova Dragonclaw
+1 Wooded Foothills
+1 Eternal Witness
+1 Misty Rainforest
+1 Inferno Titan
+1 Bloodbraid Elf
+1 Smuggler's Copter
+1 Daze
+1 Volcanic Island
+1 Breeding Pool
+1 Birds of Paradise
+1 Mana Leak
+1 Chrome Mox
+1 Tarmogoyf
+4 Island
+3 Mountain
+3 Forest
+
+1 Snapcaster Mage
+1 Miscalculation
+1 Man-o'-War
+1 Smash to Smithereens
+1 Sin Prodder
+1 Dack Fayden
+1 Ral Zarek
+1 Daretti, Ingenious Iconoclast
+1 Serendib Efreet
+1 Jungle Lion
+1 Experiment One
+1 Keldon Marauders
+1 Force Spike
+1 Waterfront Bouncer

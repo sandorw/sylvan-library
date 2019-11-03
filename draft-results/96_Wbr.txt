@@ -1,0 +1,60 @@
+DeckId: 96
+Pilot: 4
+Date: 2015-04-09
+Colors: Wbr
+Labels: 
+Match Record: 1-2
+Game Record: 3-3
+vs. 100: 1-2
+vs. 95: 2-0
+vs. 99: 0-1
+
+1 Mother of Runes
+1 Student of Warfare
+1 Stoneforge Mystic
+1 Brimaz, King of Oreskos
+1 Monastery Mentor
+1 Hero of Bladehold
+1 Restoration Angel
+1 Balance
+1 Disenchant
+1 Spear of Heliod
+1 Mardu Strike Leader
+1 Jackal Pup
+1 Keldon Marauders
+1 Flametongue Kavu
+1 Burst Lightning
+1 Alesha, Who Smiles at Death
+1 Vindicate
+1 Sorin, Lord of Innistrad
+1 Flooded Strand
+1 Sacred Foundry
+1 Pithing Needle
+1 Umezawa's Jitte
+1 Winter Orb
+1 Sword of Light and Shadow
+1 Tangle Wire
+8 Plains
+3 Swamp
+4 Mountain
+
+1 Exalted Angel
+1 Faith's Fetters
+1 Jace Beleren
+1 Vedalken Shackles
+1 Flesh Carver
+1 Profane Command
+1 Thoughtseize
+1 Hymn to Tourach
+1 Necromancy
+1 Consuming Vapors
+1 Snuff Out
+1 Pillage
+1 Koth of the Hammer
+1 Treetop Village
+1 Plow Under
+1 Edric, Spymaster of Trest
+1 Murderous Redcap
+1 Kolaghan's Command
+1 Misty Rainforest
+1 Smokestack

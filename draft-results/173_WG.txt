@@ -1,0 +1,59 @@
+DeckId: 173
+Pilot: 4
+Date: 2016-11-02
+Colors: WG
+Labels: 
+Match Record: 1-3
+Game Record: 4-6
+vs. 172: 1-2
+vs. 175: 2-0
+vs. 176: 1-2
+vs. 174: 0-2
+
+1 Kytheon, Heros of Akros
+1 Accorder Paladin
+1 Thalia, Guardian of Thraben
+1 Blade Splicer
+1 Brimaz, King of Oreskos
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Archangel Avacyn
+1 Cloudgoat Ranger
+1 Parallax Wave
+1 Spectral Procession
+1 Birds of Paradise
+1 Duskwatch Recruiter
+1 Sylvan Advocate
+1 Eternal Witness
+1 Thragtusk
+1 Rancor
+1 Song of the Dryads
+1 Phyrexian Revoker
+1 Wurmcoil Engine
+1 Skullclamp
+1 Umezawa's Jitte
+1 Sword of Fire and Ice
+1 Sword of War and Peace
+8 Plains
+8 Forest
+
+1 Monastery Mentor
+1 Sun Titan
+1 Mana Tithe
+1 Day of Judgment
+1 Wrath of God
+1 Wharf Infiltrator
+1 Whirler Rogue
+1 Memory Lapse
+1 Tinker
+1 Fact or Fiction
+1 Toxic Deluge
+1 Damnation
+1 Manic Vandal
+1 Hornet Queen
+1 Survival of the Fittest
+1 Knight of the Reliquary
+1 Lingering Souls
+1 Breeding Pool
+1 Hallowed Fountain
+1 Tangle Wire

@@ -1,0 +1,60 @@
+DeckId: 107
+Pilot: 1
+Date: 2015-08-13
+Colors: WBR
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 106: 0-2
+vs. 109: 2-1
+vs. 108: 1-2
+
+1 Brimaz, King of Oreskos
+1 Cloudgoat Ranger
+1 Reveillark
+1 Flesh Carver
+1 Ophiomancer
+1 Inquisition of Kozilek
+1 Diabolic Edict
+1 Dismember
+1 Recurring Nightmare
+1 Snuff Out
+1 Goblin Rabblemaster
+1 Hero of Oxid Ridge
+1 Pia and Kiran Nalaar
+1 Siege-Gang Commander
+1 Faithless Looting
+1 Smash to Smithereens
+1 Alesha, Who Smiles at Death
+1 Dreadbore
+1 Lingering Souls
+1 Vindicate
+1 Ajani Vengeant
+1 Sorin, Lord of Innistrad
+1 Battlefield Forge
+1 Caves of Koilos
+1 Godless Shrine
+1 Mana Confluence
+1 Windswept Heath
+1 Cursed Scroll
+3 Plains
+4 Swamp
+5 Mountain
+
+1 Stoneforge Mystic
+1 Wall of Omens
+1 Baneslayer Angel
+1 Council's Judgment
+1 Gideon Jura
+1 Jace, the Mind Sculptor
+1 Treachery
+1 Grim Lavamancer
+1 Feldon of the Third Path
+1 Sulfuric Vortex
+1 Courser of Kruphix
+1 Thragtusk
+1 Wurmcoil Engine
+1 Breeding Pool
+1 Hallowed Fountain
+1 Mishra's Factory
+1 Grafted Wargear

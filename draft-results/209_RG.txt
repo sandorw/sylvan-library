@@ -1,0 +1,59 @@
+DeckId: 209 
+Pilot: 33
+Date: 2017-03-07
+Colors: RG
+Labels:
+Match Record: 2-1 
+Game Record: 5-2
+vs. 205: 2-0
+vs. 207: 1-2
+vs. 204: 2-0
+
+1 Smash to Smithereens
+1 Firebolt
+1 Hellrider
+1 Bloodbraid Elf
+1 Pia and Kiran Nalaar
+1 Hero of Oxid Ridge
+1 Garruk Relentless
+1 Flametongue Kavu
+1 Siege-Gang Commander
+1 Thundermaw Hellkite
+1 Goblin Guide
+1 Rishadan Port
+1 Firedrinker Satyr
+1 Fireblast
+1 Stomping Ground
+1 Hellspark Elemental
+1 Searing Spear
+1 Lightning Bolt
+1 Grim Lavamancer
+1 Tattermunge Maniac
+1 Hanweir Garrison
+1 Magma Jet
+1 Char
+1 Goblin Rabblemaster
+1 Sulfuric Vortex
+1 Stormblood Berserker
+8 Mountain
+6 Forest
+
+1 Woodfall Primus
+1 Garruk Wildspeaker
+1 Tireless Tracker
+1 Kessig Prowler
+1 Jungle Lion
+1 Treetop Village
+1 Falkenrath Gorger
+1 Jackal Pup
+1 Wooded Foothills
+1 Rancor
+1 Manic Vandal
+1 Dragonlord Atarka
+1 Feldon of the Third Path
+1 Arbor Elf
+1 Regrowth
+1 Engineered Explosives
+1 Upheaval
+1 Polukranos, World Eater
+1 Grim Monolith

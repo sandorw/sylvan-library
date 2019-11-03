@@ -1,0 +1,59 @@
+DeckId: 221
+Pilot: 1
+Date: 2017-04-25
+Colors: BRG
+Labels:
+Match Record: 0-3
+Game Record: 3-6
+vs. 218: 1-2
+vs. 219: 1-2
+vs. 222: 1-2
+
+1 Coldsteel Heart
+1 Griselbrand
+1 Strip Mine
+1 Necromancy
+1 Wildfire
+1 Oath of Druids
+1 Taiga
+1 Maelstrom Pulse
+1 Burning of Xinye
+1 Crucible of Worlds
+1 Scroll Rack
+1 Stomping Ground
+1 Emrakul, the Promised End
+1 Coalition Relic
+1 Bayou
+1 Wasteland
+1 Cursed Scroll
+1 Bloodstained Mire
+1 Vampiric Tutor
+1 Chandra, Torch of Defiance
+1 Snuff Out
+1 Rolling Earthquake
+1 Arc Lightning
+1 Prismatic Lens
+1 Mind Stone
+1 Searing Spear
+1 Ulamog, the Ceaseless Hunger
+1 Demonic Tutor
+1 Sundering Titan
+1 Magma Jet
+3 Swamp
+5 Mountain
+2 Forest
+
+1 Land Tax
+1 Mardu Woe-Reaper
+1 Young Pyromancer
+1 Treetop Village
+1 Maze of Ith
+1 Plow Under
+1 Thundermaw Hellkite
+1 Tendo Ice Bridge
+1 Watery Grave
+1 Savannah Lions
+1 Tasigur, the Golden Fang
+1 Ravages of War
+1 Blade Splicer
+1 Mystic Confluence

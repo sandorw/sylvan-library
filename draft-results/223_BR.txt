@@ -1,0 +1,58 @@
+DeckId: 223
+Pilot: 4
+Date: 2017-04-25
+Colors: BR
+Labels:
+Match Record: 1-2
+Game Record: 4-5
+vs. 219: 1-2
+vs. 222: 2-1
+vs. 218: 1-2
+
+1 Hero of Oxid Ridge
+1 Smuggler's Copter
+1 Keldon Marauders
+1 Rakdos Cackler
+1 Hellrider
+1 Thoughtseize
+1 Mardu Strike Leader
+1 Wheel of Fortune
+1 Winter Orb
+1 Stormblood Berserker
+1 Scrapheap Scrounger
+1 Carnophage
+1 Diregraf Ghoul
+1 Fleetwheel Cruiser
+1 Sword of Light and Shadow
+1 Incinerate
+1 Kari Zev, Skyship Raider
+1 Char
+1 Hellspark Elemental
+1 Falkenrath Gorger
+1 Dark Confidant
+1 Grim Lavamancer
+1 Alesha, Who Smiles at Death
+1 Grafted Wargear
+8 Swamp
+8 Mountain
+
+1 Braids, Cabal Minion
+1 Hanweir Garrison
+1 Dread Wanderer
+1 Abbot of Keral Keep
+1 Grave Titan
+1 Inferno Titan
+1 Sarcomancy
+1 Mishra's Factory
+1 Mutavault
+1 Sword of Body and Mind
+1 Jackal Pup
+1 Tangle Wire
+1 Heir of Falkenrath
+1 Show and Tell
+1 Steam Vents
+1 Parallax Wave
+1 Wall of Omens
+1 Tezzeret, Agent of Bolas
+1 Elspeth, Sun's Champion
+1 Manic Vandal

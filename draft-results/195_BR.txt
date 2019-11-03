@@ -1,0 +1,59 @@
+DeckId: 195
+Pilot: 2
+Date: 2017-01-31
+Colors: BR
+Labels:
+Match Record: 3-0
+Game Record: 6-1
+vs. 193: 2-1
+vs. 196: 2-0
+vs. 194: 2-0
+
+1 Sulfuric Vortex
+1 Fireblast
+1 Stormblood Berserker
+1 Hellrider
+1 Lightning Bolt
+1 City of Brass
+1 Heir of Falkenrath
+1 Falkenrath Gorger
+1 Jackal Pup
+1 Kolaghan's Command
+1 Mutavault
+1 Goblin Guide
+1 Chain Lightning
+1 Dark Confidant
+1 Arid Mesa
+1 Firebolt
+1 Burst Lightning
+1 Young Pyromancer
+1 Hero of Oxid Ridge
+1 Sarcomancy
+1 Scalding Tarn
+1 Skullclamp
+1 Firedrinker Satyr
+1 Wheel of Fortune
+1 Blood Crypt
+1 Carnophage
+1 Zurgo Bellstriker
+1 Searing Spear
+1 Lightning Mauler
+1 Diregraf Ghoul
+5 Swamp
+5 Mountain
+
+1 Strip Mine
+1 Wasteland
+1 Fiery Confluence
+1 Mind Twist
+1 Hellspark Elemental
+1 Char
+1 Dismember
+1 Dreadbore
+1 Counterspell
+1 Inquisition of Kozilek
+1 Balance
+1 Forbid
+1 Burning of Xinye
+1 Greater Gargadon
+1 Manic Vandal

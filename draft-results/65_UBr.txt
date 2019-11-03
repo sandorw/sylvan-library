@@ -1,0 +1,61 @@
+DeckId: 65
+Pilot: 1
+Date: 2014-10-16
+Colors: UBr
+Labels: 
+Match Record: 3-2
+Game Record: 9-4
+vs. 69: 2-0
+vs. 67: 3-0
+vs. 68: 1-2
+vs. 66: 1-2
+vs. 64: 2-0
+
+1 Looter Il-Kor
+1 Snapcaster Mage
+1 Serendib Efreet
+1 Meloku, the Clouded Mirror
+1 Daze
+1 Mana Leak
+1 Memory Lapse
+1 Carnophage
+1 Diregraf Ghoul
+1 Gnarled Scarhide
+1 Bloodghast
+1 Master of the Feast
+1 Shriekmaw
+1 Dark Ritual
+1 Duress
+1 Bitterblossom
+1 Hymn to Tourach
+1 Rakdos Cackler
+1 Baleful Strix
+1 Shadowmage Infiltrator
+1 Duskmantle Seer
+1 Falkenrath Aristocrat
+1 Dreadbore
+1 Dack Fayden
+1 Arid Mesa
+1 Blood Crypt
+1 Creeping Tar Pit
+1 Mana Confluence
+1 Scalding Tarn
+1 Shivan Reef
+1 Watery Grave
+4 Island
+4 Swamp
+1 Mountain
+
+1 Swords to Plowshares
+1 Banishing Light
+1 Arcane Denial
+1 Time Spiral
+1 Necromancy
+1 Manic Vandal
+1 Scavenging Ooze
+1 Life from the Loam
+1 Venser, the Sojourner
+1 Solemn Simulacrum
+1 Evolving Wilds
+1 Smokestack
+1 Aether Searcher

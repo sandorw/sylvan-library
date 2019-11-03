@@ -1,0 +1,59 @@
+DeckId: 172
+Pilot: 9
+Date: 2016-11-02
+Colors: UBw
+Labels: 
+Match Record: 1-2
+Game Record: 4-5
+vs. 173: 2-1
+vs. 174: 1-2
+vs. 177: 1-2
+
+1 Jace, Vryn's Prodigy
+1 Thassa, God of the Sea
+1 Vendilion Clique
+1 Glen Elendra Archmage
+1 Master of Waves
+1 Sower of Temptation
+1 Venser, Shaper Savant
+1 Meloku, the Clouded Mirror
+1 Condescend
+1 Force of Will
+1 Counterspell
+1 Control Magic
+1 Cryptic Command
+1 Grave Titan
+1 Hero's Downfall
+1 Phyrexian Arena
+1 Geist of Saint Traft
+1 Tasigur, the Golden Fang
+1 Sphinx of the Steel Wind
+1 Vindicate
+1 Solemn Simulacrum
+1 City of Brass
+1 Creeping Tar Pit
+1 Grand Coliseum
+1 Shambling Vent
+1 Terramorphic Expanse
+1 Watery Grave
+1 Mind Stone
+1 Prismatic Lens
+1 Plains
+6 Island
+4 Swamp
+
+1 Baneslayer Angel
+1 Armageddon
+1 Phantasmal Image
+1 Serendib Efreet
+1 Force Spike
+1 Mystical Tutor
+1 Miscalculation
+1 Remand
+1 Siege-Gang Commander
+1 Llanowar Elves
+1 Noble Hierarch
+1 Primeval Titan
+1 Sylvan Library
+1 Engineered Explosives
+1 Pithing Needle

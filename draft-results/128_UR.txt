@@ -1,0 +1,61 @@
+DeckId: 128
+Pilot: 5
+Date: 2015-11-18
+Colors: UR
+Labels: 
+Match Record: 2-0
+Game Record: 4-2
+vs. 127: 2-1
+vs. 129: 2-1
+
+1 Looter Il-Kor
+1 Aether Adept
+1 Vendilion Clique
+1 Phyrexian Metamorph
+1 Counterspell
+1 Daze
+1 Goblin Guide
+1 Grim Lavamancer
+1 Hellspark Elemental
+1 Plated Geopede
+1 Stormblood Berserker
+1 Goblin Rabblemaster
+1 Manic Vandal
+1 Flametongue Kavu
+1 Hellrider
+1 Thundermaw Hellkite
+1 Firebolt
+1 Lightning Bolt
+1 Arc Lightning
+1 Wheel of Fortune
+1 Sarkhan, the Dragonspeaker
+1 Murderous Redcap
+1 Gemstone Mine
+1 Grand Coliseum
+1 Scalding Tarn
+1 Wasteland
+6 Island
+8 Mountain
+
+1 Soltari Champion
+1 Exalted Angel
+1 Spectral Procession
+1 Catastrophe
+1 Academy Ruins
+1 Carnophage
+1 Bloodghast
+1 Dance of the Dead
+1 Dismember
+1 Sneak Attack
+1 Jungle Lion
+1 Wall of Roots
+1 Courser of Kruphix
+1 Master of the Wild Hunt
+1 Sylvan Library
+1 Lotleth Troll
+1 Edric, Spymaster of Trest
+1 Geist of Saint Traft
+1 Tasigur, the Golden Fang
+1 Battlefield Forge
+1 Blood Crypt
+1 Llanowar Wastes

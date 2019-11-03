@@ -1,0 +1,59 @@
+DeckId: 185
+Pilot: 25
+Date: 2017-01-17
+Colors: WUr
+Labels: 
+Match Record: 1-2
+Game Record: 3-5
+vs. 187: 1-2
+vs. 183: 2-1
+vs. 186: 0-2
+
+1 Selfless Spirit
+1 Hallowed Spiritkeeper
+1 Land Tax
+1 Swords to Plowshares
+1 Spectral Procession
+1 Vendilion Clique
+1 Venser, Shaper Savant
+1 Meloku, the Clouded Mirror
+1 Aetherling
+1 Faerie Conclave
+1 Brainstorm
+1 Arcane Denial
+1 Counterspell
+1 Miscalculation
+1 Fact or Fiction
+1 Opposition
+1 Hellspark Elemental
+1 Goblin Rabblemaster
+1 Manic Vandal
+1 Alesha, Who Smiles at Death
+1 Geist of Saint Traft
+1 Reflector Mage
+1 Ajani Vengeant
+1 Arid Mesa
+1 Flooded Strand
+1 Hallowed Fountain
+1 Mana Confluence
+1 Misty Rainforest
+1 Tundra
+1 Skullclamp
+3 Plains
+5 Island
+2 Mountain
+
+1 Student of Warfare
+1 Mirror Entity
+1 Monastery Mentor
+1 Whirler Rogue
+1 Mystical Tutor
+1 Crystal Shard
+1 Treachery
+1 Sarcomancy
+1 Hanweir Garrison
+1 Siege-Gang Commander
+1 Joraga Treespeaker
+1 Rakdos Cackler
+1 Solemn Simulacrum
+1 Mishra's Factory

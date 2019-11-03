@@ -1,0 +1,58 @@
+DeckId: 208
+Pilot: 25
+Date: 2017-03-07
+Colors: W
+Labels:
+Match Record: 2-1
+Game Record: 4-3
+vs. 211: 2-0
+vs. 204: 2-1
+vs. 207: 0-2
+
+1 Mother of Runes
+1 Path to Exile
+1 Brimaz, King of Oreskos
+1 Soldier of the Pantheon
+1 Porcelain Legionnaire
+1 Hallowed Spiritkeeper
+1 Mirror Entity
+1 Hero of Bladehold
+1 Oblivion Ring
+1 Dryad Militant
+1 Wasteland
+1 Figure of Destiny
+1 Isamaru, Hound of Konda
+1 Angel of Invention
+1 Flickerwisp
+1 Sword of Body and Mind
+1 Skullclamp
+1 Selfless Spirit
+1 Student of Warfare
+1 Grafted Wargear
+1 Kytheon, Hero of Akros
+1 Restoration Angel
+1 Blade Splicer
+1 Thalia, Heretic Cathar
+1 Strip Mine
+1 Unexpectedly Absent
+14 Plains
+
+1 Wildfire
+1 Thirst for Knowledge
+1 Sarcomancy
+1 Arc Trail
+1 Arc Lightning
+1 Sneak Attack
+1 Kari Zev, Skyship Raider
+1 Incinerate
+1 Zurgo Bellstriker
+1 Mardu Woe-Reaper
+1 Wall of Omens
+1 Sensei's Divining Top
+1 Temple Garden
+1 Tendo Ice Bridge
+1 Steam Vents
+1 Celestial Colonnade
+1 Sun Titan
+1 Elspeth, Sun's Champion
+1 Yavimaya Elder

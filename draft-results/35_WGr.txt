@@ -1,0 +1,58 @@
+DeckId: 35
+Pilot: 3
+Date: 2014-01-17
+Colors: WGr
+Labels: 
+Match Record: 2-1
+Game Record: 5-4
+vs. 33: 1-2
+vs. 30: 2-1
+vs. 31: 2-1
+
+1 Elite Vanguard
+1 Steppe Lynx
+1 Student of Warfare
+1 Imposing Sovereign
+1 Kor Skyfisher
+1 Lone Missionary
+1 Soltari Priest
+1 Porcelain Legionaire
+1 Silverblade Paladin
+1 Soltari Champion
+1 Hero of Bladehold
+1 Journey to Nowhere
+1 Elspeth, Knight-Errant
+1 Experiment One
+1 Jungle Lion
+1 River Boa
+1 Scavenging Ooze
+1 Green Sun's Zenith
+1 Dryad Militant
+1 Qasali Pridemage
+1 Wild Nacatl
+1 Kitchen Finks
+1 Horizon Canopy
+1 Grafted Wargear
+1 Sword of Fire and Ice
+9 Plains
+6 Forest
+
+1 Blade Splicer
+1 Exalted Angel
+1 Balance
+1 Day of Judgment
+1 Catastrophe
+1 Plated Geopede
+1 Avalanche Riders
+1 Magma Jet
+1 Llanowar Elves
+1 Eternal Witness
+1 Viridian Shaman
+1 Regrowth
+1 Shadowmage Infiltrator
+1 Boros Charm
+1 Izzet Charm
+1 Mishra's Factory
+1 Stomping Ground
+1 Skullclamp
+1 Scroll Rack

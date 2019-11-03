@@ -1,0 +1,58 @@
+DeckId: 162
+Pilot: 2
+Date: 2016-07-06
+Colors: URb
+Labels: 
+Match Record: 2-1
+Game Record: 4-2
+vs. 165: 2-0
+vs. 163: 0-2
+vs. 164: 2-0
+
+1 Jace, Vryn's Prodigy
+1 Glen Elendra Archmage
+1 Venser, Shaper Savant
+1 Mulldrifter
+1 Brainstorm
+1 Ponder
+1 Cryptic Command
+1 Mystic Confluence
+1 Inferno Titan
+1 Firebolt
+1 Fiery Confluence
+1 Burning of Xinye
+1 Wildfire
+1 Baleful Strix
+1 Kolaghan's Command
+1 Ral Zarek
+1 Myr Battlesphere
+1 Sundering Titan
+1 Bloodstained Mire
+1 Everflowing Chalice
+1 Flooded Strand
+1 Misty Rainforest
+1 Mox Diamond
+1 Polluted Delta
+1 Watery Grave
+1 Sensei's Divining Top
+1 Mind Stone
+6 Island
+7 Mountain
+
+1 Mardu Woe Reaper
+1 Unexpectedly Absent
+1 Day of Judgment
+1 Whirler Rogue
+1 Arcane Denial
+1 Miscalculation
+1 Remand
+1 Upheaval
+1 Feldon of the Third Path
+1 Manic Vandal
+1 Tarmogoyf
+1 Wild Mongrel
+1 Wickerbough Elder
+1 Tezzeret, Agent of Bolas
+1 Godless Shrine
+1 Winter Orb
+1 Tangle Wire

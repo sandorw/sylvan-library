@@ -1,0 +1,58 @@
+DeckId: 214
+Pilot: 32
+Date: 2017-03-28
+Colors: BR
+Labels:
+Match Record: 3-0
+Game Record: 6-1
+vs. 213: 2-0
+vs. 216: 2-1
+vs. 212: 2-0
+
+1 Gnarled Scarhide
+1 Inquisition of Kozilek
+1 Carnophage
+1 Zurgo Bellstriker
+1 Keldon Marauders
+1 Duress
+1 Stormblood Berserker
+1 Figure of Destiny
+1 Hellspark Elemental
+1 Fireblast
+1 Heir of Falkenrath
+1 Abbot of Keral Keep
+1 Kari Zev, Skyship Raider
+1 Tangle Wire
+1 Winter Orb
+1 Sulfuric Vortex
+1 Sword of Fire and Ice
+1 Skullclamp
+1 Gravecrawler
+1 Goblin Guide
+1 Wheel of Fortune
+1 Grim Lavamancer
+1 Asylum Visitor
+1 Rakdos Cackler
+1 Rishadan Port
+7 Swamp
+8 Mountain
+
+1 Noble Hierarch
+1 Hornet Queen
+1 Sphinx of the Steel Wind
+1 Grave Titan
+1 Sword of Light and Shadow
+1 Kolaghan's Command
+1 Smash to Smithereens
+1 Braids, Cabal Minion
+1 Smokestack
+1 Toxic Deluge
+1 Bonesplitter
+1 Deranged Hermit
+1 Arbor Elf
+1 Control Magic
+1 Looter il-Kor
+1 Phrexian Revoker
+1 Courser of Kruphix
+1 Everflowing Chalice
+1 Crucible of Worlds

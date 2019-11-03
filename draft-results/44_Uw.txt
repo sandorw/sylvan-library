@@ -1,0 +1,59 @@
+DeckId: 44
+Pilot: 2
+Date: 2014-02-05
+Colors: Uw
+Labels: 
+Match Record: 3-1
+Game Record: 6-4
+vs. 43: 2-1
+vs. 42: 0-2
+vs. 41: 2-1
+vs. 40: 2-0
+
+1 Elspeth, Knight-Errant
+1 Faith's Fetters
+1 Wrath of God
+1 Vendilion Clique
+1 Dungeon Geists
+1 Glen Elendra Archmage
+1 Sower of Temptation
+1 Mulldrifter
+1 Ancestral Vision
+1 Force Spike
+1 Impulse
+1 Miscalculation
+1 Remand
+1 Cryptic Command
+1 Deep Analysis
+1 Supreme Verdict
+1 Venser, the Sojourner
+1 Wurmcoil Engine
+1 Myr Battlesphere
+1 Ancient Tomb
+1 Flooded Strand
+1 Hallowed Fountain
+1 Pithing Needle
+1 Mind Stone
+1 Talisman of Dominance
+6 Plains
+9 Island
+
+1 Elite Vanguard
+1 Blade Splicer
+1 Enlightened Tutor
+1 Armageddon
+1 Serendib Efreet
+1 Memory Lapse
+1 Upheaval
+1 Bloodghast
+1 Vampiric Tutor
+1 Bitterblossom
+1 Toxic Deluge
+1 Incinerate
+1 Searing Spear
+1 Arc Lightning
+1 Strangleroot Geist
+1 Garruk Wildspeaker
+1 Clifftop Retreat
+1 Everflowing Chalice
+1 Memory Jar
