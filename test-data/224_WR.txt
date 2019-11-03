@@ -1,0 +1,38 @@
+DeckId: 224
+Pilot: 1
+Date: 2019-11-03
+Colors: WR
+Labels:
+Match Record: 0-1
+Game Record: 3-5
+vs. 225: 3-5
+
+1 Reveillark
+1 Hero of Bladehold
+1 Monastery Mentor
+1 Abrade
+1 Chain Lightning
+1 Stoneforge Mystic
+1 Porcelain Legionnaire
+1 Ajani Vengeant
+1 Selfless Spirit
+1 Oblivion Ring
+1 Thundermaw Hellkite
+1 Purphoros, God of the Forge
+1 Umezawa's Jitte
+1 Sword of Body and Mind
+1 Enlightened Tutor
+1 Arc Lightning
+1 Elspeth, Sun's Champion
+1 Banishing Light
+1 Dire Fleet Daredevil
+1 Lightning Bolt
+1 Young Pyromancer
+1 Mox Diamond
+1 Batterskull
+1 Fabled Passage
+1 Sacred Foundry
+1 Arid Mesa
+1 Mana Confluence
+6 Plains
+7 Mountain
