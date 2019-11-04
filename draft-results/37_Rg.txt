@@ -2,7 +2,7 @@ DeckId: 37
 Pilot: 3
 Date: 2014-01-29
 Colors: Rg
-Labels: 
+Labels: Aggro, Burn
 Match Record: 3-0
 Game Record: 9-3
 vs. 39: 3-2
@@ -32,7 +32,7 @@ vs. 36: 2-1
 1 Misty Rainforest
 1 Scalding Tarn
 1 Wasteland
-1 Wooded Foothill
+1 Wooded Foothills
 1 Winter Orb
 1 Grafted Wargear
 1 Sword of War and Peace

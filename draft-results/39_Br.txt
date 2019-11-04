@@ -2,7 +2,7 @@ DeckId: 39
 Pilot: 12
 Date: 2014-01-29
 Colors: Br
-Labels: 
+Labels: Stax, Midrange
 Match Record: 1-2
 Game Record: 5-6
 vs. 37: 2-3
