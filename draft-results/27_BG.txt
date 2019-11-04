@@ -2,7 +2,7 @@ DeckId: 27
 Pilot: 29
 Date: 2013-12-21
 Colors: BG
-Labels: 
+Labels: Stax, Midrange
 Match Record: 1-0-1
 Game Record: 5-4
 vs. 26: 2-1
