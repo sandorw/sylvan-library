@@ -2,7 +2,7 @@ DeckId: 38
 Pilot: 1
 Date: 2014-01-29
 Colors: WUbg
-Labels: 
+Labels: Control
 Match Record: 2-1
 Game Record: 4-5
 vs. 36: 2-0
