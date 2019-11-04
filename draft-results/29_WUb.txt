@@ -2,7 +2,7 @@ DeckId: 29
 Pilot: 3
 Date: 2013-12-21
 Colors: WUb
-Labels: 
+Labels: Control
 Match Record: 0-1-1
 Game Record: 4-5
 vs. 27: 3-3
@@ -10,7 +10,7 @@ vs. 28: 1-2
 
 1 Lone Missionary
 1 Stoneforge Mystic
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Path to Exile
 1 Revoke Existence
 1 Faith's Fetters
