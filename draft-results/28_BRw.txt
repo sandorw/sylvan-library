@@ -2,7 +2,7 @@ DeckId: 28
 Pilot: 1
 Date: 2013-12-21
 Colors: BRw
-Labels: 
+Labels: Burn, Aggro, Tokens
 Match Record: 2-0
 Game Record: 4-2
 vs. 26: 2-1
