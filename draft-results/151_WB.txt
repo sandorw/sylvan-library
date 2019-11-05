@@ -2,7 +2,7 @@ DeckId: 151
 Pilot: 2
 Date: 2016-06-16
 Colors: WB
-Labels: 
+Labels: Aggro, Tokens
 Match Record: 1-2
 Game Record: 3-4
 vs. 154: 2-0
