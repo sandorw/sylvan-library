@@ -2,7 +2,7 @@ DeckId: 113
 Pilot: 7
 Date: 2015-10-29
 Colors: UB
-Labels: 
+Labels: Midrange, Artifacts
 Match Record: 2-0
 Game Record: 4-2
 vs. 118: 2-1
