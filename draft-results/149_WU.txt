@@ -2,7 +2,7 @@ DeckId: 149
 Pilot: 2
 Date: 2016-03-22
 Colors: WU
-Labels: 
+Labels: Control
 Match Record: 2-1
 Game Record: 4-3
 vs. 146: 2-1
