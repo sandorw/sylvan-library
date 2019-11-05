@@ -2,7 +2,7 @@ DeckId: 125
 Pilot: 6
 Date: 2015-11-05
 Colors: BRg
-Labels: 
+Labels: Aggro
 Match Record: 0-2
 Game Record: 1-4
 vs. 119: 0-2
