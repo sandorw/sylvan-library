@@ -2,7 +2,7 @@ DeckId: 135
 Pilot: 3
 Date: 2016-01-12
 Colors: W
-Labels: 
+Labels: Midrange
 Match Record: 1-1
 Game Record: 2-2
 vs. 136: 0-2
