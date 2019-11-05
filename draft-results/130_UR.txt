@@ -2,7 +2,7 @@ DeckId: 130
 Pilot: 1
 Date: 2016-01-12
 Colors: UR
-Labels: 
+Labels: Tempo, Burn
 Match Record: 2-0
 Game Record: 4-0
 vs. 136: 2-0
