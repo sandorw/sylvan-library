@@ -2,7 +2,7 @@ DeckId: 156
 Pilot: 4
 Date: 2016-06-16
 Colors: BGr
-Labels: 
+Labels: Wildfire, Lands Matter, Midrange
 Match Record: 0-3
 Game Record: 1-6
 vs. 153: 0-2
