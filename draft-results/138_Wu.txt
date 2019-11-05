@@ -2,7 +2,7 @@ DeckId: 138
 Pilot: 3
 Date: 2016-02-17
 Colors: Wu
-Labels: 
+Labels: Tempo, Aggro
 Match Record: 2-1
 Game Record: 4-2
 vs. 141: 0-2
