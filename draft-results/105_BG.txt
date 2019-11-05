@@ -2,7 +2,7 @@ DeckId: 105
 Pilot: 1
 Date: 2015-05-28
 Colors: BG
-Labels: 
+Labels: Midrange, Stax
 Match Record: 1-0
 Game Record: 3-2
 vs. 104: 3-2
