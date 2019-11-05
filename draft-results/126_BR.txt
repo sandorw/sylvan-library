@@ -2,7 +2,7 @@ DeckId: 126
 Pilot: 4
 Date: 2015-11-18
 Colors: BR
-Labels: 
+Labels: Midrange, Tokens
 Match Record: 1-1
 Game Record: 2-2
 vs. 129: 0-2
