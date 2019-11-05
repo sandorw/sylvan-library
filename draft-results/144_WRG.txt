@@ -2,7 +2,7 @@ DeckId: 144
 Pilot: 1
 Date: 2016-03-22
 Colors: WRG
-Labels: 
+Labels: Wildfire, Midrange, Ramp
 Match Record: 1-2
 Game Record: 2-4
 vs. 148: 2-0
