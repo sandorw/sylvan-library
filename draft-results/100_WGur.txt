@@ -2,7 +2,7 @@ DeckId: 100
 Pilot: 1
 Date: 2015-04-09
 Colors: WGur
-Labels: 
+Labels: Midrange
 Match Record: 1-2
 Game Record: 2-5
 vs. 96: 2-1

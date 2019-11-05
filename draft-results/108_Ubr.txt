@@ -2,7 +2,7 @@ DeckId: 108
 Pilot: 2
 Date: 2015-08-13
 Colors: Ubr
-Labels: 
+Labels: Control
 Match Record: 2-1
 Game Record: 5-4
 vs. 109: 2-1

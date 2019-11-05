@@ -2,7 +2,7 @@ DeckId: 115
 Pilot: 2
 Date: 2015-10-29
 Colors: UBg
-Labels: 
+Labels: Tokens, Control
 Match Record: 1-2
 Game Record: 4-5
 vs. 114: 1-2

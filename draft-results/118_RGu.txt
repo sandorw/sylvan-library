@@ -2,7 +2,7 @@ DeckId: 118
 Pilot: 6
 Date: 2015-10-29
 Colors: RGu
-Labels: 
+Labels: Midrange, Wildfire, Cheat
 Match Record: 1-1
 Game Record: 3-2
 vs. 113: 1-2

@@ -2,7 +2,7 @@ DeckId: 103
 Pilot: 4
 Date: 2015-04-16
 Colors: WU
-Labels: 
+Labels: Control
 Match Record: 0-2
 Game Record: 0-4
 vs. 101: 0-2

@@ -2,7 +2,7 @@ DeckId: 106
 Pilot: 4
 Date: 2015-08-13
 Colors: Wu
-Labels: 
+Labels: Midrange, Tokens, Tempo
 Match Record: 3-0
 Game Record: 6-1
 vs. 107: 2-0

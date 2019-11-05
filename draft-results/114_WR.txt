@@ -2,7 +2,7 @@ DeckId: 114
 Pilot: 5
 Date: 2015-10-29
 Colors: WR
-Labels: 
+Labels: Aggro
 Match Record: 1-2
 Game Record: 3-5
 vs. 115: 2-1
