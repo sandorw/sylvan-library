@@ -2,7 +2,7 @@ DeckId: 124
 Pilot: 3
 Date: 2015-11-05
 Colors: BGw
-Labels: 
+Labels: Midrange, Tokens
 Match Record: 3-0
 Game Record: 6-1
 vs. 123: 2-1

@@ -2,7 +2,7 @@ DeckId: 121
 Pilot: 1
 Date: 2015-11-05
 Colors: UB
-Labels: 
+Labels: Tempo
 Match Record: 2-1
 Game Record: 4-2
 vs. 120: 2-0

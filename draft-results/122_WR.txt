@@ -2,7 +2,7 @@ DeckId: 122
 Pilot: 10
 Date: 2015-11-05
 Colors: WR
-Labels: 
+Labels: Midrange, Wildfire
 Match Record: 2-0
 Game Record: 4-2
 vs. 125: 2-1
