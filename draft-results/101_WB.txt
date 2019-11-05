@@ -2,7 +2,7 @@ DeckId: 101
 Pilot: 3
 Date: 2015-04-16
 Colors: WB
-Labels: 
+Labels: Stax, Tokens, Midrange
 Match Record: 1-1
 Game Record: 2-2
 vs. 102: 0-2
