@@ -2,7 +2,7 @@ DeckId: 141
 Pilot: 2
 Date: 2016-02-17
 Colors: URbg
-Labels: 
+Labels: Midrange, Cheat
 Match Record: 2-1
 Game Record: 5-2
 vs. 138: 2-0
