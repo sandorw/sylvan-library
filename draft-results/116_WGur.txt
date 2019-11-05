@@ -2,7 +2,7 @@ DeckId: 116
 Pilot: 4
 Date: 2015-10-29
 Colors: WGur
-Labels: 
+Labels: Midrange, Ramp
 Match Record: 0-2
 Game Record: 2-4
 vs. 117: 1-2
