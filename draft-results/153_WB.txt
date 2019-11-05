@@ -2,7 +2,7 @@ DeckId: 153
 Pilot: 13
 Date: 2016-06-16
 Colors: WB
-Labels: 
+Labels: Aggro, Stax
 Match Record: 3-0
 Game Record: 6-1
 vs. 156: 2-0
