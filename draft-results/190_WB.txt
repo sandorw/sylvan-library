@@ -2,7 +2,7 @@ DeckId: 190
 Pilot: 16
 Date: 2017-01-31
 Colors: WB
-Labels:
+Labels: Midrange, Stax
 Match Record: 0-3
 Game Record: 1-6
 vs. 196: 0-2
