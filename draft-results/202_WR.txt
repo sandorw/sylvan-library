@@ -2,14 +2,14 @@ DeckId: 202
 Pilot: 3
 Date: 2017-02-21
 Colors: WR
-Labels:
+Labels: Midrange
 Match Record: 2-1
 Game Record: 4-3
 vs. 198: 0-2
 vs. 201: 2-1
 vs. 203: 2-0
 
-1 Elspeth, Knight Errant
+1 Elspeth, Knight-Errant
 1 Inferno Titan
 1 Council's Judgment
 1 Arid Mesa
