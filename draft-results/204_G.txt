@@ -2,7 +2,7 @@ DeckId: 204
 Pilot: 9
 Date: 2017-03-07
 Colors: G
-Labels:
+Labels: Ramp, Midrange
 Match Record: 1-2
 Game Record: 3-4
 vs. 206: 2-0
