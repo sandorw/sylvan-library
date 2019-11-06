@@ -2,7 +2,7 @@ DeckId: 207
 Pilot: 2
 Date: 2017-03-07
 Colors: WU
-Labels:
+Labels: Control
 Match Record: 3-0
 Game Record: 6-1
 vs. 210: 2-0
