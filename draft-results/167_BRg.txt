@@ -2,7 +2,7 @@ DeckId: 167
 Pilot: 1
 Date: 2016-08-17
 Colors: BRg
-Labels: 
+Labels: Midrange
 Match Record: 0-3
 Game Record: 0-6
 vs. 170: 0-2
