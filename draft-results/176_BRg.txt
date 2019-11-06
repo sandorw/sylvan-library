@@ -2,7 +2,7 @@ DeckId: 176
 Pilot: 1
 Date: 2016-11-02
 Colors: BRg
-Labels: 
+Labels: Burn, Aggro
 Match Record: 2-1
 Game Record: 5-3
 vs. 174: 1-2
