@@ -2,7 +2,7 @@ DeckId: 180
 Pilot: 16
 Date: 2016-11-09
 Colors: Bwg
-Labels: 
+Labels: Midrange
 Match Record: 1-1
 Game Record: 3-3
 vs. 179: 2-1
