@@ -2,7 +2,7 @@ DeckId: 198
 Pilot: 32
 Date: 2017-02-17
 Colors: BR
-Labels:
+Labels: Artifacts, Midrange, Wildfire
 Match Record: 2-1
 Game Record: 5-3
 vs. 202: 2-0
