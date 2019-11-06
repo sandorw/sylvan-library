@@ -2,7 +2,7 @@ DeckId: 223
 Pilot: 4
 Date: 2017-04-25
 Colors: BR
-Labels:
+Labels: Aggro
 Match Record: 1-2
 Game Record: 4-5
 vs. 219: 1-2
