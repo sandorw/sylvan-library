@@ -2,7 +2,7 @@ DeckId: 165
 Pilot: 5
 Date: 2016-07-06
 Colors: WBr
-Labels: 
+Labels: Midrange
 Match Record: 0-3
 Game Record: 2-6
 vs. 162: 0-2
