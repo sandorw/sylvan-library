@@ -2,7 +2,7 @@ DeckId: 206
 Pilot: 4
 Date: 2017-03-07
 Colors: WU
-Labels:
+Labels: Artifacts, Ramp, Control
 Match Record: 0-3
 Game Record: 0-6
 vs. 204: 0-2
