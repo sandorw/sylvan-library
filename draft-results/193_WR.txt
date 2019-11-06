@@ -2,7 +2,7 @@ DeckId: 193
 Pilot: 3
 Date: 2017-01-31
 Colors: WR
-Labels:
+Labels: Midrange, Tokens
 Match Record: 2-1
 Game Record: 5-3
 vs. 195: 1-2
@@ -25,13 +25,13 @@ vs. 192: 2-0
 1 Porcelain Legionnaire
 1 Flametongue Kavu
 1 Sacred Foundry
-1 Brimaz, King or Oreskos
+1 Brimaz, King of Oreskos
 1 Windswept Heath
 1 Alesha, Who Smiles at Death
 1 Plateau
 1 Gideon Jura
 1 Flickerwisp
-1 Elspeth, Knight's Errant
+1 Elspeth, Knight Errant
 1 Council's Judgment
 1 Wurmcoil Engine
 1 Mind Stone
