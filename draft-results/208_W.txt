@@ -2,7 +2,7 @@ DeckId: 208
 Pilot: 25
 Date: 2017-03-07
 Colors: W
-Labels:
+Labels: Aggro, Tokens
 Match Record: 2-1
 Game Record: 4-3
 vs. 211: 2-0
