@@ -2,7 +2,7 @@ DeckId: 197
 Pilot: 5
 Date: 2017-01-31
 Colors: BG
-Labels:
+Labels: Midrange, Tokens
 Match Record: 2-1
 Game Record: 5-3
 vs. 192: 2-0
