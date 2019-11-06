@@ -2,7 +2,7 @@ DeckId: 178
 Pilot: 23
 Date: 2016-11-09
 Colors: WR
-Labels: 
+Labels: Midrange
 Match Record: 0-2
 Game Record: 0-4
 vs. 181: 0-2

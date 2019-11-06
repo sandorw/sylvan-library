@@ -2,7 +2,7 @@ DeckId: 175
 Pilot: 7
 Date: 2016-11-02
 Colors: WR
-Labels: 
+Labels: Aggro
 Match Record: 0-2
 Game Record: 1-4
 vs. 177: 1-2

@@ -2,7 +2,7 @@ DeckId: 143
 Pilot: 13
 Date: 2016-03-22
 Colors: BGr
-Labels: 
+Labels: Midrange, Reanimator
 Match Record: 2-1
 Game Record: 4-2
 vs. 150: 2-0

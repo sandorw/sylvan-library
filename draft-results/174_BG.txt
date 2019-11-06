@@ -2,7 +2,7 @@ DeckId: 174
 Pilot: 5
 Date: 2016-11-02
 Colors: BG
-Labels: 
+Labels: Midrange
 Match Record: 3-0
 Game Record: 6-2
 vs. 176: 2-1

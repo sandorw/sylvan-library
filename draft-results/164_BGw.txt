@@ -2,7 +2,7 @@ DeckId: 164
 Pilot: 1
 Date: 2016-07-06
 Colors: BGw
-Labels: 
+Labels: Midrange, Stax
 Match Record: 1-2
 Game Record: 2-4
 vs. 163: 0-2

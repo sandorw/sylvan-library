@@ -2,7 +2,7 @@ DeckId: 177
 Pilot: 23
 Date: 2016-11-02
 Colors: Uwbrg
-Labels: 
+Labels: Midrange
 Match Record: 2-1
 Game Record: 4-4
 vs. 175: 2-1

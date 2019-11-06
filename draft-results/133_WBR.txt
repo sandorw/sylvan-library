@@ -2,7 +2,7 @@ DeckId: 133
 Pilot: 24
 Date: 2016-01-12
 Colors: WBR
-Labels: 
+Labels: Aggro
 Match Record: 0-3
 Game Record: 1-6
 vs. 132: 1-2

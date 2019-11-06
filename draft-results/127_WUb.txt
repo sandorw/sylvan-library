@@ -2,7 +2,7 @@ DeckId: 127
 Pilot: 3
 Date: 2015-11-18
 Colors: WUb
-Labels: 
+Labels: Control
 Match Record: 0-2
 Game Record: 1-4
 vs. 128: 1-2

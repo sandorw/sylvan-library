@@ -2,7 +2,7 @@ DeckId: 157
 Pilot: 4
 Date: 2016-06-30
 Colors: WR
-Labels: 
+Labels: Aggro
 Match Record: 0-2
 Game Record: 0-4
 vs. 158: 0-2

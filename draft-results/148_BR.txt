@@ -2,7 +2,7 @@ DeckId: 148
 Pilot: 19
 Date: 2016-03-22
 Colors: BR
-Labels: 
+Labels: Midrange, Reanimator
 Match Record: 2-1
 Game Record: 4-4
 vs. 144: 0-2

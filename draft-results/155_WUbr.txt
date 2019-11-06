@@ -2,7 +2,7 @@ DeckId: 155
 Pilot: 1
 Date: 2016-06-16
 Colors: WUbr
-Labels: 
+Labels: Control
 Match Record: 2-1
 Game Record: 4-3
 vs. 152: 2-0

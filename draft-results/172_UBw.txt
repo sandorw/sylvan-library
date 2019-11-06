@@ -2,7 +2,7 @@ DeckId: 172
 Pilot: 9
 Date: 2016-11-02
 Colors: UBw
-Labels: 
+Labels: Blue Devotion, Midrange
 Match Record: 1-2
 Game Record: 4-5
 vs. 173: 2-1

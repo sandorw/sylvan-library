@@ -2,7 +2,7 @@ DeckId: 128
 Pilot: 5
 Date: 2015-11-18
 Colors: UR
-Labels: 
+Labels: Midrange
 Match Record: 2-0
 Game Record: 4-2
 vs. 127: 2-1

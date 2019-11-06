@@ -2,7 +2,7 @@ DeckId: 168
 Pilot: 2
 Date: 2016-08-17
 Colors: Rw
-Labels: 
+Labels: Aggro
 Match Record: 2-1
 Game Record: 5-3
 vs. 169: 1-2

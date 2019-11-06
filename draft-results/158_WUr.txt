@@ -2,7 +2,7 @@ DeckId: 158
 Pilot: 1
 Date: 2016-06-30
 Colors: WUr
-Labels: 
+Labels: Control
 Match Record: 2-0
 Game Record: 4-0
 vs. 157: 2-0

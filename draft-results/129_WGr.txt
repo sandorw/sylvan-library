@@ -2,7 +2,7 @@ DeckId: 129
 Pilot: 1
 Date: 2015-11-18
 Colors: WGr
-Labels: 
+Labels: Midrange, Ramp
 Match Record: 1-1
 Game Record: 3-2
 vs. 126: 2-0
