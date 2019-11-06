@@ -2,7 +2,7 @@ DeckId: 222
 Pilot: 25
 Date: 2017-04-25
 Colors: UB
-Labels:
+Labels: Control
 Match Record: 1-2
 Game Record: 3-5
 vs. 220: 0-2
