@@ -2,7 +2,7 @@ DeckId: 179
 Pilot: 9
 Date: 2016-11-09
 Colors: WRb
-Labels: 
+Labels: Midrange
 Match Record: 1-2
 Game Record: 3-4
 vs. 180: 1-2
