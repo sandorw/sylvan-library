@@ -2,7 +2,7 @@ DeckId: 210
 Pilot: 23
 Date: 2017-03-07
 Colors: WURb
-Labels:
+Labels: Control
 Match Record: 2-1
 Game Record: 4-2
 vs. 207: 0-2
@@ -43,7 +43,7 @@ vs. 211: 2-0
 1 Fiery Confluence
 1 Daretti, Ingenious Iconoclast
 1 Young Pyromancer
-1 Greater Gargodon
+1 Greater Gargadon
 1 Ral Zarek
 1 Plains
 1 Island
