@@ -2,7 +2,7 @@ DeckId: 170
 Pilot: 9
 Date: 2016-08-17
 Colors: WRub
-Labels: 
+Labels: Control
 Match Record: 1-2
 Game Record: 4-4
 vs. 167: 2-0
