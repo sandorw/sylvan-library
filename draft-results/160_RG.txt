@@ -2,7 +2,7 @@ DeckId: 160
 Pilot: 5
 Date: 2016-06-30
 Colors: RG
-Labels: 
+Labels: Midrange
 Match Record: 1-1
 Game Record: 2-3
 vs. 159: 2-1
