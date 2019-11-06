@@ -2,7 +2,7 @@ DeckId: 195
 Pilot: 2
 Date: 2017-01-31
 Colors: BR
-Labels:
+Labels: Aggro, Burn
 Match Record: 3-0
 Game Record: 6-1
 vs. 193: 2-1
