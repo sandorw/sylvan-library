@@ -2,7 +2,7 @@ DeckId: 163
 Pilot: 13
 Date: 2016-07-06
 Colors: Gr
-Labels: 
+Labels: Ramp, Midrange
 Match Record: 3-0
 Game Record: 6-1
 vs. 164: 2-0
