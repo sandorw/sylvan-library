@@ -2,7 +2,7 @@ DeckId: 82
 Pilot: 3
 Date: 2014-12-03
 Colors: Rb
-Labels: 
+Labels: Aggro, Burn
 Match Record: 0-3
 Game Record: 3-6
 vs. 81: 1-2
