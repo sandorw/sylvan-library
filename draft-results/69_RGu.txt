@@ -2,7 +2,7 @@ DeckId: 69
 Pilot: 8
 Date: 2014-10-16
 Colors: RGu
-Labels: 
+Labels: Midrange
 Match Record: 0-3
 Game Record: 1-7
 vs. 65: 0-2
