@@ -2,7 +2,7 @@ DeckId: 44
 Pilot: 2
 Date: 2014-02-05
 Colors: Uw
-Labels: 
+Labels: Control
 Match Record: 3-1
 Game Record: 6-4
 vs. 43: 2-1
