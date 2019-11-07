@@ -2,7 +2,7 @@ DeckId: 219
 Pilot: 3
 Date: 2017-04-25
 Colors: WU
-Labels:
+Labels: Tempo
 Match Record: 2-1
 Game Record: 5-4
 vs. 223: 2-1
