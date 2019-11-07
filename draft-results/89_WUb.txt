@@ -2,7 +2,7 @@ DeckId: 89
 Pilot: 15
 Date: 2014-12-10
 Colors: WUb
-Labels: 
+Labels: Control
 Match Record: 0-2
 Game Record: 1-4
 vs. 87: 1-2
