@@ -2,7 +2,7 @@ DeckId: 218
 Pilot: 9
 Date: 2017-04-25
 Colors: WBRg
-Labels:
+Labels: Midrange, Tokens
 Match Record: 2-1
 Game Record: 5-4
 vs. 221: 2-1
