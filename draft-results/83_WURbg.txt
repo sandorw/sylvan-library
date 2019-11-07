@@ -2,7 +2,7 @@ DeckId: 83
 Pilot: 4
 Date: 2014-12-10
 Colors: WURbg
-Labels: 
+Labels: Midrange
 Match Record: 1-1
 Game Record: 2-3
 vs. 84: 0-2
