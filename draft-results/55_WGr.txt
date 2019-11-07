@@ -2,7 +2,7 @@ DeckId: 55
 Pilot: 12
 Date: 2014-05-15
 Colors: WGr
-Labels: 
+Labels: Midrange
 Match Record: 1-2
 Game Record: 3-5
 vs. 59: 0-2
