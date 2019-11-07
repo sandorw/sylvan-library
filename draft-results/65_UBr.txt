@@ -2,7 +2,7 @@ DeckId: 65
 Pilot: 1
 Date: 2014-10-16
 Colors: UBr
-Labels: 
+Labels: Tempo
 Match Record: 3-2
 Game Record: 9-4
 vs. 69: 2-0
