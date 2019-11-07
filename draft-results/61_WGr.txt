@@ -2,7 +2,7 @@ DeckId: 61
 Pilot: 18
 Date: 2014-06-12
 Colors: WGr
-Labels: 
+Labels: Midrange
 Match Record: 0-2
 Game Record: 1-4
 vs. 63: 0-2
