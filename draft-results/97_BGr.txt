@@ -2,7 +2,7 @@ DeckId: 97
 Pilot: 2
 Date: 2015-04-09
 Colors: BGr
-Labels: 
+Labels: Midrange, Reanimator
 Match Record: 2-1
 Game Record: 5-2
 vs. 98: 1-2
