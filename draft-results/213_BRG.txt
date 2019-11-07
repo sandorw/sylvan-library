@@ -2,7 +2,7 @@ DeckId: 213
 Pilot: 1
 Date: 2017-03-28
 Colors: BRG
-Labels:
+Labels: Midrange, Reanimator
 Match Record: 0-3
 Game Record: 0-6
 vs. 214: 0-2
