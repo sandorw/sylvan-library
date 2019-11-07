@@ -2,7 +2,7 @@ DeckId: 78
 Pilot: 9
 Date: 2014-12-03
 Colors: WUBRG
-Labels: 
+Labels: Midrange
 Match Record: 1-2
 Game Record: 3-5
 vs. 79: 2-1
