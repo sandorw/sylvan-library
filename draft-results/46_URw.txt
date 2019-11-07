@@ -2,7 +2,7 @@ DeckId: 46
 Pilot: 2
 Date: 2014-02-26
 Colors: URw
-Labels: 
+Labels: Midrange, Burn, Spells Matter
 Match Record: 2-0
 Game Record: 4-1
 vs. 48: 2-1

@@ -2,7 +2,7 @@ DeckId: 49
 Pilot: 3
 Date: 2014-04-24
 Colors: WR
-Labels: 
+Labels: Aggro, Burn
 Match Record: 2-1
 Game Record: 7-2
 vs. 52: 4-0
