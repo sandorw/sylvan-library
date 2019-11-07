@@ -2,7 +2,7 @@ DeckId: 43
 Pilot: 1
 Date: 2014-02-05
 Colors: RGu
-Labels: 
+Labels: Midrange
 Match Record: 2-1
 Game Record: 5-3
 vs. 44: 1-2
