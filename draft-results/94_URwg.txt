@@ -2,7 +2,7 @@ DeckId: 94
 Pilot: 1
 Date: 2015-03-26
 Colors: URwg
-Labels: 
+Labels: Midrange
 Match Record: 3-0
 Game Record: 6-2
 vs. 92: 2-1
