@@ -2,7 +2,7 @@ DeckId: 80
 Pilot: 1
 Date: 2014-12-03
 Colors: WB
-Labels: 
+Labels: Midrange, Tokens, Stax
 Match Record: 4-1
 Game Record: 9-5
 vs. 77: 2-1
