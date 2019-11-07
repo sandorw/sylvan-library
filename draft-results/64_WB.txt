@@ -2,7 +2,7 @@ DeckId: 64
 Pilot: 4
 Date: 2014-10-16
 Colors: WB
-Labels: 
+Labels: Midrange
 Match Record: 0-3
 Game Record: 2-6
 vs. 66: 1-2
