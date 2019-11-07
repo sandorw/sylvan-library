@@ -2,7 +2,7 @@ DeckId: 50
 Pilot: 4
 Date: 2014-04-24
 Colors: RGw
-Labels: 
+Labels: Midrange
 Match Record: 0-3
 Game Record: 0-6
 vs. 51: 0-2
