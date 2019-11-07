@@ -2,7 +2,7 @@ DeckId: 48
 Pilot: 3
 Date: 2014-02-26
 Colors: WB
-Labels: 
+Labels: Aggro
 Match Record: 1-1
 Game Record: 3-3
 vs. 46: 1-2
