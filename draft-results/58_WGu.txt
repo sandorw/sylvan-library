@@ -2,7 +2,7 @@ DeckId: 58
 Pilot: 19
 Date: 2014-05-15
 Colors: WGu
-Labels: 
+Labels: Midrange, Tokens
 Match Record: 2-1
 Game Record: 5-4
 vs. 57: 2-1

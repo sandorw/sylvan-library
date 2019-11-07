@@ -2,7 +2,7 @@ DeckId: 74
 Pilot: 7
 Date: 2014-11-13
 Colors: WU
-Labels: 
+Labels: Control
 Match Record: 0-2-1
 Game Record: 4-6
 vs. 75: 1-2

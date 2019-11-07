@@ -2,7 +2,7 @@ DeckId: 92
 Pilot: 4
 Date: 2015-03-26
 Colors: BGwu
-Labels: 
+Labels: Midrange, Reanimator
 Match Record: 0-3
 Game Record: 2-6
 vs. 94: 1-2

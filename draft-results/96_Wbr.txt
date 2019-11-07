@@ -2,7 +2,7 @@ DeckId: 96
 Pilot: 4
 Date: 2015-04-09
 Colors: Wbr
-Labels: 
+Labels: Aggro, Midrange, Tokens
 Match Record: 1-2
 Game Record: 3-3
 vs. 100: 1-2

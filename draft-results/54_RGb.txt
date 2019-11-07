@@ -2,7 +2,7 @@ DeckId: 54
 Pilot: 13
 Date: 2014-05-15
 Colors: RGb
-Labels: 
+Labels: Aggro, Burn
 Match Record: 1-2
 Game Record: 4-4
 vs. 56: 2-0

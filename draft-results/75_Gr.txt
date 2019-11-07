@@ -2,7 +2,7 @@ DeckId: 75
 Pilot: 1
 Date: 2014-11-13
 Colors: Gr
-Labels: 
+Labels: Midrange, Ramp
 Match Record: 1-1-1
 Game Record: 4-4
 vs. 74: 2-1

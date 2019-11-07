@@ -2,7 +2,7 @@ DeckId: 66
 Pilot: 7
 Date: 2014-10-16
 Colors: UG
-Labels: 
+Labels: Midrange
 Match Record: 2-1
 Game Record: 4-4
 vs. 64: 2-1

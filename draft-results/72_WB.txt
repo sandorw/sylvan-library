@@ -2,7 +2,7 @@ DeckId: 72
 Pilot: 4
 Date: 2014-11-13
 Colors: WB
-Labels: 
+Labels: Aggro, Tokens
 Match Record: 1-2
 Game Record: 3-4
 vs. 76: 0-2

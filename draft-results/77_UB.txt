@@ -2,7 +2,7 @@ DeckId: 77
 Pilot: 4
 Date: 2014-12-03
 Colors: UB
-Labels: 
+Labels: Tempo, Control
 Match Record: 2-1
 Game Record: 5-4
 vs. 80: 1-2

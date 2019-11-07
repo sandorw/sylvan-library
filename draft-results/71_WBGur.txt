@@ -2,7 +2,7 @@ DeckId: 71
 Pilot: 2
 Date: 2014-11-13
 Colors: WBGur
-Labels: 
+Labels: Control
 Match Record: 4-0
 Game Record: 8-4
 vs. 73: 2-1

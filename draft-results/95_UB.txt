@@ -2,7 +2,7 @@ DeckId: 95
 Pilot: 14
 Date: 2015-04-09
 Colors: UB
-Labels: 
+Labels: Tempo, Control
 Match Record: 0-3
 Game Record: 1-6
 vs. 99: 0-2

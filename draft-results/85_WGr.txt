@@ -2,7 +2,7 @@ DeckId: 85
 Pilot: 1
 Date: 2014-12-10
 Colors: WGr
-Labels: 
+Labels: Midrange, Lands Matter
 Match Record: 1-2
 Game Record: 3-5
 vs. 86: 2-1
