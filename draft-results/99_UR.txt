@@ -2,7 +2,7 @@ DeckId: 99
 Pilot: 6
 Date: 2015-04-09
 Colors: UR
-Labels: 
+Labels: Ramp, Artifacts, Cheat, Control
 Match Record: 2-1
 Game Record: 3-2
 vs. 95: 2-0
