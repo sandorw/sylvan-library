@@ -2,7 +2,7 @@ DeckId: 81
 Pilot: 7
 Date: 2014-12-03
 Colors: WG
-Labels: 
+Labels: Midrange
 Match Record: 2-1
 Game Record: 5-3
 vs. 82: 2-1
