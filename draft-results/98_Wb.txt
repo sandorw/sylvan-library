@@ -2,7 +2,7 @@ DeckId: 98
 Pilot: 3
 Date: 2015-04-09
 Colors: Wb
-Labels: 
+Labels: Aggro
 Match Record: 3-0
 Game Record: 6-2
 vs. 97: 2-1
