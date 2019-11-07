@@ -2,7 +2,7 @@ DeckId: 67
 Pilot: 2
 Date: 2014-10-16
 Colors: WRu
-Labels: 
+Labels: Burn, Spells Matter, Midrange
 Match Record: 3-1
 Game Record: 8-3
 vs. 68: 3-0
