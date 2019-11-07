@@ -2,7 +2,7 @@ DeckId: 73
 Pilot: 17
 Date: 2014-11-13
 Colors: UR
-Labels: 
+Labels: Midrange, Tempo
 Match Record: 0-2
 Game Record: 1-4
 vs. 71: 1-2
