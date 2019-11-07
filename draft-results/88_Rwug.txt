@@ -2,7 +2,7 @@ DeckId: 88
 Pilot: 2
 Date: 2014-12-10
 Colors: Rwug
-Labels: 
+Labels: Control, Wildfire
 Match Record: 3-0
 Game Record: 6-2
 vs. 90: 2-1
