@@ -2,7 +2,7 @@ DeckId: 91
 Pilot: 2
 Date: 2015-03-26
 Colors: Uw
-Labels: 
+Labels: Control
 Match Record: 2-1
 Game Record: 5-3
 vs. 93: 2-1
