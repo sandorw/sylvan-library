@@ -2,7 +2,7 @@ DeckId: 220
 Pilot: 2
 Date: 2017-04-25
 Colors: UG
-Labels:
+Labels: Midrange, Ramp
 Match Record: 3-0
 Game Record: 6-2
 vs. 222: 2-0

@@ -2,7 +2,7 @@ DeckId: 185
 Pilot: 25
 Date: 2017-01-17
 Colors: WUr
-Labels: 
+Labels: Tokens, Tempo
 Match Record: 1-2
 Game Record: 3-5
 vs. 187: 1-2

@@ -2,7 +2,7 @@ DeckId: 209
 Pilot: 33
 Date: 2017-03-07
 Colors: RG
-Labels:
+Labels: Aggro, Midrange, Burn
 Match Record: 2-1 
 Game Record: 5-2
 vs. 205: 2-0

@@ -2,7 +2,7 @@ DeckId: 216
 Pilot: 25
 Date: 2017-03-28
 Colors: WUb
-Labels:
+Labels: Control
 Match Record: 1-2
 Game Record: 4-4
 vs. 215: 1-2

@@ -2,7 +2,7 @@ DeckId: 201
 Pilot: 25
 Date: 2017-02-21
 Colors: WU
-Labels:
+Labels: Control
 Match Record: 1-2
 Game Record: 3-4
 vs. 199: 0-2

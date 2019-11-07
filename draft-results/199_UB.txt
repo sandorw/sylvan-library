@@ -2,7 +2,7 @@ DeckId: 199
 Pilot: 9
 Date: 2017-02-21
 Colors: UB
-Labels:
+Labels: Midrange, Tempo
 Match Record: 3-0 
 Game Record: 6-2
 vs. 201: 2-0

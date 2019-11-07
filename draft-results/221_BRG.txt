@@ -2,7 +2,7 @@ DeckId: 221
 Pilot: 1
 Date: 2017-04-25
 Colors: BRG
-Labels:
+Labels: Cheat, Wildfire, Ramp, Control
 Match Record: 0-3
 Game Record: 3-6
 vs. 218: 1-2

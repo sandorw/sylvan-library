@@ -2,7 +2,7 @@ DeckId: 217
 Pilot: 3
 Date: 2017-03-28
 Colors: BR
-Labels:
+Labels: Midrange
 Match Record: 2-1
 Game Record: 4-2
 vs. 212: 0-2

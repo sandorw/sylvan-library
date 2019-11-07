@@ -2,7 +2,7 @@ DeckId: 212
 Pilot: 9
 Date: 2017-03-28
 Colors: WUr
-Labels: 
+Labels: Control
 Match Record: 2-1 
 Game Record: 4-2
 vs. 217: 2-0

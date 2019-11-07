@@ -2,7 +2,7 @@ DeckId: 215
 Pilot: 23
 Date: 2017-03-28
 Colors: WBG
-Labels:
+Labels: Midrange
 Match Record: 1-2 
 Game Record: 2-5
 vs. 216: 2-1

@@ -2,7 +2,7 @@ DeckId: 20
 Pilot: 1
 Date: 2013-11-21
 Colors: BRwg
-Labels: 
+Labels: Midrange, Stax
 Match Record: 0-3
 Game Record: 3-7
 vs. 21: 1-3

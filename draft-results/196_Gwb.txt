@@ -2,7 +2,7 @@ DeckId: 196
 Pilot: 32
 Date: 2017-01-31
 Colors: Gwb
-Labels:
+Labels: Ramp, Midrange
 Match Record: 2-1
 Game Record: 4-3
 vs. 190: 2-0
@@ -13,7 +13,7 @@ vs. 197: 2-1
 1 Woodfall Primus
 1 Ravages of War
 1 Joraga Treespeaker
-1 Rofellos
+1 Rofellos, Llanowar Emissary
 1 Overgrown Tomb
 1 Wickerbough Elder
 1 Marsh Flats

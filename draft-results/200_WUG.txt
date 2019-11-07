@@ -2,7 +2,7 @@ DeckId: 200
 Pilot: 23
 Date: 2017-02-21
 Colors: WUG
-Labels:
+Labels: Midrange
 Match Record: 0-3
 Game Record: 1-6
 vs. 203: 0-2

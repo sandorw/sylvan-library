@@ -2,7 +2,7 @@ DeckId: 190
 Pilot: 31
 Date: 2017-01-31
 Colors: WG
-Labels:
+Labels: Midrange
 Match Record: 1-2
 Game Record: 3-4
 vs. 194: 1-2

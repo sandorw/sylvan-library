@@ -2,7 +2,7 @@ DeckId: 214
 Pilot: 32
 Date: 2017-03-28
 Colors: BR
-Labels:
+Labels: Aggro
 Match Record: 3-0
 Game Record: 6-1
 vs. 213: 2-0

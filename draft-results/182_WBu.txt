@@ -2,7 +2,7 @@ DeckId: 182
 Pilot: 4
 Date: 2017-01-17
 Colors: WBu
-Labels: 
+Labels: Control
 Match Record: 0-3
 Game Record: 1-6
 vs. 188: 0-2
