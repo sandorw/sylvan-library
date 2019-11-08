@@ -11,7 +11,7 @@ vs. 95: 2-1
 
 1 Elite Vanguard
 1 Isamaru, Hound of Konda
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Savannah Lions
 1 Soldier of the Pantheon
 1 Accorder Paladin
@@ -21,13 +21,13 @@ vs. 95: 2-1
 1 Flickerwisp
 1 Hallowed Spiritkeeper
 1 Mirror Entity
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Soltari Champion
 1 Path to Exile
 1 Swords to Plowshares
 1 Oblivion Ring
 1 Elspeth, Knight-Errant
-1 Blood Scriviner
+1 Blood Scrivener
 1 Figure of Destiny
 1 Soulfire Grand Master
 1 Lingering Souls

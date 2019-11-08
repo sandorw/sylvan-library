@@ -8,10 +8,10 @@ Game Record: 0-4
 vs. 158: 0-2
 vs. 159: 0-2
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Stoneforge Mystic
 1 Flickerwisp
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Unexpectedly Absent
 1 Elspeth, Knight-Errant
 1 Parallax Wave

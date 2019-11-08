@@ -44,10 +44,10 @@ vs. 181: 0-2
 4 Mountain
 
 1 Isamaru, Hound of Konda
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Thalia, Guardian of Thraben
 1 Blade Splicer
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Angel of Invention
 1 Looter Il-Kor
 1 Kira, Great Glass-Spinner

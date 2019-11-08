@@ -37,7 +37,7 @@ vs. 168: 1-2
 2 Swamp
 6 Mountain
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Mana Tithe
 1 Serendib Efreet
 1 Glen Elendra Archmage

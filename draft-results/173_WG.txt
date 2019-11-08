@@ -10,7 +10,7 @@ vs. 175: 2-0
 vs. 176: 1-2
 vs. 174: 0-2
 
-1 Kytheon, Heros of Akros
+1 Kytheon, Hero of Akros
 1 Accorder Paladin
 1 Thalia, Guardian of Thraben
 1 Blade Splicer

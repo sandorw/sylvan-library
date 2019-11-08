@@ -9,7 +9,7 @@ vs. 45: 2-1
 vs. 46: 0-2
 
 1 Mirror Entity
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Oblivion Ring
 1 Spear of Heliod
 1 Gideon Jura
@@ -34,7 +34,7 @@ vs. 46: 0-2
 1 Izzet Boilerworks
 1 Reflecting Pool
 1 Temple Garden
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Sword of Body and Mind
 1 Icy Manipulator
 2 Plains

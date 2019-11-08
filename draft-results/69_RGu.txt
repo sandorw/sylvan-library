@@ -50,6 +50,6 @@ vs. 67: 0-3
 1 Simic Sky Swallower
 1 Paliano, the High City
 1 Verdant Catacombs
-1 Wooded Foothill
+1 Wooded Foothills
 1 Mind Stone
 1 Coalition Relic

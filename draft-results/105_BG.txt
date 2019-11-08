@@ -11,7 +11,7 @@ vs. 104: 3-2
 1 Carrion Feeder
 1 Diregraf Ghoul
 1 Gravecrawler
-1 Blood Scriviner
+1 Blood Scrivener
 1 Bloodghast
 1 Liliana, Heretical Healer
 1 Braids, Cabal Minion
@@ -38,7 +38,7 @@ vs. 104: 3-2
 8 Swamp
 4 Forest
 
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Memory Lapse
 1 Jace Beleren
 1 Fact or Fiction

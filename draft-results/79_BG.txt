@@ -55,5 +55,5 @@ vs. 80: 2-1
 1 Misty Rainforest
 1 Paliano, the High City
 1 Stomping Ground
-1 Wooded Foothill
+1 Wooded Foothills
 1 Yavimaya Coast

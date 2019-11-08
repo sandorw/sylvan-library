@@ -38,7 +38,7 @@ vs. 110: 1-2
 6 Plains
 7 Forest
 
-1 Kytheon, Heros of Akros
+1 Kytheon, Hero of Akros
 1 Imposing Sovereign
 1 Thalia, Guardian of Thraben
 1 Hallowed Spiritkeeper

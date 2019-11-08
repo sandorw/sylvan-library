@@ -11,7 +11,7 @@ vs. 122: 1-2
 1 Bloodsoaked Champion
 1 Gnarled Scarhide
 1 Gravecrawler
-1 Blood Scriviner
+1 Blood Scrivener
 1 Oona's Prowler
 1 Pack Rat
 1 Drana, Liberator of Malakir
@@ -33,7 +33,7 @@ vs. 122: 1-2
 1 Kolaghan's Command
 1 City of Brass
 1 Raging Ravine
-1 Wooded Foothill
+1 Wooded Foothills
 1 Umezawa's Jitte
 7 Swamp
 5 Mountain

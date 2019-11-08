@@ -33,7 +33,7 @@ vs. 130: 0-2
 1 Evolving Wilds
 1 Stomping Ground
 1 Strip Mine
-1 Wooded Foothill
+1 Wooded Foothills
 1 Bonesplitter
 1 Sword of War and Peace
 7 Mountain
@@ -41,7 +41,7 @@ vs. 130: 0-2
 
 1 Crystal Shard
 1 Bloodsoaked Champion
-1 Blood Scriviner
+1 Blood Scrivener
 1 Vampiric Tutor
 1 Demonic Tutor
 1 Malicious Affliction

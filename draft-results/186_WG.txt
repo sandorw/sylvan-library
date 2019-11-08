@@ -9,7 +9,7 @@ vs. 189: 1-2
 vs. 182: 2-0
 vs. 185: 2-0
 
-1 Kytheon, Heros of Akros
+1 Kytheon, Hero of Akros
 1 Mother of Runes
 1 Thalia, Guardian of Thraben
 1 Blade Splicer
@@ -38,7 +38,7 @@ vs. 185: 2-0
 7 Plains
 7 Forest
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Bloodsoaked Champion
 1 Volrath's Stronghold
 1 Zurgo Bellstriker

@@ -41,7 +41,7 @@ vs. 126: 0-2
 2 Swamp
 
 1 Dragon Hunter
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Student of Warfare
 1 Phantasmal Image
 1 Diregraf Ghoul

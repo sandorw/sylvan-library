@@ -37,7 +37,7 @@ vs. 142: 1-2
 1 Stomping Ground
 1 Terramorphic Expanse
 1 Verdant Catacombs
-1 Wooded Foothill
+1 Wooded Foothills
 1 Skullclamp
 4 Island
 1 Swamp

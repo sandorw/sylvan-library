@@ -33,7 +33,7 @@ vs. 53: 1-2
 1 Garruk Wildspeaker
 1 Raging Ravine
 1 Windswept Heath
-1 Wooded Foothill
+1 Wooded Foothills
 1 Coalition Relic
 6 Plains
 3 Mountain

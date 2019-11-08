@@ -45,7 +45,7 @@ vs. 192: 2-0
 1 Sylvan Advocate
 1 Tendo Ice Bridge
 1 Accorder Paladin
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Reveillark
 1 Disenchant
 1 Figure of Destiny

@@ -31,7 +31,7 @@ vs. 156: 2-0
 1 Kitchen Finks
 1 Bloodbraid Elf
 1 Dragonlord Atarka
-1 Wooded Foothill
+1 Wooded Foothills
 1 Sword of Fire and Ice
 10 Mountain
 6 Forest

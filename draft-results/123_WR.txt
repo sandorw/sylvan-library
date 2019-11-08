@@ -10,7 +10,7 @@ vs. 122: 1-2
 
 1 Isamaru, Hound of Konda
 1 Kytheon, Hero of Akros
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Soldier of the Pantheon
 1 Accorder Paladin
 1 Imposing Sovereign
@@ -18,7 +18,7 @@ vs. 122: 1-2
 1 Brimaz, King of Oreskos
 1 Hallowed Spiritkeeper
 1 Mirror Entity
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Banishing Light
 1 Spear of Heliod
 1 Firedrinker Satyr

@@ -15,7 +15,7 @@ vs. 85: 2-1
 1 Imposing Sovereign
 1 Stoneforge Mystic
 1 Wall of Omens
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Soltari Champion
 1 Baneslayer Angel
 1 Enlightened Tutor

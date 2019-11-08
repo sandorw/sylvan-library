@@ -52,5 +52,5 @@ vs. 173: 0-2
 1 Sundering Titan
 1 Polluted Delta
 1 Rishadan Port
-1 Wooded Foothill
+1 Wooded Foothills
 1 Grim Monolith

@@ -55,5 +55,5 @@ vs. 52: 0-2
 1 Psychatog
 1 Ajani Goldmane
 1 Sundering Titan
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Ratchet Bomb

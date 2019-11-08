@@ -98,7 +98,7 @@ vs. 160: 2-0
 1 Horizon Canopy
 1 Lumbering Falls
 1 Marsh Flats
-1 Wooded Foothill
+1 Wooded Foothills
 1 Cursed Scroll
 1 Pithing Needle
 1 Sensei's Divining Top

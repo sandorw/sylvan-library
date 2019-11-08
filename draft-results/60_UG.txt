@@ -49,7 +49,7 @@ vs. 61: 2-1
 1 Sarkhan Vol
 1 Engineered Explosives
 1 Mox Diamond
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Cursed Scroll
 1 Ankh of Mishra
 1 Talisman of Dominance

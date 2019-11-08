@@ -35,7 +35,7 @@ vs. 76: 1-1
 1 Rishadan Port
 1 Stomping Ground
 1 Wasteland
-1 Wooded Foothill
+1 Wooded Foothills
 1 Grim Monolith
 1 Coalition Relic
 1 Sword of Light and Shadow

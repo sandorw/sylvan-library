@@ -33,7 +33,7 @@ vs. 133: 2-0
 1 Sword of Body and Mind
 17 Plains
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Imposing Sovereign
 1 Mirror Entity
 1 Soltari Champion
