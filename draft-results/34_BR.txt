@@ -52,6 +52,6 @@ vs. 32: 2-1
 1 Ral Zarek
 1 Sarkhan Vol
 1 Raging Ravine
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Crucible of Worlds
 1 Sword of Light and Shadow

@@ -29,7 +29,7 @@ vs. 182: 2-1
 1 Wild Nacatl
 1 Savannah
 1 Temple Garden
-1 Wooded Foothill
+1 Wooded Foothills
 1 Smuggler's Copter
 1 Winter Orb
 1 Grafted Wargear

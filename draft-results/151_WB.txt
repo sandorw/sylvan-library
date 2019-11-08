@@ -10,7 +10,7 @@ vs. 153: 1-2
 vs. 152: 0-2
 
 1 Isamaru, Hound of Konda
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Mother of Runes
 1 Soldier of the Pantheon
 1 Imposing Sovereign
@@ -18,7 +18,7 @@ vs. 152: 0-2
 1 Blade Splicer
 1 Hallowed Spiritkeeper
 1 Mirror Entity
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Soltari Champion
 1 Banishing Light
 1 Council's Judgment

@@ -40,7 +40,7 @@ vs. 188: 0-2
 2 Forest
 
 1 Stoneforge Mystic
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Enlightened Tutor
 1 True-Name Nemesis
 1 Glen Elendra Archmage

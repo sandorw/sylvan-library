@@ -36,7 +36,7 @@ vs. 158: 0-2
 7 Mountain
 8 Forest
 
-1 Kytheon, Heros of Akros
+1 Kytheon, Hero of Akros
 1 Mother of Runes
 1 Savannah Lions
 1 Accorder Paladin

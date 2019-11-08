@@ -14,7 +14,7 @@ vs. 58: 2-1
 1 Carrion Feeder
 1 Gnarled Scarhide
 1 Gravecrawler
-1 Blood Scriviner
+1 Blood Scrivener
 1 Nezumi Graverobber
 1 Oona's Prowler
 1 Master of the Feast

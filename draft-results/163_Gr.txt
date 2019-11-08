@@ -36,7 +36,7 @@ vs. 161: 2-1
 1 Stomping Ground
 1 Tendo Ice Bridge
 1 Verdant Catacombs
-1 Wooded Foothill
+1 Wooded Foothills
 1 Skullclamp
 1 Mountain
 11 Forest

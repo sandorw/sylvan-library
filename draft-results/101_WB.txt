@@ -38,7 +38,7 @@ vs. 103: 2-0
 
 1 Dragon Hunter
 1 Elite Vanguard
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Mana Tithe
 1 Daze
 1 Diregraf Ghoul

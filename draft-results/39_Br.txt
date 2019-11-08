@@ -10,7 +10,7 @@ vs. 36: 2-1
 vs. 38: 1-2
 
 1 Diregraf Ghoul
-1 Blood Scriviner
+1 Blood Scrivener
 1 Oona's Prowler
 1 Pack Rat
 1 Geralf's Messenger

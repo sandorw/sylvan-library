@@ -46,8 +46,8 @@ vs. 172: 2-1
 2 Forest
 
 1 Dragon Hunter
-1 Mardu Woe Reaper
-1 Porcelain Legionaire
+1 Mardu Woe-Reaper
+1 Porcelain Legionnaire
 1 Ravages of War
 1 Snapcaster Mage
 1 Dance of the Dead

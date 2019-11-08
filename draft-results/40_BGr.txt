@@ -33,7 +33,7 @@ vs. 44: 0-2
 1 Dreadbore
 1 Sarkhan Vol
 1 Blood Crypt
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Ankh of Mishra
 6 Swamp
 3 Mountain

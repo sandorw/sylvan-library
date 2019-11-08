@@ -44,7 +44,7 @@ vs. 146: 2-1
 1 Gideon Jura
 1 Meloku, the Clouded Mirror
 1 Fact or Fiction
-1 Blood Scriviner
+1 Blood Scrivener
 1 Tombstalker
 1 Goblin Welder
 1 Zurgo Bellstriker

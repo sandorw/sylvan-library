@@ -33,7 +33,7 @@ vs. 128: 1-2
 1 Misty Rainforest
 1 Sacred Foundry
 1 Temple Garden
-1 Wooded Foothill
+1 Wooded Foothills
 1 Skullclamp
 1 Coldsteel Heart
 1 Sword of War and Peace

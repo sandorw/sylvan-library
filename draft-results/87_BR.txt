@@ -13,7 +13,7 @@ vs. 86: 2-1
 1 Carnophage
 1 Diregraf Ghoul
 1 Gnarled Scarhide
-1 Blood Scriviner
+1 Blood Scrivener
 1 Bloodghast
 1 Oona's Prowler
 1 Hypnotic Specter
@@ -56,4 +56,4 @@ vs. 86: 2-1
 1 Wild Nacatl
 1 Murderous Redcap
 1 Marsh Flats
-1 Wooded Foothill
+1 Wooded Foothills

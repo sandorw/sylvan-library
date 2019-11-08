@@ -15,7 +15,7 @@ vs. 115: 2-1
 1 Tinker
 1 Vedalken Shackles
 1 Tezzeret the Seeker
-1 Blood Scriviner
+1 Blood Scrivener
 1 Nezumi Graverobber
 1 Oona's Prowler
 1 Liliana, Heretical Healer

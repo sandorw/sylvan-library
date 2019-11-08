@@ -33,7 +33,7 @@ vs. 149: 0-2
 1 Mana Confluence
 1 Raging Ravine
 1 Stomping Ground
-1 Wooded Foothill
+1 Wooded Foothills
 1 Coldsteel Heart
 1 Grim Monolith
 1 Mind Stone
@@ -42,7 +42,7 @@ vs. 149: 0-2
 4 Mountain
 3 Forest
 
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Enlightened Tutor
 1 Aetherling
 1 Academy Ruins

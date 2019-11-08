@@ -12,7 +12,7 @@ vs. 94: 0-2
 1 Dragon Hunter
 1 Elite Vanguard
 1 Isamaru, Hound of Konda
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Soldier of the Pantheon
 1 Student of Warfare
 1 Accorder Paladin

@@ -35,7 +35,7 @@ Game Record: 0-0
 7 Swamp
 
 1 Memory Lapse
-1 Blood Scriviner
+1 Blood Scrivener
 1 Dance of the Dead
 1 Firedrinker Satyr
 1 Jackal Pup

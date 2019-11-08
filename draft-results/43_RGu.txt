@@ -33,7 +33,7 @@ vs. 42: 2-1
 1 Misty Rainforest
 1 Raging Ravine
 1 Stomping Ground
-1 Wooded Foothill
+1 Wooded Foothills
 1 Skullclamp
 1 Umezawa's Jitte
 1 Coalition Relic

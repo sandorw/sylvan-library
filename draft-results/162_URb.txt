@@ -39,7 +39,7 @@ vs. 164: 2-0
 6 Island
 7 Mountain
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Unexpectedly Absent
 1 Day of Judgment
 1 Whirler Rogue

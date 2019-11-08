@@ -34,7 +34,7 @@ vs. 57: 1-2
 1 Maelstrom Pulse
 1 Stomping Ground
 1 Verdant Catacombs
-1 Woodland Cemetary
+1 Woodland Cemetery
 1 Umezawa's Jitte
 1 Sword of Light and Shadow
 2 Swamp

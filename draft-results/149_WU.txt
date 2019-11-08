@@ -38,7 +38,7 @@ vs. 144: 2-0
 6 Plains
 8 Island
 
-1 Mardu Woe Reaper
+1 Mardu Woe-Reaper
 1 Day of Judgment
 1 Mystical Tutor
 1 Liliana, Heretical Healer

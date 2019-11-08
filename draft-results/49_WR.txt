@@ -10,7 +10,7 @@ vs. 50: 2-0
 vs. 51: 1-2
 
 1 Stoneforge Mystic
-1 Porcelain Legionaire
+1 Porcelain Legionnaire
 1 Soltari Champion
 1 Disenchant
 1 Firedrinker Satyr

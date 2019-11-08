@@ -40,7 +40,7 @@ vs. 29: 3-3
 1 Balance
 1 Enclave Cryptologist
 1 Jace, the Mind Sculptor
-1 Blood Scriviner
+1 Blood Scrivener
 1 Lightning Mauler
 1 Hero of Oxid Ridge
 1 Searing Spear
