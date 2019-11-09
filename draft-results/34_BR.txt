@@ -38,7 +38,7 @@ vs. 32: 2-1
 1 Spear of Heliod
 1 Kira, Great Glass-Spinner
 1 Talrand, Sky Summoner
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Ponder
 1 Volrath's Stronghold
 1 Consuming Vapors

@@ -16,7 +16,7 @@ vs. 177: 1-2
 1 Master of Waves
 1 Sower of Temptation
 1 Venser, Shaper Savant
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Condescend
 1 Force of Will
 1 Counterspell

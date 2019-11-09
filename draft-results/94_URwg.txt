@@ -9,10 +9,10 @@ vs. 92: 2-1
 vs. 91: 2-1
 vs. 93: 2-0
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Waterfront Bouncer
 1 Serendib Efreet
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Mulldrifter
 1 Force Spike
 1 Impulse

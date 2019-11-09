@@ -9,14 +9,14 @@ vs. 54: 0-2
 vs. 55: 1-2
 vs. 59: 1-1
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Omenspeaker
 1 Snapcaster Mage
 1 Man-o'-War
 1 Serendib Efreet
 1 Glen Elendra Archmage
 1 Talrand, Sky Summoner
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Force of Will
 1 Ancestral Vision
 1 Brainstorm

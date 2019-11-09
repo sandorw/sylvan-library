@@ -8,7 +8,7 @@ Game Record: 1-4
 vs. 71: 1-2
 vs. 72: 0-2
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Phantasmal Image
 1 Kira, Great Glass-Spinner
 1 Vendilion Clique
@@ -16,7 +16,7 @@ vs. 72: 0-2
 1 Glen Elendra Archmage
 1 Talrand, Sky Summoner
 1 Venser, Shaper Savant
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Mana Leak
 1 Miscalculation
 1 Deep Analysis

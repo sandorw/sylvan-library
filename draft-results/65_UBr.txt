@@ -11,10 +11,10 @@ vs. 68: 1-2
 vs. 66: 1-2
 vs. 64: 2-0
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Snapcaster Mage
 1 Serendib Efreet
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Daze
 1 Mana Leak
 1 Memory Lapse

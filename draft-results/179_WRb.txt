@@ -49,7 +49,7 @@ vs. 181: 0-2
 1 Blade Splicer
 1 Porcelain Legionnaire
 1 Angel of Invention
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Kira, Great Glass-Spinner
 1 Serendib Efreet
 1 Master of Waves

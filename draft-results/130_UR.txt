@@ -8,7 +8,7 @@ Game Record: 4-0
 vs. 136: 2-0
 vs. 134: 2-0
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Man-o'-War
 1 Vendilion Clique
 1 Dungeon Geists
@@ -40,7 +40,7 @@ vs. 134: 2-0
 5 Mountain
 
 1 Thalia, Guardian of Thraben
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Ponder
 1 Into the Roil
 1 Miscalculation

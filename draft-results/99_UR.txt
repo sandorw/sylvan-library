@@ -12,7 +12,7 @@ vs. 96: 1-0
 1 Phantasmal Image
 1 Vendilion Clique
 1 Phyrexian Metamorph
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Academy Ruins
 1 Ponder
 1 Tinker

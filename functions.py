@@ -8,7 +8,8 @@ def load_card_data():
     cards = {}
     card_data = read_card_data()
     for card in card_data:
-        cards[card['name']] = card
+        card_name = card['name'].split(' //')[0]
+        cards[card_name] = card
     return cards
 
 def read_card_data():

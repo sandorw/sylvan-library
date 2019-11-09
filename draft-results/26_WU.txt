@@ -25,7 +25,7 @@ vs. 27: 1-2
 1 Phyrexian Metamorph
 1 Sower of Temptation
 1 Talrand, Sky Summoner
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Ponder
 1 Vedalken Shackles
 1 Wurmcoil Engine

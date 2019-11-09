@@ -33,7 +33,7 @@ vs. 200: 2-0
 1 Maze of Ith
 1 Student of Warfare
 1 Day of Judgment
-1 Looter Il-Kor
+1 Looter il-Kor
 6 Plains
 9 Island
 

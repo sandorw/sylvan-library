@@ -20,7 +20,7 @@ vs. 102: 0-2
 1 Snapcaster Mage
 1 Glen Elendra Archmage
 1 Sower of Temptation
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Aetherling
 1 Arcane Denial
 1 Memory Lapse

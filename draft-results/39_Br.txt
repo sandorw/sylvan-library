@@ -39,7 +39,7 @@ vs. 38: 1-2
 
 1 Journey to Nowhere
 1 Oblivion Ring
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Talrand, Sky Summoner
 1 Tinker
 1 Carnophage

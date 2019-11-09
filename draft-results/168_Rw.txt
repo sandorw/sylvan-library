@@ -41,7 +41,7 @@ vs. 170: 2-1
 1 Sun Titan
 1 Kira, Great Glass-Spinner
 1 Man-o'-War
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Miscalculation
 1 Gnarled Scarhide
 1 Gravecrawler

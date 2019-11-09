@@ -9,7 +9,7 @@ vs. 101: 2-0
 vs. 103: 2-0
 
 1 Enclave Cryptologist
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Phyrexian Metamorph
 1 Venser, Shaper Savant
 1 Mulldrifter

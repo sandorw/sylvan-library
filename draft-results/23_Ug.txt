@@ -9,7 +9,7 @@ vs. 20: 2-1
 vs. 21: 2-1
 vs. 22: 1-2
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Omenspeaker
 1 Waterfront Bouncer
 1 Vendilion Clique

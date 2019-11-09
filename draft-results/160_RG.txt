@@ -47,7 +47,7 @@ vs. 158: 0-2
 1 Disenchant
 1 Oblivion Ring
 1 Catastrophe
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Man-o'-War
 1 Thassa, God of the Sea
 1 True-Name Nemesis

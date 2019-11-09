@@ -10,7 +10,7 @@ vs. 154: 2-0
 vs. 151: 2-0
 
 1 Dimensional Infiltrator
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Phantasmal Image
 1 Kira, Great Glass-Spinner
 1 Serendib Efreet
@@ -19,7 +19,7 @@ vs. 151: 2-0
 1 Glen Elendra Archmage
 1 Master of Waves
 1 Phyrexian Metamorph
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Force of Will
 1 Arcane Denial
 1 Daze

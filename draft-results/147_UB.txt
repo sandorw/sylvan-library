@@ -10,7 +10,7 @@ vs. 149: 2-0
 vs. 143: 2-0
 
 1 Dimensional Infiltrator
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Phantasmal Image
 1 Snapcaster Mage
 1 Serendib Efreet

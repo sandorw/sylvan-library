@@ -11,7 +11,7 @@ vs. 84: 2-1
 
 1 Blade Splicer
 1 Enclave Cryptologist
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Vendilion Clique
 1 Aetherling
 1 Preordain

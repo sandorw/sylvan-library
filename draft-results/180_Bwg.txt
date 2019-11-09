@@ -97,7 +97,7 @@ vs. 181: 1-2
 1 Bonesplitter
 1 Cursed Scroll
 1 Skullclamp
-1 Guardion Idol
+1 Guardian Idol
 1 Smuggler's Copter
 1 Grafted Wargear
 1 Mimic Vat

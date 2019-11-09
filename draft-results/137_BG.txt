@@ -40,7 +40,7 @@ vs. 138: 0-2
 
 1 Armageddon
 1 Dungeon Geists
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Opposition
 1 Diregraf Ghoul
 1 Gnarled Scarhide

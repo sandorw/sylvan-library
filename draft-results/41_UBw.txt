@@ -10,7 +10,7 @@ vs. 42: 0-2
 vs. 44: 1-2
 
 1 Porcelain Legionnaire
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Snapcaster Mage
 1 Waterfront Bouncer
 1 Thassa, God of the Sea

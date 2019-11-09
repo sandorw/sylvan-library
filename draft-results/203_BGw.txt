@@ -18,7 +18,7 @@ vs. 202: 0-2
 1 Scrubland
 1 Fyndhorn Elves
 1 Rancor
-1 Mardu Strike LEader
+1 Mardu Strike Leader
 1 Lingering Souls
 1 Windswept Heath
 1 Llanowar Elves
