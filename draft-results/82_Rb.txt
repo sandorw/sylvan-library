@@ -41,8 +41,8 @@ vs. 80: 1-2
 1 Soltari Champion
 1 Disenchant
 1 Day of Judgment
-1 Looter Il-Kor
-1 Meloku, the Clouded Mirror
+1 Looter il-Kor
+1 Meloku the Clouded Mirror
 1 Arcane Denial
 1 Tinker
 1 Thrun, the Last Troll

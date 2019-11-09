@@ -53,7 +53,7 @@ vs. 208: 2-0
 1 Qasali Pridemage
 1 Smokestack
 1 Joraga Treespeaker
-1 Bloodstained Champion
+1 Bloodsoaked Champion
 1 Pia Nalaar
 1 Fleetwheel Cruiser
-1 Faerie Conclave 
+1 Faerie Conclave

@@ -52,7 +52,7 @@ vs. 212: 2-0
 1 Arbor Elf
 1 Control Magic
 1 Looter il-Kor
-1 Phrexian Revoker
+1 Phyrexian Revoker
 1 Courser of Kruphix
 1 Everflowing Chalice
 1 Crucible of Worlds

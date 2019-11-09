@@ -9,7 +9,7 @@ vs. 175: 2-1
 vs. 176: 0-2
 vs. 172: 2-1
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Phyrexian Metamorph
 1 Ponder
 1 Mana Leak
@@ -56,5 +56,5 @@ vs. 172: 2-1
 1 Evolutionary Leap
 1 Cultivate
 1 Dragonlord Atarka
-1 Guardion Idol
+1 Guardian Idol
 1 Scroll Rack

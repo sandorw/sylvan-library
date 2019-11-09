@@ -31,7 +31,7 @@ vs. 192: 2-0
 1 Plateau
 1 Gideon Jura
 1 Flickerwisp
-1 Elspeth, Knight Errant
+1 Elspeth, Knight-Errant
 1 Council's Judgment
 1 Wurmcoil Engine
 1 Mind Stone

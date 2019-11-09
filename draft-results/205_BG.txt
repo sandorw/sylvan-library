@@ -52,7 +52,7 @@ vs. 206: 2-0
 1 Mystical Tutor
 1 Trygon Predator
 1 Baleful Strix
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Tasigur, the Golden Fang
 1 Deep Analysis
 1 Watery Grave

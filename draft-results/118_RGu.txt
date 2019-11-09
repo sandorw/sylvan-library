@@ -42,7 +42,7 @@ vs. 114: 2-0
 2 Mountain
 6 Forest
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Dungeon Geists
 1 Into the Roil
 1 Miscalculation

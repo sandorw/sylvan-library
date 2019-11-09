@@ -44,7 +44,7 @@ vs. 111: 0-2
 1 Land Tax
 1 Balance
 1 Aether Adept
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Aetherling
 1 Force of Will
 1 Brainstorm

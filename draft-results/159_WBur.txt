@@ -50,7 +50,7 @@ vs. 157: 2-0
 1 Spectral Procession
 1 Snapcaster Mage
 1 Glen Elendra Archmage
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Brainstorm
 1 Force Spike
 1 Mystical Tutor

@@ -16,7 +16,7 @@ vs. 186: 0-2
 1 Spectral Procession
 1 Vendilion Clique
 1 Venser, Shaper Savant
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Aetherling
 1 Faerie Conclave
 1 Brainstorm

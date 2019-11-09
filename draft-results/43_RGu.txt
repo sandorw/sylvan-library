@@ -41,7 +41,7 @@ vs. 42: 2-1
 4 Mountain
 7 Forest
 
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Carrion Feeder
 1 Torch Fiend
 1 Squee, Goblin Nabob

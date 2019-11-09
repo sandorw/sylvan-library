@@ -10,7 +10,7 @@ vs. 115: 2-1
 
 1 Glen Elendra Archmage
 1 Phyrexian Metamorph
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Impulse
 1 Tinker
 1 Vedalken Shackles

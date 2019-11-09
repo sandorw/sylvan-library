@@ -9,7 +9,7 @@ vs. 120: 2-0
 vs. 124: 0-2
 vs. 119: 2-0
 
-1 Looter Il-Kor
+1 Looter il-Kor
 1 Man-o'-War
 1 Serendib Efreet
 1 Vendilion Clique
@@ -42,7 +42,7 @@ vs. 119: 2-0
 4 Swamp
 
 1 Snapcaster Mage
-1 Meloku, the Clouded Mirror
+1 Meloku the Clouded Mirror
 1 Ponder
 1 Miscalculation
 1 Deep Analysis

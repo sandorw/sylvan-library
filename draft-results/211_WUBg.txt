@@ -3,8 +3,8 @@ Pilot: 3
 Date: 2017-03-07
 Colors: WUBg
 Labels: Midrange, Tokens
-Match Record: 
-Game Record: 
+Match Record: 1-2
+Game Record: 2-4
 vs. 208: 0-2
 vs. 206: 2-0
 vs. 210: 0-2
@@ -37,12 +37,13 @@ vs. 210: 0-2
 1 Pack Rat
 1 City of Brass
 1 Jace, the Mind Sculptor
+1 Reanimate
+1 Braids, Cabal Minion
 1 Plains
 3 Island
 5 Swamp
 1 Forest
 
-1 Reanimate
 1 Keldon Marauders
 1 Dack Fayden
 1 Arcane Denial
@@ -51,7 +52,6 @@ vs. 210: 0-2
 1 Maze of Ith
 1 Taiga
 1 Oath of Druids
-1 Braids, Cabal Minion
 1 Chain Lightning
 1 Wild Nacatl
 1 Mutavault
