@@ -1,0 +1,360 @@
+Dauntless Bodyguard
+Isamaru, Hound of Konda
+Kytheon, Hero of Akros
+Mardu Woe-Reaper
+Mother of Runes
+Skymarcher Aspirant
+Student of Warfare
+Accorder Paladin
+Remorseful Cleric
+Selfless Spirit
+Stoneforge Mystic
+Thalia, Guardian of Thraben
+Wall of Omens
+Porcelain Legionnaire
+Blade Splicer
+Brimaz, King of Oreskos
+Flickerwisp
+Monastery Mentor
+Recruiter of the Guard
+Thalia, Heretic Cathar
+Gisela, the Broken Blade
+Hero of Bladehold
+Restoration Angel
+Angel of Invention
+Archangel Avacyn
+Reveillark
+Sun Titan
+Elspeth, Knight-Errant
+Gideon, Ally of Zendikar
+Gideon Jura
+Elspeth, Sun's Champion
+Enlightened Tutor
+Mana Tithe
+Path to Exile
+Swords to Plowshares
+Disenchant
+Unexpectedly Absent
+Balance
+Council's Judgment
+Armageddon
+Day of Judgment
+Ravages of War
+Wrath of God
+Catastrophe
+Land Tax
+Banishing Light
+Oblivion Ring
+Karakas
+Enclave Cryptologist
+Jace, Vryn's Prodigy
+Looter il-Kor
+Phantasmal Image
+Snapcaster Mage
+Man-o'-War
+True-Name Nemesis
+Vendilion Clique
+Phyrexian Metamorph
+Glen Elendra Archmage
+Sower of Temptation
+Venser, Shaper Savant
+Meloku the Clouded Mirror
+Mulldrifter
+Consecrated Sphinx
+Torrential Gearhulk
+Jace, the Mind Sculptor
+Brainstorm
+Force Spike
+Mystical Tutor
+Arcane Denial
+Counterspell
+Mana Drain
+Mana Leak
+Memory Lapse
+Miscalculation
+Remand
+Forbid
+Cryptic Command
+Fact or Fiction
+Force of Will
+Mystic Confluence
+Condescend
+Dig Through Time
+Ponder
+Preordain
+Chart a Course
+Show and Tell
+Tinker
+Deep Analysis
+Upheaval
+Search for Azcanta
+Control Magic
+Opposition
+Treachery
+Vedalken Shackles
+Bloodsoaked Champion
+Diregraf Ghoul
+Dread Wanderer
+Gravecrawler
+Gutterbones
+Bloodghast
+Dark Confidant
+Heir of Falkenrath
+Oona's Prowler
+Pack Rat
+Scrapheap Scrounger
+Drana, Liberator of Malakir
+Flesh Carver
+Ophiomancer
+Vampire Nighthawk
+Braids, Cabal Minion
+Ravenous Chupacabra
+Yawgmoth, Thran Physician
+Custodi Lich
+Doom Whisperer
+Shriekmaw
+Grave Titan
+Griselbrand
+Liliana of the Veil
+Liliana, Death's Majesty
+Dismember
+Entomb
+Vampiric Tutor
+Liliana's Triumph
+Snuff Out
+Duress
+Inquisition of Kozilek
+Reanimate
+Thoughtseize
+Demonic Tutor
+Exhume
+Hymn to Tourach
+Toxic Deluge
+Damnation
+Living Death
+Mind Twist
+Sarcomancy
+Animate Dead
+Bitterblossom
+Necromancy
+Recurring Nightmare
+Volrath's Stronghold
+Falkenrath Gorger
+Firedrinker Satyr
+Goblin Guide
+Greater Gargadon
+Grim Lavamancer
+Jackal Pup
+Monastery Swiftspear
+Zurgo Bellstriker
+Dire Fleet Daredevil
+Dismissive Pyromancer
+Goblin Cratermaker
+Kari Zev, Skyship Raider
+Stormblood Berserker
+Young Pyromancer
+Feldon of the Third Path
+Goblin Rabblemaster
+Imperial Recruiter
+Krenko, Tin Street Kingpin
+Seasoned Pyromancer
+Flametongue Kavu
+Hellrider
+Pia and Kiran Nalaar
+Purphoros, God of the Forge
+Siege-Gang Commander
+Thundermaw Hellkite
+Inferno Titan
+Chandra, Torch of Defiance
+Koth of the Hammer
+Chandra, Flamecaller
+Burst Lightning
+Firestorm
+Lightning Bolt
+Abrade
+Incinerate
+Magma Jet
+Fireblast
+Chain Lightning
+Faithless Looting
+Firebolt
+Arc Trail
+Arc Lightning
+Wheel of Fortune
+Fiery Confluence
+Burning of Xinye
+Wildfire
+Sulfuric Vortex
+Sneak Attack
+Birds of Paradise
+Elvish Mystic
+Experiment One
+Fyndhorn Elves
+Hexdrinker
+Joraga Treespeaker
+Llanowar Elves
+Noble Hierarch
+Pelt Collector
+Fauna Shaman
+Lotus Cobra
+Rofellos, Llanowar Emissary
+Sakura-Tribe Elder
+Scavenging Ooze
+Tarmogoyf
+Eternal Witness
+Ramunap Excavator
+Reclamation Sage
+Tireless Tracker
+Courser of Kruphix
+Master of the Wild Hunt
+Oracle of Mul Daya
+Thrun, the Last Troll
+Acidic Slime
+Deep Forest Hermit
+Thragtusk
+Carnage Tyrant
+Primeval Titan
+Hornet Queen
+Woodfall Primus
+Garruk Relentless
+Garruk Wildspeaker
+Worldly Tutor
+Channel
+Life from the Loam
+Regrowth
+Eureka
+Natural Order
+Plow Under
+Green Sun's Zenith
+Tooth and Nail
+Rancor
+Oath of Druids
+Survival of the Fittest
+Sylvan Library
+Gaea's Cradle
+Treetop Village
+Celestial Colonnade
+Flooded Strand
+Hallowed Fountain
+Tundra
+Fractured Identity
+Creeping Tar Pit
+Polluted Delta
+Underground Sea
+Watery Grave
+Baleful Strix
+The Scarab God
+Badlands
+Blood Crypt
+Bloodstained Mire
+Rakdos Cackler
+Kolaghan's Command
+Stomping Ground
+Taiga
+Wooded Foothills
+Wrenn and Six
+Bloodbraid Elf
+Dragonlord Atarka
+Savannah
+Temple Garden
+Windswept Heath
+Dryad Militant
+Nature's Chant
+Kitchen Finks
+Knight of Autumn
+Godless Shrine
+Marsh Flats
+Scrubland
+Lingering Souls
+Vindicate
+Sorin, Lord of Innistrad
+Bayou
+Overgrown Tomb
+Verdant Catacombs
+Assassin's Trophy
+Maelstrom Pulse
+Pernicious Deed
+Breeding Pool
+Misty Rainforest
+Tropical Island
+Edric, Spymaster of Trest
+Nissa, Steward of Elements
+Scalding Tarn
+Steam Vents
+Volcanic Island
+Dack Fayden
+Arid Mesa
+Plateau
+Sacred Foundry
+Figure of Destiny
+Ajani Vengeant
+Wild Nacatl
+Alesha, Who Smiles at Death
+Warden of the First Tree
+Yasova Dragonclaw
+Chrome Mox
+Mox Diamond
+Bonesplitter
+Sensei's Divining Top
+Skullclamp
+Grim Monolith
+Mind Stone
+Smuggler's Copter
+Sorcerous Spyglass
+Umezawa's Jitte
+Winter Orb
+Coalition Relic
+Crucible of Worlds
+Grafted Wargear
+Mimic Vat
+Sword of Body and Mind
+Sword of Fire and Ice
+Sword of Light and Shadow
+Tangle Wire
+Worn Powerstone
+Smokestack
+Batterskull
+Engineered Explosives
+Phyrexian Revoker
+Solemn Simulacrum
+Wurmcoil Engine
+Myr Battlesphere
+Sundering Titan
+Ulamog, the Ceaseless Hunger
+Walking Ballista
+Emrakul, the Promised End
+Ancient Tomb
+Blast Zone
+City of Brass
+Gemstone Mine
+Grand Coliseum
+Mana Confluence
+Maze of Ith
+Mishra's Factory
+Mutavault
+Prismatic Vista
+Rishadan Port
+Strip Mine
+Wasteland
+Rankle, Master of Pranks
+Bonecrusher Giant
+Murderous Rider
+Saheeli, Sublime Artificer
+Fabled Passage
+Talisman of Dominance
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Progress
+Talisman of Unity
+Earthshaker Khenra
+Sphinx of the Steel Wind
+Leovold, Emissary of Trest
+Narset, Parter of Veils
+Timetwister
+Time Spiral
+Brazen Borrower
+Teferi, Hero of Dominaria
+Charming Prince
+Questing Beast
+Rolling Earthquake
+Kessig Prowler
