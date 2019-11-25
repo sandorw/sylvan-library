@@ -3,11 +3,12 @@ Pilot: 1
 Date: 2019-11-4
 Colors: WR
 Labels: Aggro, Burn
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 4-0
+Game Record: 8-3
+vs. 228: 2-1 
+vs. 232: 2-0 
+vs. 233: 2-1
+vs. 226: 2-1
 
 1 Sacred Foundry
 1 Kytheon, Hero of Akros
