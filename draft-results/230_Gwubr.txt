@@ -3,11 +3,10 @@ Pilot: 36
 Date: 2019-11-4
 Colors: Gwubr
 Labels: Midrange, Lands Matter
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 0-2
+Game Record: 1-4
+vs. 229: 1-2
+vs. 231: 0-2
 
 1 Stomping Ground
 1 Bitterblossom
