@@ -1,0 +1,59 @@
+DeckId: 232
+Pilot: 38
+Date: 2019-11-4
+Colors: UBR
+Labels: Midrange, Cheat
+Match Record:
+Game Record: 
+vs. : 
+vs. : 
+vs. :
+
+1 Dark Confidant
+1 Imperial Recruiter
+1 Chrome Mox
+1 Sundering Titan
+1 Verdant Catacombs
+1 Griselbrand
+1 Volcanic Island
+1 Badlands
+1 Blood Crypt
+1 Forbid
+1 Abrade
+1 Bloodstained Mire
+1 Seasoned Pyromancer
+1 Inquisition of Kozilek
+1 Force of Will
+1 Mox Diamond
+1 Looter il-Kor
+1 Feldon of the Third Path
+1 Ponder
+1 Timetwister
+1 Narset, Parter of Veils
+1 Sneak Attack
+1 Underground Sea
+1 Kolaghan's Command
+1 Liliana's Triumph
+1 Thoughtseize
+1 Tinker
+1 Dismissive Pyromancer
+1 Miscalculation
+4 Island
+3 Swamp
+4 Mountain
+
+1 Gutterbones
+1 Drana, Liberator of Malakir
+1 Greater Gargadon
+1 Custodi Lich
+1 Fiery Confluence
+1 Alesha, Who Smiles at Death
+1 Firestorm
+1 Rolling Earthquake
+1 Sun Titan
+1 Tooth and Nail
+1 Sword of Fire and Ice
+1 Wildfire
+1 Burning of Xinye
+1 Godless Shrine
+1 Yasova Dragonclaw
