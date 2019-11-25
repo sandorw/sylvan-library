@@ -3,11 +3,11 @@ Pilot: 6
 Date: 2019-11-4
 Colors: WU
 Labels: Control
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 1-2
+Game Record: 3-4
+vs. 227: 1-2 
+vs. 231: 2-0
+vs. 229: 0-2
 
 1 Control Magic
 1 Wall of Omens
