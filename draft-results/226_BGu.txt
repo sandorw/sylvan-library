@@ -3,11 +3,11 @@ Pilot: 34
 Date: 2019-11-4
 Colors: BGu
 Labels: Ramp, Midrange, Cheat
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. : 
+Match Record: 1-2
+Game Record: 3-4
+vs. 233: 0-2 
+vs. 232: 2-0 
+vs. 227: 1-2 
 
 1 Natural Order
 1 Birds of Paradise
