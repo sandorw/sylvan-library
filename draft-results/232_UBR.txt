@@ -3,11 +3,12 @@ Pilot: 38
 Date: 2019-11-4
 Colors: UBR
 Labels: Midrange, Cheat
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 2-2
+Game Record: 3-4
+vs. 231: 2-0
+vs. 227: 0-2
+vs. 226: 0-2
+vs. 233: 1-0
 
 1 Dark Confidant
 1 Imperial Recruiter
