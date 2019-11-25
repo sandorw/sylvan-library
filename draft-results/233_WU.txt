@@ -3,11 +3,11 @@ Pilot: 33
 Date: 2019-11-4
 Colors: WU
 Labels: Control
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 1-2
+Game Record: 3-3
+vs. 226: 2-0
+vs. 227: 1-2
+vs. 232: 0-1
 
 1 Cryptic Command
 1 Meloku the Clouded Mirror
