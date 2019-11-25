@@ -1,0 +1,60 @@
+DeckId: 228
+Pilot: 6
+Date: 2019-11-4
+Colors: WU
+Labels: Control
+Match Record: 1-2
+Game Record: 3-4
+vs. 227: 1-2 
+vs. 231: 2-0
+vs. 229: 0-2
+
+1 Control Magic
+1 Wall of Omens
+1 Vendilion Clique
+1 True-Name Nemesis
+1 Elspeth, Knight-Errant
+1 Day of Judgment
+1 Swords to Plowshares
+1 Brazen Borrower
+1 Mana Leak
+1 Recruiter of the Guard
+1 Vedalken Shackles
+1 Celestial Colonnade
+1 Sensei's Divining Top
+1 Oblivion Ring
+1 Counterspell
+1 Mana Confluence
+1 Talisman of Progress
+1 Mulldrifter
+1 Search for Azcanta
+1 Monastery Mentor
+1 Jace, the Mind Sculptor
+1 Reveillark
+1 Flooded Strand
+1 Jace, Vryn's Prodigy
+1 Treachery
+1 Mystic Confluence
+6 Plains
+8 Island
+
+1 Gisela, the Broken Blade
+1 Dread Wanderer
+1 Chandra, Torch of Defiance
+1 Gravecrawler
+1 Bonesplitter
+1 Zurgo Bellstriker
+1 Bloodbraid Elf
+1 Smokestack
+1 Earthshaker Khenra
+1 Dig Through Time
+1 Angel of Invention
+1 Unexpectedly Absent
+1 Land Tax
+1 Enlightened Tutor
+1 Maze of Ith
+1 Disenchant
+1 Mind Stone
+1 Catastrophe
+1 Blade Splicer
+1 Brimaz, King of Oreskos

@@ -1,0 +1,59 @@
+DeckId: 229
+Pilot: 35
+Date: 2019-11-4
+Colors: BG
+Labels: Midrange, Ramp
+Match Record: 2-0
+Game Record: 4-1
+vs. 230: 2-1
+vs. 228: 2-0
+
+1 Volrath's Stronghold
+1 Master of the Wild Hunt
+1 Mimic Vat
+1 Joraga Treespeaker
+1 Eureka
+1 Llanowar Elves
+1 Fabled Passage
+1 Sakura-Tribe Elder
+1 Flesh Carver
+1 Lotus Cobra
+1 Treetop Village
+1 Demonic Tutor
+1 Gaea's Cradle
+1 Assassin's Trophy
+1 Necromancy
+1 Sylvan Library
+1 Worldly Tutor
+1 Tarmogoyf
+1 Carnage Tyrant
+1 Acidic Slime
+1 Emrakul, the Promised End
+1 Survival of the Fittest
+1 Elvish Mystic
+1 Dismember
+1 Shriekmaw
+1 Green Sun's Zenith
+1 Eternal Witness
+1 Garruk Wildspeaker
+5 Swamp
+7 Forest
+
+1 Sorin, Lord of Innistrad
+1 Bloodghast
+1 Pernicious Deed
+1 Bloodsoaked Champion
+1 Purphoros, God of the Forge
+1 Arc Lightning
+1 Garruk Relentless
+1 Deep Forest Hermit
+1 Scavenging Ooze
+1 Ophiomancer
+1 Sword of Light and Shadow
+1 Sorcerous Spyglass
+1 Rancor
+1 Kessig Prowler
+1 Nissa, Steward of Elements
+1 Thundermaw Hellkite
+1 Falkenrath Gorger
+1 Batterskull

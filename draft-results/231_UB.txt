@@ -1,0 +1,58 @@
+DeckId: 231
+Pilot: 37
+Date: 2019-11-4
+Colors: UB
+Labels: Midrange, Reanimator
+Match Record: 1-2
+Game Record: 2-4
+vs. 232: 0-2
+vs. 228: 0-2 
+vs. 230: 2-0
+
+1 The Scarab God
+1 Enclave Cryptologist
+1 Entomb
+1 Phantasmal Image
+1 Baleful Strix
+1 Chart a Course
+1 Ravenous Chupacabra
+1 Fact or Fiction
+1 Liliana, Death's Majesty
+1 City of Brass
+1 Mana Drain
+1 Exhume
+1 Snuff Out
+1 Snapcaster Mage
+1 Saheeli, Sublime Artificer
+1 Damnation
+1 Doom Whisperer
+1 Murderous Rider
+1 Ulamog, the Ceaseless Hunger
+1 Deep Analysis
+1 Reanimate
+1 Phyrexian Metamorph
+1 Toxic Deluge
+1 Talisman of Impulse
+1 Torrential Gearhulk
+8 Island
+9 Swamp
+
+1 Dack Fayden
+1 Consecrated Sphinx
+1 Tundra
+1 Scrubland
+1 Porcelain Legionnaire
+1 Preordain
+1 Solemn Simulacrum
+1 Steam Vents
+1 Experiment One
+1 Inferno Titan
+1 Incinerate
+1 Burst Lightning
+1 Wheel of Fortune
+1 Smuggler's Copter
+1 Elspeth, Sun's Champion
+1 Stoneforge Mystic
+1 Sword of Body and Mind
+1 Talisman of Indulgence
+1 Vindicate

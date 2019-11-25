@@ -1,0 +1,59 @@
+DeckId: 233
+Pilot: 33
+Date: 2019-11-4
+Colors: WU
+Labels: Control
+Match Record: 1-2
+Game Record: 3-3
+vs. 226: 2-0
+vs. 227: 1-2
+vs. 232: 0-1
+
+1 Cryptic Command
+1 Meloku the Clouded Mirror
+1 Arcane Denial
+1 Council's Judgment
+1 Memory Lapse
+1 Wrath of God
+1 Man-o'-War
+1 Opposition
+1 Sower of Temptation
+1 Phyrexian Revoker
+1 Marsh Flats
+1 Force Spike
+1 Glen Elendra Archmage
+1 Venser, Shaper Savant
+1 Path to Exile
+1 Mutavault
+1 Banishing Light
+1 Fractured Identity
+1 Teferi, Hero of Dominaria
+1 Mana Tithe
+1 Restoration Angel
+1 Remorseful Cleric
+1 Charming Prince
+1 Flickerwisp
+1 Condescend
+1 Karakas
+7 Plains
+8 Island
+
+1 Nature's Chant
+1 Young Pyromancer
+1 Mother of Runes
+1 Gideon Jura
+1 Mardu Woe-Reaper
+1 Upheaval
+1 Wild Nacatl
+1 Thrun, the Last Troll
+1 Student of Warfare
+1 Knight of Autumn
+1 Tangle Wire
+1 Mishra's Factory
+1 Braids, Cabal Minion
+1 Rankle, Master of Pranks
+1 Edric, Spymaster of Trest
+1 Yawgmoth, Thran Physician
+1 Chandra, Flamecaller
+1 Sphinx of the Steel Wind
+1 Gideon, Ally of Zendikar

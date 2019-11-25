@@ -1,0 +1,60 @@
+DeckId: 230
+Pilot: 36
+Date: 2019-11-4
+Colors: Gwubr
+Labels: Midrange, Lands Matter
+Match Record: 0-2
+Game Record: 1-4
+vs. 229: 1-2
+vs. 231: 0-2
+
+1 Stomping Ground
+1 Bitterblossom
+1 Hallowed Fountain
+1 Lingering Souls
+1 Arid Mesa
+1 Vampiric Tutor
+1 Plow Under
+1 Tireless Tracker
+1 Grand Coliseum
+1 Prismatic Vista
+1 Pack Rat
+1 Remand
+1 Mystical Tutor
+1 Fyndhorn Elves
+1 Temple Garden
+1 Hexdrinker
+1 Misty Rainforest
+1 Arc Trail
+1 Oracle of Mul Daya
+1 Windswept Heath
+1 Leovold, Emissary of Trest
+1 Blast Zone
+1 Wrenn and Six
+1 Balance
+1 Brainstorm
+1 Overgrown Tomb
+1 Strip Mine
+1 Tropical Island
+1 Pia and Kiran Nalaar
+1 Wasteland
+1 Life from the Loam
+1 Savannah
+1 Maelstrom Pulse
+1 Coalition Relic
+1 Skullclamp
+1 Regrowth
+1 Island
+1 Swamp
+1 Mountain
+1 Forest
+
+1 Dire Fleet Daredevil
+1 Reclamation Sage
+1 Myr Battlesphere
+1 Talisman of Dominance
+1 Channel
+1 Siege-Gang Commander
+1 Selfless Spirit
+1 Recurring Nightmare
+1 Woodfall Primus

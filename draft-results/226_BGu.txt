@@ -1,0 +1,59 @@
+DeckId: 226
+Pilot: 34
+Date: 2019-11-4
+Colors: BGu
+Labels: Ramp, Midrange, Cheat
+Match Record: 1-2
+Game Record: 3-4
+vs. 233: 0-2 
+vs. 232: 2-0 
+vs. 227: 1-2 
+
+1 Natural Order
+1 Birds of Paradise
+1 Worn Powerstone
+1 Rofellos, Llanowar Emissary
+1 Polluted Delta
+1 Fauna Shaman
+1 Liliana of the Veil
+1 Time Spiral
+1 Show and Tell
+1 Grave Titan
+1 Oath of Druids
+1 Mind Twist
+1 Breeding Pool
+1 Questing Beast
+1 Grim Monolith
+1 Thragtusk
+1 Ancient Tomb
+1 Watery Grave
+1 Noble Hierarch
+1 Courser of Kruphix
+1 Hymn to Tourach
+1 Walking Ballista
+1 Hornet Queen
+1 Primeval Titan
+1 Bayou
+1 Duress
+1 Vampire Nighthawk
+1 Wurmcoil Engine
+3 Swamp
+9 Forest
+
+1 Creeping Tar Pit
+1 Dragonlord Atarka
+1 Goblin Cratermaker
+1 Faithless Looting
+1 Skymarcher Aspirant
+1 Warden of the First Tree
+1 Living Death
+1 Heir of Falkenrath
+1 Diregraf Ghoul
+1 Oona's Prowler
+1 Sarcomancy
+1 Ramunap Excavator
+1 Animate Dead
+1 Pelt Collector
+1 Grafted Wargear
+1 Crucible of Worlds
+1 Engineered Explosives
