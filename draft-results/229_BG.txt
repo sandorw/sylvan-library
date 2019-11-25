@@ -3,11 +3,10 @@ Pilot: 35
 Date: 2019-11-4
 Colors: BG
 Labels: Midrange, Ramp
-Match Record:
-Game Record: 
-vs. : 
-vs. : 
-vs. :
+Match Record: 2-0
+Game Record: 4-1
+vs. 230: 2-1
+vs. 228: 2-0
 
 1 Volrath's Stronghold
 1 Master of the Wild Hunt
