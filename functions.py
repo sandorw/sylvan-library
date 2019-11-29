@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 import requests
@@ -7,6 +8,8 @@ def load_card_data(is_offline):
     '''Sets up card dictionary'''
     cards = {}
     card_data = read_card_data(is_offline)
+    if not card_data:
+        raise RuntimeError('No card data available')
     for card in card_data:
         card_name = card['name'].split(' //')[0]
         cards[card_name] = card
@@ -36,21 +39,22 @@ def refresh_card_data():
         json.dump(cache_data, outfile)
     return cache_data['data']
 
-def read_decklists(directory):
+def read_decklists(dirs):
     '''Loads all decklists in a given directory'''
     decks = {}
-    for infile in os.listdir(directory):
-        if infile[-4:] != '.txt':
-            continue
-        filename = directory + '/' + infile
-        try:
-            deck = load_deck(filename)
-            deck_id = deck['deck_id']
-            decks[deck_id] = deck
+    for dir in dirs:
+        for infile in os.listdir(dir):
+            if infile[-4:] != '.txt':
+                continue
+            filename = dir + '/' + infile
+            try:
+                deck = load_deck(filename)
+                deck_id = deck['deck_id']
+                decks[deck_id] = deck
 
-        except:
-            print('File {} could not be analyzed.'.format(filename))
-            continue
+            except:
+                print('File {} could not be analyzed.'.format(filename))
+                continue
     return decks
 
 def load_deck(infile):
@@ -128,87 +132,69 @@ def validate_decklists(decks, cards):
             if opponent not in decks:
                 print('missing deck_id: {}'.format(opponent))
 
-def archetype_analysis(decks):
-    archetypes = {}
-    for deck in decks.values():
-        for archetype in deck['labels']:
-            if archetype not in archetypes.keys():
-                archetypes[archetype] = {'wins':0, 'losses':0, 'draws':0}
-            archetypes[archetype]['wins'] += deck['game_record']['wins']
-            archetypes[archetype]['losses'] += deck['game_record']['losses']
-            archetypes[archetype]['draws'] += deck['game_record']['draws']
-    for archetype in archetypes.keys():
-        results = archetypes[archetype]
-        win_rate = float(results['wins']) / (results['wins'] + results['losses'] + results['draws'])
-        archetypes[archetype]['win_rate'] = win_rate
-    print('')
-    print('Archetype win rates')
-    for archetype_tuple in sorted(archetypes.items(), key=lambda kv: kv[1]['win_rate'], reverse=True):
-        archetype = archetype_tuple[0]
-        results = archetype_tuple[1]
-        print('Archetype {}: win rate {}, {}-{}-{}'.format(archetype, results['win_rate'], results['wins'], results['losses'], results['draws']))
+# Can I write a generalized version of the analysis and cover the things I want?
+# Would allow for count statistics as well as win rate analysis
+#   card winrate: win rate grouped by maindeck
+#   player winrate: win rate grouped by player ID
+#   player count by archetype: count grouped by playerID and archetype - probably want to divide by total count
+#   
 
-def player_analysis(decks):
+def analyze_results(card_data, decks, deck_predicate):
+    archetypes = {}
     players = {}
+    cards = {}
     for deck in decks.values():
+        if not deck_predicate(deck):
+            continue
         player_id = deck['player_id']
         if player_id not in players.keys():
-            players[player_id] = {'wins':0, 'losses':0, 'draws':0}
-        players[player_id]['wins'] += deck['game_record']['wins']
-        players[player_id]['losses'] += deck['game_record']['losses']
-        players[player_id]['draws'] += deck['game_record']['draws']
-    print('')
-    print('Player win rates')
-    for player in sorted(players.keys()):
-        results = players[player]
-        win_rate = float(results['wins']) / (results['wins'] + results['losses'] + results['draws'])
-        print('Player {}: win rate {}, {}-{}-{}'.format(player, win_rate, results['wins'], results['losses'], results['draws']))
-
-def card_winrates(decks):
-    cards = {}
-    for deck in decks.values():
+            players[player_id] = {'overall_record':{'wins':0, 'losses':0, 'draws':0}, 'player_matchups':{}, 'archetype_record':{}}
+        accumulate_results(players[player_id]['overall_record'], deck['game_record'])
+        for archetype in deck['labels']:
+            if archetype not in archetypes.keys():
+                archetypes[archetype] = {'overall_record':{'wins':0, 'losses':0, 'draws':0}, 'matchups':{}}
+            if archetype not in players[player_id]['archetype_record'].keys():
+                players[player_id]['archetype_record'][archetype] = {'wins':0, 'losses':0, 'draws':0}
+            accumulate_results(archetypes[archetype]['overall_record'], deck['game_record'])
+            accumulate_results(players[player_id]['archetype_record'][archetype], deck['game_record'])
         for card in deck['maindeck']:
             if card in ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']:
                 continue
             if card not in cards.keys():
-                cards[card] = {'wins':0, 'losses':0, 'draws':0}
-            cards[card]['wins'] += deck['game_record']['wins']
-            cards[card]['losses'] += deck['game_record']['losses']
-            cards[card]['draws'] += deck['game_record']['draws']
-    for card in cards.keys():
-        results = cards[card]
-        win_rate = float(results['wins']) / (results['wins'] + results['losses'] + results['draws'])
-        cards[card]['win_rate'] = win_rate
-    print('')
-    print('Card win rates')
-    for card_tuple in sorted(cards.items(), key=lambda kv: kv[1]['win_rate'], reverse=True):
-        card_name = card_tuple[0]
-        card_results = card_tuple[1]
-        print('{}: win rate {}, {}-{}-{}'.format(card_name, card_results['win_rate'], card_results['wins'], card_results['losses'], card_results['draws']))
-
-def maindeck_rates(decks):
-    cards = {}
-    for deck in decks.values():
-        for card in deck['maindeck']:
-            if card in ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']:
-                continue
-            if card not in cards.keys():
-                cards[card] = {'maindeck':0, 'sideboard':0}
+                cards[card] = {'overall_record':{'wins':0, 'losses':0, 'draws':0}, 'maindeck':0, 'sideboard':0}
+            accumulate_results(cards[card]['overall_record'], deck['game_record'])
             cards[card]['maindeck'] += 1
         for card in deck['sideboard']:
             if card not in cards.keys():
-                cards[card] = {'maindeck':0, 'sideboard':0}
+                cards[card] = {'overall_record':{'wins':0, 'losses':0, 'draws':0}, 'maindeck':0, 'sideboard':0}
             cards[card]['sideboard'] += 1
-    for card in cards.keys():
-        results = cards[card]
-        maindeck_rate = float(results['maindeck']) / (results['maindeck'] + results['sideboard'])
-        cards[card]['maindeck_rate'] = maindeck_rate
-    print('')
-    print('Card maindeck rates')
-    for card_tuple in sorted(cards.items(), key=lambda kv: kv[1]['maindeck_rate'], reverse=True):
-        card_name = card_tuple[0]
-        card_results = card_tuple[1]
-        print('{}: maindeck rate {}, {}-{}'.format(card_name, card_results['maindeck_rate'], card_results['maindeck'], card_results['sideboard']))
+
+    for tuple in archetypes.items():
+        archetype = tuple[0]
+        winrate_results = tuple[1]['overall_record']
+        winrate_results['winrate'] = get_winrate(winrate_results) 
+        matchup_results = tuple[1]['matchups']
+    for tuple in players.items():
+        player_id = tuple[0]
+        player_results = tuple[1]
+        player_results['overall_record']['winrate'] = get_winrate(player_results['overall_record'])
+        for opposing_player in player_results['player_matchups'].keys():
+            player_result = player_results['player_matchups'][opposing_player]
+            player_result['winrate'] = get_winrate(player_result)
+        for archetype in player_results['archetype_record'].keys():
+            archetype_result = player_results['archetype_record'][archetype]
+            archetype_result['winrate'] = get_winrate(archetype_result)
+    for card in cards.values():
+        card['overall_record']['winrate'] = get_winrate(card['overall_record'])
+        card['maindeck_rate'] = float(card['maindeck']) / (card['maindeck'] + card['sideboard'])
+
+def get_winrate(record):
+    return float(record['wins']) / (record['wins'] + record['losses'] + record['draws'])
+
+def accumulate_results(record, results):
+    record['wins'] += results['wins']
+    record['losses'] += results['losses']
+    record['draws'] += results['draws']
 
 def card_archetypes(decks):
     cards = {}
@@ -233,15 +219,64 @@ def card_archetypes(decks):
             results[archetype] = float(results[archetype]) / counts[card]
         print('{}: {}'.format(card, sorted(results.items(), key=lambda kv:kv[1], reverse=True)))
 
+def archetype_matchups(decks):
+    archetypes = {}
+    for deck in decks.values():
+        for archetype in deck['labels']:
+            if archetype not in archetypes:
+                archetypes[archetype] = {}
+            for entry in deck['game_results'].items():
+                opposing_deck = decks[entry[0]]
+                record = entry[1]
+                for opposing_archetype in opposing_deck['labels']:
+                    if opposing_archetype not in archetypes[archetype]:
+                        archetypes[archetype][opposing_archetype] = {'wins':0, 'losses':0, 'draws':0}
+                    archetypes[archetype][opposing_archetype]['wins'] += record['wins']
+                    archetypes[archetype][opposing_archetype]['losses'] += record['losses']
+                    archetypes[archetype][opposing_archetype]['draws'] += record['draws']
+    print('')
+    print('Archetype matchups')
+    for entry in archetypes.items():
+        archetype = entry[0]
+        archetype_matchup_results = entry[1]
+        for opposing_entry in archetype_matchup_results.items():
+            opposing_archetype = opposing_entry[0]
+            record = opposing_entry[1]
+            total = record['wins'] + record['losses'] + record['draws']
+            win_rate = float(record['wins']) / total
+            print('{} vs {}: winrate {}, {}-{}-{}'.format(archetype, opposing_archetype, win_rate, record['wins'], record['losses'], record['draws']))
+
 def main():
-    card_data = load_card_data(True)
-    decks = read_decklists('draft-results')
+    parser = argparse.ArgumentParser(description='Analyzes cube decklists')
+    parser.add_argument('--offline', action='store_true', help='Use local cached card data')
+    parser.add_argument('-d', '--dir', action='append', help='Directory to read draft results from')
+    parser.add_argument('--filter-list', help='List of cards to filter the results down to')
+    parser.add_argument('-p', '--player', action='append', help='Filter results to decks played by a certain player ID')
+    parser.add_argument('-a', '--archetype', action='append', help='Filter results to decks of a certain archetype')
+    args = parser.parse_args()
+
+    deck_predicate = lambda deck: True
+    if args.player:
+        deck_predicate = lambda deck: deck_predicate(deck) and deck['player_id'] in args.player
+    if args.archetype:
+        deck_predicate = lambda deck: deck_predicate(deck) and (set(args.archetype) & set(deck['labels']))
+
+    card_data = load_card_data(args.offline)
+    decks = read_decklists(args.dir)
     validate_decklists(decks, card_data)
-    archetype_analysis(decks)
-    player_analysis(decks)
-    card_winrates(decks)
-    maindeck_rates(decks)
-    card_archetypes(decks)
+
+    analyze_results(card_data, decks, deck_predicate)
+
+    archetype_analysis(decks) # winrate grouped by archetype 
+    player_analysis(decks) # winrate grouped by player id
+    card_winrates(decks) # winrate grouped by maindeck (filter out basics)
+    maindeck_rates(decks) # ??
+    card_archetypes(decks) # count grouped by card and label
+    archetype_matchups(decks) # winrate grouped by archetype and opposing archetype
+
+    # unclear how to filter out basics when handling the maindeck
+    # unclear how to group by sub-attributes of opposing decks except by some special logic
+    # unclear how to generalize maindeck rate
 
 if __name__ == '__main__':
     main()
