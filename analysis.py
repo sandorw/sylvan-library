@@ -130,9 +130,19 @@ def validate_decklists(decks, cards):
         for card in deck['maindeck'] + deck['sideboard']:
             if card not in cards.keys():
                 print('misspelled or missing card: {}'.format(card))
-        for opponent in deck['game_results'].keys():
+        for match_record in deck['game_results'].items():
+            opponent = match_record[0]
             if opponent not in decks:
                 print('missing deck_id: {}'.format(opponent))
+                continue
+            opposing_deck = decks[opponent]
+            if deck_id not in opposing_deck['game_results'].keys():
+                print('missing match record in deck_id {} against deck_id {}'.format(opponent, deck_id))
+                continue
+            record = match_record[1]
+            expected = {'wins': record['losses'], 'losses': record['wins'], 'draws': record['draws']}
+            if opposing_deck['game_results'][deck_id] != expected:
+                print('wrong match result for deck_id {} against deck_id {}'.format(opponent, deck_id))
 
 def analyze_winrate(card_data, decks, deck_predicate, params):
     win_rates = {}
@@ -197,20 +207,31 @@ def analyze_counts(card_data, decks, deck_predicate, params):
 def analyze_counts_recursive(decks, deck, params, counts):
     if not params:
         raise RuntimeError('Missing grouping param')
-    grouping_values = extract_groupings(deck, params[0])
-    for value in grouping_values:
+    next_param = params[0]
+    opposing_prefix = "opposing_"
+    if next_param.startswith(opposing_prefix):
+        stripped_param = next_param[len(opposing_prefix):]
+        for opposing_deck_id in deck['game_results'].keys():
+            groupings = extract_groupings(decks[opposing_deck_id], stripped_param)
+            analyze_counts_recursive_inner(decks, deck, params, counts, groupings)
+    else:
+        groupings = extract_groupings(deck, params[0])
+        analyze_counts_recursive_inner(decks, deck, params, counts, groupings)
+
+def analyze_counts_recursive_inner(decks, deck, params, counts, groupings):
+    for grouping in groupings:
         if len(params) == 1:
-            if value not in counts.keys():
-                counts[value] = 0
-            counts[value] += 1
+            if grouping not in counts.keys():
+                counts[grouping] = 0
+            counts[grouping] += 1
         else:
-            if value not in counts.keys():
-                counts[value] = {}
+            if grouping not in counts.keys():
+                counts[grouping] = {}
             if len(params) == 2:
-                if 'count' not in counts[value].keys():
-                    counts[value]['count'] = 0
-                counts[value]['count'] += 1
-            analyze_counts_recursive(decks, deck, params[1:], counts[value])
+                if 'count' not in counts[grouping].keys():
+                    counts[grouping]['count'] = 0
+                counts[grouping]['count'] += 1
+            analyze_counts_recursive(decks, deck, params[1:], counts[grouping])
 
 def extract_groupings(deck, param):
     grouping = deck[param]
@@ -245,40 +266,22 @@ def main():
     parser.add_argument('--count', nargs='*', help='Calculate counts and fractions groups by the arguments in order')
     args = parser.parse_args()
 
-    deck_predicate = lambda deck: True
-    if args.player:
-        deck_predicate = lambda deck: deck_predicate(deck) and deck['player_id'] in args.player
-    if args.archetype:
-        deck_predicate = lambda deck: deck_predicate(deck) and (set(args.archetype) & set(deck['labels']))
+    deck_predicate = lambda deck: (not args.player or deck['player_id'] in map(int, args.player)) and (not args.archetype or (set(args.archetype) & set(deck['labels'])))
 
     card_data = {}
-    #card_data = load_card_data(args.offline)
+    card_data = load_card_data(args.offline)
     decks = read_decklists(args.dir)
-    #validate_decklists(decks, card_data)
+    validate_decklists(decks, card_data)
 
     if args.winrate:
         analyze_winrate(card_data, decks, deck_predicate, args.winrate)
     if args.count:
         analyze_counts(card_data, decks, deck_predicate, args.count)
 
-    # Make sure deck predicate is working properly
-    # Add support for grouping by parameters of opposing decks
-    # Consider prefixing grouped params with the name of the grouping
-
-    # --winrate label -> winrate by archetype
-    # --winrate player_id -> winrate by player_id
-    # --winrate maindeck -> winrate by maindeck card
-    # --count maindeck label -> 
-    #archetype_analysis(decks) # winrate grouped by archetype 
-    #player_analysis(decks) # winrate grouped by player id
-    #card_winrates(decks) # winrate grouped by maindeck (filter out basics)
-    #maindeck_rates(decks) # ??
-    #card_archetypes(decks) # count grouped by card and label
-    #archetype_matchups(decks) # winrate grouped by archetype and opposing archetype
-
-    # unclear how to filter out basics when handling the maindeck
-    # unclear how to group by sub-attributes of opposing decks except by some special logic
-    # unclear how to generalize maindeck rate
+    # TODO
+    # better formatting, include grouping name in outputs
+    # maindeck rates support
+    # filters based on card attributes, e.g. winrate/maindeck rate of planeswalkers, white cards, etc.
 
 if __name__ == '__main__':
     main()
