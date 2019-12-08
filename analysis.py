@@ -144,7 +144,19 @@ def validate_decklists(decks, cards):
             if opposing_deck['game_results'][deck_id] != expected:
                 print('wrong match result for deck_id {} against deck_id {}'.format(opponent, deck_id))
 
-def analyze_winrate(card_data, decks, deck_predicate, params):
+def load_list_cards(card_lists):
+    cards = []
+    for card_list in card_lists:
+        with open(card_list) as list_file:
+            lines = [line.strip('\n') for line in list_file.readlines()]
+            num_lines = len(lines)
+            index = 0
+            while index < num_lines and lines[index] != '':
+                cards.append(lines[index])
+                index += 1
+    return cards
+
+def analyze_winrate(decks, deck_predicate, params):
     win_rates = {}
     for deck in decks.values():
         if not deck_predicate(deck):
@@ -195,7 +207,7 @@ def calculate_winrate_recursive(record):
 def get_winrate(record):
     return float(record['wins']) / (record['wins'] + record['losses'] + record['draws'])
 
-def analyze_counts(card_data, decks, deck_predicate, params):
+def analyze_counts(decks, deck_predicate, params):
     counts = {}
     for deck in decks.values():
         if not deck_predicate(deck):
@@ -256,32 +268,67 @@ def calculate_counts_recursive(counts):
             fraction = float(value) / count
             counts[key] = {'count': value, 'fraction': fraction}
 
+def analyze_maindeck_rate(decks, deck_predicate, card_predicate):
+    maindeck_rates = {}
+    for deck in decks.values():
+        if not deck_predicate(deck):
+            continue
+        for card in deck['maindeck']:
+            if not card_predicate(card):
+                continue
+            if card not in maindeck_rates:
+                maindeck_rates[card] = {'maindeck': 0, 'sideboard': 0}
+            maindeck_rates[card]['maindeck'] += 1
+        for card in deck['sideboard']:
+            if not card_predicate(card):
+                continue
+            if card not in maindeck_rates:
+                maindeck_rates[card] = {'maindeck': 0, 'sideboard': 0}
+            maindeck_rates[card]['sideboard'] += 1
+    for tuple in maindeck_rates.items():
+        card = tuple[0]
+        data = tuple[1]
+        data['maindeck_rate'] = float(data['maindeck']) / (data['maindeck'] + data['sideboard'])
+    pprint.pprint(maindeck_rates)
+
 def main():
     parser = argparse.ArgumentParser(description='Analyzes cube decklists')
     parser.add_argument('--offline', action='store_true', help='Use local cached card data')
     parser.add_argument('-d', '--dir', nargs='+', help='Directory to read draft results from')
     parser.add_argument('-p', '--player', nargs='+', help='Filter results to decks played by a certain player ID')
     parser.add_argument('-a', '--archetype', nargs='+', help='Filter results to decks of a certain archetype')
+    parser.add_argument('-l', '--list', nargs='+', help='Filter cards analyzed to those in these lists')
     parser.add_argument('--winrate', nargs='*', help='Calculate winrate grouped by the arguments in order')
     parser.add_argument('--count', nargs='*', help='Calculate counts and fractions groups by the arguments in order')
+    parser.add_argument('--maindeckRate', action='store_true', help='Calculate maindeck rate')
+    parser.add_argument('--validate', action='store_true', help='Validate decklists')
     args = parser.parse_args()
 
     deck_predicate = lambda deck: (not args.player or deck['player_id'] in map(int, args.player)) and (not args.archetype or (set(args.archetype) & set(deck['labels'])))
 
     card_data = {}
-    card_data = load_card_data(args.offline)
     decks = read_decklists(args.dir)
-    validate_decklists(decks, card_data)
 
+    card_predicate = lambda card: true
+    if args.list:
+        list_cards = load_list_cards(args.list)
+        card_predicate = lambda card: (not list_cards or card in list_cards)
+    if args.validate:
+        card_data = load_card_data(args.offline)
+        validate_decklists(decks, card_data)
     if args.winrate:
-        analyze_winrate(card_data, decks, deck_predicate, args.winrate)
+        analyze_winrate(decks, deck_predicate, args.winrate)
     if args.count:
-        analyze_counts(card_data, decks, deck_predicate, args.count)
+        analyze_counts(decks, deck_predicate, args.count)
+    if args.maindeckRate:
+        analyze_maindeck_rate(decks, deck_predicate, card_predicate)
 
     # TODO
     # better formatting, include grouping name in outputs
-    # maindeck rates support
     # filters based on card attributes, e.g. winrate/maindeck rate of planeswalkers, white cards, etc.
+    # Granular maindeck rate analysis - which cards are not making decks where the labels match?
+    # 	e.g. aggro card in relevant colors in the sideboard of an aggro deck
 
 if __name__ == '__main__':
     main()
+
