@@ -1,0 +1,59 @@
+DeckId: 237
+Pilot: 36
+Date: 2019-12-11
+Colors: BGu
+Labels: Reanimator, Midrange
+Match Record: 1-2
+Game Record: 4-4 
+vs. 235: 1-2
+vs. 234: 1-2
+vs. 239: 2-0
+
+1 Pack Rat
+1 Llanowar Elves
+1 Thragtusk
+1 Thrun, the Last Troll
+1 Bitterblossom
+1 Snuff Out
+1 Ravenous Chupacabra
+1 The Scarab God
+1 Courser of Kruphix
+1 Sylvan Library
+1 Shriekmaw
+1 Survival of the Fittest
+1 Flooded Strand
+1 Fauna Shaman
+1 Maelstrom Pulse
+1 Wurmcoil Engine
+1 Temple Garden
+1 Gaea's Cradle
+1 Watery Grave
+1 Tundra
+1 Overgrown Tomb
+1 Reanimate
+1 Bayou
+1 Verdant Catacombs
+1 Exhume
+1 Demonic Tutor
+1 Murderous Rider
+1 Recurring Nightmare
+1 Thoughtseize
+1 Polluted Delta
+1 Deep Forest Hermit
+1 Dark Confidant
+4 Swamp
+4 Forest
+
+1 Winter Orb
+1 Sun Titan
+1 Land Tax
+1 Doom Whisperer
+1 Oona's Prowler
+1 Heir of Falkenrath
+1 Garruk Relentless
+1 Tangle Wire
+1 Glen Elendra Archmage
+1 Umezawa's Jitte
+1 Assassin's Trophy
+1 Flesh Carver
+1 Sphinx of the Steel Wind

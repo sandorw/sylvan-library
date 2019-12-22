@@ -1,0 +1,58 @@
+DeckId: 235
+Pilot: 6
+Date: 2019-12-11
+Colors: RG
+Labels: Ramp, Midrange
+Match Record: 2-0
+Game Record: 4-1
+vs. 237: 2-1
+vs. 238: 2-0
+
+1 Ancient Tomb
+1 Walking Ballista
+1 Talisman of Impulse
+1 Carnage Tyrant
+1 Dragonlord Atarka
+1 Inferno Titan
+1 Woodfall Primus
+1 Tooth and Nail
+1 Seasoned Pyromancer
+1 Noble Hierarch
+1 Elvish Mystic
+1 Chandra, Torch of Defiance
+1 Garruk Wildspeaker
+1 Fabled Passage
+1 Abrade
+1 Magma Jet
+1 Taiga
+1 Flametongue Kavu
+1 Sakura-Tribe Elder
+1 Plow Under
+1 Treetop Village
+1 Chandra, Flamecaller
+1 Rofellos, Llanowar Emissary
+1 City of Brass
+1 Goblin Rabblemaster
+1 Lotus Cobra
+1 Phyrexian Metamorph
+1 Worn Powerstone
+6 Forest
+6 Mountain
+
+1 Ramunap Excavator
+1 Bonecrusher Giant
+1 Siege-Gang Commander
+1 Wild Nacatl
+1 Eureka
+1 Elspeth, Sun's Champion
+1 Vedalken Shackles
+1 Talisman of Indulgence
+1 Hellrider
+1 Gideon Jura
+1 Edric, Spymaster of Trest
+1 Experiment One
+1 Kolaghan's Command
+1 Hero of Bladehold
+1 Oblivion Ring
+1 Mishra's Factory
+1 Koth of the Hammer
