@@ -1,0 +1,58 @@
+DeckId: 240
+Pilot: 39
+Date: 2019-12-11
+Colors: UG
+Labels: Ramp, Control
+Match Record: 1-1
+Game Record: 3-2 
+vs. 234: 1-2
+vs. 238: 2-0
+
+1 Birds of Paradise
+1 Joraga Treespeaker
+1 Fyndhorn Elves
+1 Jace, the Mind Sculptor
+1 Primeval Titan
+1 Hornet Queen
+1 Breeding Pool
+1 Green Sun's Zenith
+1 Preordain
+1 Scavenging Ooze
+1 Remand
+1 Misty Rainforest
+1 Eternal Witness
+1 Fact or Fiction
+1 Narset, Parter of Veils
+1 Mana Leak
+1 Search for Azcanta
+1 Condescend
+1 Mana Drain
+1 Natural Order
+1 Solemn Simulacrum
+1 Meloku the Clouded Mirror
+1 Opposition
+1 Oracle of Mul Daya
+1 Master of the Wild Hunt
+1 Mana Confluence
+7 Island
+7 Forest
+
+1 Reveillark
+1 Volcanic Island
+1 Dig Through Time
+1 Talisman of Unity
+1 Smuggler's Copter
+1 Tireless Tracker
+1 Kitchen Finks
+1 Questing Beast
+1 Jace, Vryn's Prodigy
+1 Saheeli, Sublime Artificer
+1 Cryptic Command
+1 Talisman of Dominance
+1 Dire Fleet Daredevil
+1 Show and Tell
+1 Tinker
+1 Sword of Light and Shadow
+1 Life from the Loam
+1 Recruiter of the Guard
+1 Underground Sea

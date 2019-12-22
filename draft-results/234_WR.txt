@@ -1,0 +1,59 @@
+DeckId: 234
+Pilot: 38
+Date: 2019-12-11
+Colors: WR
+Labels: Aggro, Burn
+Match Record: 2-1
+Game Record: 5-3 
+vs. 240: 2-1
+vs. 238: 1-2
+vs. 236: 2-0
+
+1 Selfless Spirit
+1 Badlands
+1 Incinerate
+1 Chain Lightning
+1 Fireblast
+1 Arc Trail
+1 Sulfuric Vortex
+1 Burst Lightning
+1 Arc Lightning
+1 Scrapheap Scrounger
+1 Porcelain Legionnaire
+1 Jackal Pup
+1 Dauntless Bodyguard
+1 Strip Mine
+1 Figure of Destiny
+1 Marsh Flats
+1 Goblin Guide
+1 Zurgo Bellstriker
+1 Karakas
+1 Falkenrath Gorger
+1 Mardu Woe-Reaper
+1 Firedrinker Satyr
+1 Dryad Militant
+1 Stormblood Berserker
+1 Skymarcher Aspirant
+1 Kytheon, Hero of Akros
+1 Armageddon
+1 Ravages of War
+5 Plains
+7 Mountain
+
+1 Bloodsoaked Champion
+1 Crucible of Worlds
+1 Blood Crypt
+1 Godless Shrine
+1 Blade Splicer
+1 Rishadan Port
+1 Goblin Cratermaker
+1 Wasteland
+1 Pernicious Deed
+1 Sensei's Divining Top
+1 Monastery Mentor
+1 Mutavault
+1 Wall of Omens
+1 Sorin, Lord of Innistrad
+1 Volrath's Stronghold
+1 Engineered Explosives
+1 Diregraf Ghoul

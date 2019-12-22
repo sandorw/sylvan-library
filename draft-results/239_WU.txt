@@ -1,0 +1,58 @@
+DeckId: 239
+Pilot: 35
+Date: 2019-12-11
+Colors: WU
+Labels: Control
+Match Record: 0-2
+Game Record: 1-4
+vs. 236: 1-2
+vs. 237: 0-2
+
+1 Elspeth, Knight-Errant
+1 Archangel Avacyn
+1 Maze of Ith
+1 Hallowed Fountain
+1 Wrath of God
+1 Fractured Identity
+1 Disenchant
+1 Council's Judgment
+1 Phantasmal Image
+1 Man-o'-War
+1 True-Name Nemesis
+1 Enclave Cryptologist
+1 Teferi, Hero of Dominaria
+1 Day of Judgment
+1 Treachery
+1 Restoration Angel
+1 Gisela, the Broken Blade
+1 Mother of Runes
+1 Savannah
+1 Banishing Light
+1 Grand Coliseum
+1 Balance
+1 Swords to Plowshares
+1 Gemstone Mine
+1 Mystic Confluence
+1 Thalia, Heretic Cathar
+1 Consecrated Sphinx
+7 Plains
+6 Island
+
+1 Forbid
+1 Force of Will
+1 Ajani Vengeant
+1 Smokestack
+1 Oath of Druids
+1 Worldly Tutor
+1 Purphoros, God of the Forge
+1 Liliana's Triumph
+1 Greater Gargadon
+1 Sorcerous Spyglass
+1 Warden of the First Tree
+1 Vindicate
+1 Deep Analysis
+1 Flickerwisp
+1 Blast Zone
+1 Sower of Temptation
+1 Unexpectedly Absent
+1 Student of Warfare
