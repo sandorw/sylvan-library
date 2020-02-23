@@ -1,0 +1,63 @@
+DeckId: 242
+Pilot: 37
+Date: 2020-01-20
+Colors: WUB
+Labels: Control
+Match Record: 1-2 
+Game Record: 3-4
+vs. 245: 1-2
+vs. 243: 0-2
+vs. 246: 2-0
+
+1 Watery Grave
+1 Sorin, Lord of Innistrad
+1 Brazen Borrower
+1 Vindicate
+1 Sensei's Divining Top
+1 Sower of Temptation
+1 Control Magic
+1 Shriekmaw
+1 Duress
+1 Wrath of God
+1 Dig Through Time
+1 Day of Judgment
+1 Forbid
+1 Fractured Identity
+1 Grand Coliseum
+1 Deep Analysis
+1 Fabled Passage
+1 Vendilion Clique
+1 Underground Sea
+1 Marsh Flats 
+1 Search for Azcanta
+1 Narset, Parter of Veils
+1 Murderous Rider
+1 Phyrexian Metamorph
+1 Phantasmal Image
+1 Godless Shrine
+1 Animate Dead
+1 Enclave Cryptologist
+1 Swamp
+7 Island
+4 Plains
+
+1 Memory Lapse
+1 Show and Tell
+1 Exhume
+1 Dark Confidant
+1 Recurring Nightmare
+1 Mystical Tutor
+1 Necromancy
+1 Sundering Titan
+1 Emrakul, the Promised End
+1 Eureka
+1 Plateau
+1 Blood Crypt
+1 Dismissive Pyromancer
+1 Edric, Spymaster of Trest
+1 Feldon of the Third Path
+1 Arcane Denial
+1 Land Tax
+1 Gravecrawler
+1 Carnage Tyrant
+1 Thrun, the Last Troll
