@@ -1,0 +1,61 @@
+DeckId: 241
+Pilot: 1
+Date: 2020-01-20
+Colors: URw
+Labels: Tempo, Burn, Spells Matter
+Match Record: 3-0 
+Game Record: 6-1
+vs. 244: 2-1
+vs. 245: 2-0
+vs. 243: 2-0
+
+1 Bonecrusher Giant
+1 Steam Vents
+1 Cryptic Command
+1 True-Name Nemesis
+1 Mystic Confluence
+1 Jace, the Mind Sculptor
+1 Monastery Mentor
+1 Vedalken Shackles
+1 Umezawa's Jitte
+1 Force Spike
+1 Treachery
+1 Torrential Gearhulk
+1 Mox Diamond
+1 Preordain
+1 Lightning Bolt
+1 Burst Lightning
+1 Hallowed Fountain
+1 Arid Mesa
+1 Mana Leak
+1 Prismatic Vista
+1 Magma Jet
+1 Fiery Confluence
+1 Celestial Colonnade
+1 Chart a Course
+1 Scalding Tarn
+1 Young Pyromancer
+1 Mana Drain
+1 Faithless Looting
+1 Volcanic Island
+1 Sacred Foundry
+1 Saheeli, Sublime Artificer
+3 Mountain
+6 Island
+
+1 Chandra, Torch of Defiance
+1 Stoneforge Mystic
+1 Sword of Fire and Ice
+1 Blast Zone
+1 Inferno Titan
+1 Grim Lavamancer
+1 Firebolt
+1 Force of Will
+1 Glen Elendra Archmage
+1 Fireblast
+1 Seasoned Pyromancer
+1 Imperial Recruiter
+1 Time Spiral
+1 Grafted Wargear
+1 Flametongue Kavu
+1 Temple Garden

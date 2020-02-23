@@ -1,0 +1,62 @@
+DeckId: 245
+Pilot: 34
+Date: 2020-01-20
+Colors: BGr
+Labels: Ramp, Midrange
+Match Record: 1-2 
+Game Record: 2-5
+vs. 242: 2-1
+vs. 241: 0-2
+vs. 244: 0-2
+
+1 Oracle of Mul Daya
+1 Solemn Simulacrum
+1 Gaea's Cradle
+1 Verdant Catacombs
+1 Rofellos, Llanowar Emissary
+1 Channel
+1 Chrome Mox
+1 Plow Under
+1 Grave Titan
+1 Taiga
+1 Ancient Tomb
+1 Talisman of Indulgence
+1 Woodfall Primus
+1 Ulamog, the Ceaseless Hunger
+1 Dismember
+1 Tooth and Nail
+1 Mind Stone
+1 Worldly Tutor
+1 Demonic Tutor
+1 Survival of the Fittest
+1 Grim Monolith
+1 Hexdrinker
+1 Fauna Shaman
+1 Ravenous Chupacabra
+1 Wurmcoil Engine
+1 Fyndhorn Elves
+1 Dragonlord Atarka
+1 Overgrown Tomb
+1 Stomping Ground
+3 Swamp
+8 Forest
+
+1 Counterspell
+1 Breeding Pool
+1 Tropical Island
+1 Polluted Delta
+1 Talisman of Dominance
+1 Talisman of Progress
+1 Life from the Loam
+1 Entomb
+1 Bitterblossom
+1 Hymn to Tourach
+1 Drana, Liberator of Malakir
+1 Rankle, Master of Pranks
+1 Baleful Strix
+1 Porcelain Legionnaire
+1 Nissa, Steward of Elements
+1 Kolaghan's Command
+1 Snapcaster Mage
+1 Upheaval
+1 Timetwister
