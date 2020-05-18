@@ -8,7 +8,7 @@ Run `analysis.py` to analyze the results. Some examples are below:
 
 `python3 analysis.py -d draft-results --winrate labels` loads the decklists from the `draft-results/` dir and aggregates game winrates by deck label, e.g. indicating that decks with the `Stax` label have a 45.7% winrate. Aggregations can be combined; for example, `python3 analysis.py -d draft-results --winrate player_id labels` breaks down the winrate of decks with a given label for each player individually. 
 
-`python3 analysis.py -d draft-results --count player_id` aggregates instead a count or fraction, in this case giving the total number of drafts that each player has participated in. 
+`python3 analysis.py -d draft-results --count player_id` aggregates instead a count or fraction, in this case giving the total number of drafts that each player has participated in. `python3 analysis.py -d draft-results --count maindeck labels` displays the labels that have appeared on cards in each maindeck, giving an indication of how each card is played in practice.
 
 Available deck attributes for aggregation:
 - deck_id

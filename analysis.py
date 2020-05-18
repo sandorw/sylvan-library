@@ -299,7 +299,7 @@ def main():
     parser.add_argument('-a', '--archetype', nargs='+', help='Filter results to decks of a certain archetype')
     parser.add_argument('-l', '--list', nargs='+', help='Filter cards analyzed to those in these lists')
     parser.add_argument('--winrate', nargs='*', help='Calculate winrate grouped by the arguments in order')
-    parser.add_argument('--count', nargs='*', help='Calculate counts and fractions groups by the arguments in order')
+    parser.add_argument('--count', nargs='*', help='Calculate counts and fractions grouped by the arguments in order')
     parser.add_argument('--maindeckRate', action='store_true', help='Calculate maindeck rate')
     parser.add_argument('--validate', action='store_true', help='Validate decklists')
     args = parser.parse_args()
