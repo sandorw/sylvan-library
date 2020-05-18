@@ -2,7 +2,7 @@ DeckId: 137
 Pilot: 4
 Date: 2016-02-17
 Colors: BG
-Labels: Reanimator, Cheat, Midrange
+Labels: Reanimator, Cheat, Combo
 Match Record: 0-2-1
 Game Record: 1-5
 vs. 140: 0-2

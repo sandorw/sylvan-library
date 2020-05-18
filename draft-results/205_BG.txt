@@ -2,7 +2,7 @@ DeckId: 205
 Pilot: 1
 Date: 2017-03-07
 Colors: BG
-Labels: Midrange, Reanimator
+Labels: Combo, Reanimator
 Match Record: 1-2
 Game Record: 2-4
 vs. 209: 0-2

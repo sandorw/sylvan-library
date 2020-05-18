@@ -2,7 +2,7 @@ DeckId: 120
 Pilot: 5
 Date: 2015-11-05
 Colors: BGu
-Labels: Midrange, Reanimator
+Labels: Combo, Reanimator
 Match Record: 0-3
 Game Record: 0-6
 vs. 121: 0-2

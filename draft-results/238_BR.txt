@@ -2,7 +2,7 @@ DeckId: 238
 Pilot: 33
 Date: 2019-12-11
 Colors: BR
-Labels: Reanimator, Midrange
+Labels: Reanimator, Combo, Control
 Match Record: 1-2
 Game Record: 2-5
 vs. 234: 2-1

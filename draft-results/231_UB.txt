@@ -2,7 +2,7 @@ DeckId: 231
 Pilot: 37
 Date: 2019-11-4
 Colors: UB
-Labels: Midrange, Reanimator
+Labels: Combo, Control, Reanimator
 Match Record: 1-2
 Game Record: 2-4
 vs. 232: 0-2

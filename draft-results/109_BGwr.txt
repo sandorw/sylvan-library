@@ -2,7 +2,7 @@ DeckId: 109
 Pilot: 6
 Date: 2015-08-13
 Colors: BGwr
-Labels: Midrange, Reanimator
+Labels: Combo, Reanimator
 Match Record: 0-3
 Game Record: 2-6
 vs. 108: 1-2

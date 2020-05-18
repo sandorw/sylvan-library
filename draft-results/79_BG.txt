@@ -2,7 +2,7 @@ DeckId: 79
 Pilot: 13
 Date: 2014-12-03
 Colors: BG
-Labels: Midrange, Ramp, Reanimator
+Labels: Combo, Ramp, Reanimator, Midrange
 Match Record: 1-2
 Game Record: 3-5
 vs. 78: 1-2
