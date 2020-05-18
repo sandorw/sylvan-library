@@ -2,7 +2,7 @@ DeckId: 184
 Pilot: 9
 Date: 2017-01-17
 Colors: Burg
-Labels: Cheat, Control, Reanimator
+Labels: Cheat, Control, Reanimator, Combo
 Match Record: 2-1
 Game Record: 4-3
 vs. 183: 2-1

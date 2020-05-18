@@ -2,7 +2,7 @@ DeckId: 117
 Pilot: 1
 Date: 2015-10-29
 Colors: BRwu
-Labels: Midrange, Reanimator, Cheat
+Labels: Combo, Reanimator, Cheat
 Match Record: 2-0
 Game Record: 4-2
 vs. 116: 2-1

@@ -2,7 +2,7 @@ DeckId: 119
 Pilot: 4
 Date: 2015-11-05
 Colors: BR
-Labels: Midrange, Reanimator
+Labels: Midrange
 Match Record: 2-1
 Game Record: 4-2
 vs. 125: 2-0

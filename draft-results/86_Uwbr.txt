@@ -2,7 +2,7 @@ DeckId: 86
 Pilot: 7
 Date: 2014-12-10
 Colors: Uwbr
-Labels: Midrange, Reanimator, Cheat
+Labels: Combo, Reanimator, Cheat
 Match Record: 1-2
 Game Record: 4-5
 vs. 85: 1-2
