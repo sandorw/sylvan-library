@@ -5,6 +5,10 @@ import os
 import pprint
 import requests
 from os import path
+try:
+    from collections.abc import Mapping
+except ImportError:
+    from collections import Mapping
 
 def load_card_data(is_offline):
     '''Sets up card dictionary'''
@@ -247,7 +251,7 @@ def analyze_counts_recursive_inner(decks, deck, params, counts, groupings):
 
 def extract_groupings(deck, param):
     grouping = deck[param]
-    if isinstance(grouping, collections.Mapping):
+    if isinstance(grouping, Mapping):
         raise RuntimeError('Invalid grouping parameter')
     elif isinstance(grouping, list):
         return grouping
@@ -256,7 +260,7 @@ def extract_groupings(deck, param):
 
 def calculate_counts_recursive(counts):
     value = list(counts.values())[0]
-    if isinstance(value, collections.Mapping):
+    if isinstance(value, Mapping):
         for dict_value in counts.values():
             calculate_counts_recursive(dict_value)
     elif 'count' in counts.keys():
