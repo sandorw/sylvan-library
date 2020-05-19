@@ -2,7 +2,7 @@ DeckId: 235
 Pilot: 6
 Date: 2019-12-11
 Colors: RG
-Labels: Ramp, Midrange
+Labels: Ramp, Combo
 Match Record: 2-0
 Game Record: 4-1
 vs. 237: 2-1

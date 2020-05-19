@@ -2,7 +2,7 @@ DeckId: 187
 Pilot: 1
 Date: 2017-01-17
 Colors: URb
-Labels: Artifacts, Ramp, Control, Cheat
+Labels: Artifacts, Control, Cheat, Combo
 Match Record: 2-1
 Game Record: 4-4
 vs. 185: 2-1

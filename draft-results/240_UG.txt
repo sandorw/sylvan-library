@@ -2,7 +2,7 @@ DeckId: 240
 Pilot: 39
 Date: 2019-12-11
 Colors: UG
-Labels: Ramp, Control
+Labels: Ramp, Midrange
 Match Record: 1-1
 Game Record: 3-2 
 vs. 234: 1-2

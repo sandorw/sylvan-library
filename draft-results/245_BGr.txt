@@ -2,7 +2,7 @@ DeckId: 245
 Pilot: 34
 Date: 2020-01-20
 Colors: BGr
-Labels: Ramp, Midrange
+Labels: Ramp, Combo
 Match Record: 1-2 
 Game Record: 2-5
 vs. 242: 2-1
