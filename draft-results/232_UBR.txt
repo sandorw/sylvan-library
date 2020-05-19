@@ -2,7 +2,7 @@ DeckId: 232
 Pilot: 38
 Date: 2019-11-4
 Colors: UBR
-Labels: Midrange, Cheat
+Labels: Midrange, Cheat, Combo
 Match Record: 2-2
 Game Record: 3-4
 vs. 231: 2-0

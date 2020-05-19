@@ -2,7 +2,7 @@ DeckId: 102
 Pilot: 1
 Date: 2015-04-16
 Colors: Uwb
-Labels: Control, Artifacts, Cheat
+Labels: Control, Artifacts, Combo
 Match Record: 2-0
 Game Record: 4-0
 vs. 101: 2-0
