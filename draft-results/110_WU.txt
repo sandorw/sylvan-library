@@ -2,7 +2,7 @@ DeckId: 110
 Pilot: 1
 Date: 2015-09-17
 Colors: WU
-Labels: Control, Ramp
+Labels: Control
 Match Record: 1-1
 Game Record: 2-3
 vs. 112: 0-2
