@@ -1,9 +1,11 @@
 import argparse
 import collections
+import datetime
 import json
 import os
 import pprint
 import requests
+from datetime import datetime
 from os import path
 try:
     from collections.abc import Mapping
@@ -70,7 +72,7 @@ def load_deck(infile):
         num_lines = len(lines)
         deck_id = lines[0].split(':')[1].strip(' ')
         player_id = lines[1].split(':')[1].strip(' ')
-        date = lines[2].split(':')[1].strip(' ')
+        date = datetime.strptime(lines[2].split(':')[1].strip(' '), '%Y-%m-%d')
         colors = lines[3].split(':')[1].strip(' ')
         labels = lines[4].split(':')[1].split(',')
         labels = [x.strip(' ') for x in labels]
@@ -302,13 +304,14 @@ def main():
     parser.add_argument('-p', '--player', nargs='+', help='Filter results to decks played by a certain player ID')
     parser.add_argument('-a', '--archetype', nargs='+', help='Filter results to decks of a certain archetype')
     parser.add_argument('-l', '--list', nargs='+', help='Filter cards analyzed to those in these lists')
+    parser.add_argument('-t', '--date', help='Filter decks to those after the given date')
     parser.add_argument('--winrate', nargs='*', help='Calculate winrate grouped by the arguments in order')
     parser.add_argument('--count', nargs='*', help='Calculate counts and fractions grouped by the arguments in order')
     parser.add_argument('--maindeckRate', action='store_true', help='Calculate maindeck rate')
     parser.add_argument('--validate', action='store_true', help='Validate decklists')
     args = parser.parse_args()
 
-    deck_predicate = lambda deck: (not args.player or deck['player_id'] in map(int, args.player)) and (not args.archetype or (set(args.archetype) & set(deck['labels'])))
+    deck_predicate = lambda deck: (not args.player or deck['player_id'] in map(int, args.player)) and (not args.archetype or (set(args.archetype) & set(deck['labels']))) and (not args.date or deck['date'] >= datetime.strptime(args.date, '%Y-%m-%d'))
 
     card_data = {}
     decks = read_decklists(args.dir)
