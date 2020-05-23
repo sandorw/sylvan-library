@@ -1,0 +1,59 @@
+DeckId: 252
+Pilot: 6
+Date: 2020-02-24
+Colors: BGu
+Labels: Midrange
+Match Record: 1-2
+Game Record: 4-4
+vs. 248: 1-2
+vs. 251: 1-2
+vs. 249: 2-0
+
+1 Bayou
+1 Garruk Wildspeaker
+1 Underground Sea
+1 Overgrown Tomb
+1 The Scarab God
+1 Leovold, Emissary of Trest
+1 Assassin's Trophy
+1 Toxic Deluge
+1 Deranged Hermit
+1 Eternal Witness
+1 Murderous Rider
+1 Pack Rat
+1 Demonic Tutor
+1 Snuff Out
+1 Wurmcoil Engine
+1 Prismatic Vista
+1 Once Upon a Time
+1 Oko, Thief of Crowns
+1 Volrath's Stronghold
+1 Talisman of Dominance
+1 Reclamation Sage
+1 Breeding Pool
+1 Tireless Tracker
+1 Inquisition of Kozilek
+1 Primeval Titan
+1 Sword of Fire and Ice
+1 Waterlogged Grove
+1 Sakura-Tribe Elder
+1 Tarmogoyf
+1 Pernicious Deed
+5 Swamp
+5 Forest
+
+1 Sarcomancy
+1 Gravecrawler
+1 Earthshaker Khenra
+1 Life from the Loam
+1 Flametongue Kavu
+1 Preordain
+1 Worldly Tutor
+1 Custodi Lich
+1 Myr Battlesphere
+1 Griselbrand
+1 Walking Ballista
+1 Mutavault
+1 Godless Shrine
+1 Sorcerous Spyglass
+1 Exhume

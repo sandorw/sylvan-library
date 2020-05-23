@@ -1,0 +1,59 @@
+DeckId: 254
+Pilot: 38
+Date: 2020-02-24
+Colors: WU
+Labels: Control
+Match Record: 1-2
+Game Record: 4-5
+vs. 250: 0-2
+vs. 249: 0-2
+vs. 253: 2-1
+
+1 Mystical Tutor
+1 Deep Analysis
+1 Timetwister
+1 Flickerwisp
+1 Glen Elendra Archmage
+1 Mulldrifter
+1 Chrome Mox
+1 Restoration Angel
+1 Narset, Parter of Veils
+1 Fabled Passage
+1 Sensei's Divining Top
+1 Teferi, Time Raveler
+1 Counterspell
+1 Man-o'-War
+1 Consecrated Sphinx
+1 Vendilion Clique
+1 Day of Judgment
+1 Sun Titan
+1 Remand
+1 Council's Judgment
+1 Condescend
+1 Mana Drain
+1 Fractured Identity
+1 Blast Zone
+1 Cryptic Command
+1 Mox Diamond
+5 Plains
+9 Island
+
+1 Baleful Strix
+1 Memory Lapse
+1 Winter Orb
+1 Watery Grave
+1 Polluted Delta
+1 City of Brass
+1 Kitchen Finks
+1 Wall of Omens
+1 Engineered Explosives
+1 Elspeth, Knight-Errant
+1 Hellrider
+1 Diregraf Ghoul
+1 Badlands
+1 Drana, Liberator of Malakir
+1 Mardu Woe-Reaper
+1 Sulfuric Vortex
+1 Magma Jet
+1 Firedrinker Satyr
+1 Glory-Bound Initiate

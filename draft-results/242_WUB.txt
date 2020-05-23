@@ -28,7 +28,7 @@ vs. 246: 2-0
 1 Fabled Passage
 1 Vendilion Clique
 1 Underground Sea
-1 Marsh Flats 
+1 Marsh Flats
 1 Search for Azcanta
 1 Narset, Parter of Veils
 1 Murderous Rider

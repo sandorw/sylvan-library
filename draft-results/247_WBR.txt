@@ -1,0 +1,60 @@
+DeckId: 247
+Pilot: 1
+Date: 2020-02-24
+Colors: WBR
+Labels: Midrange, Aristocrats
+Match Record: 2-1 
+Game Record: 4-4
+vs. 251: 2-1
+vs. 248: 2-1
+vs. 250: 0-2
+
+1 Firestorm
+1 Incinerate
+1 Arc Trail
+1 Kolaghan's Command
+1 Sacred Foundry
+1 Bitterblossom
+1 Thoughtseize
+1 Goblin Bombardment
+1 Ravenous Chupacabra
+1 Shriekmaw
+1 Bloodsoaked Champion
+1 Alesha, Who Smiles at Death
+1 Judith, the Scourge Diva
+1 Blood Crypt
+1 Sunbaked Canyon
+1 Yawgmoth, Thran Physician
+1 Necromancy
+1 Krenko, Tin Street Kingpin
+1 Gutterbones
+1 Sword of Light and Shadow
+1 Verdant Catacombs
+1 Bloodstained Mire
+1 Reveillark
+1 Bloodghast
+1 Lingering Souls
+1 Ophiomancer
+1 Stoneforge Mystic
+1 Umezawa's Jitte
+1 Scrubland
+1 Angel of Invention
+1 Scrapheap Scrounger
+1 Duress
+1 Purphoros, God of the Forge
+3 Plains
+5 Swamp
+2 Mountain
+
+1 Ponder
+1 Maze of Ith
+1 Bloodbraid Elf
+1 Grim Monolith
+1 Mana Tithe
+1 Koth of the Hammer
+1 Accorder Paladin
+1 Grave Titan
+1 Seasoned Pyromancer
+1 Smuggler's Copter
+1 Remorseful Cleric
+1 Goblin Cratermaker
