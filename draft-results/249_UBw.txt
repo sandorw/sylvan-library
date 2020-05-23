@@ -1,0 +1,61 @@
+DeckId: 249
+Pilot: 34
+Date: 2020-02-24
+Colors: UBw
+Labels: Combo, Reanimator
+Match Record: 1-3 
+Game Record: 2-6
+vs. 253: 0-2
+vs. 254: 2-0
+vs. 250: 0-2
+vs. 252: 0-2
+
+1 Looter il-Kor
+1 Entomb
+1 Mana Leak
+1 Worn Powerstone
+1 Talisman of Progress
+1 Mind Twist
+1 Hymn to Tourach
+1 Rishadan Port
+1 Silent Clearing
+1 Dance of the Dead
+1 Vampiric Tutor
+1 Show and Tell
+1 Enlightened Tutor
+1 Inkwell Leviathan
+1 Emrakul, the Promised End
+1 Chart a Course
+1 Swords to Plowshares
+1 Brazen Borrower
+1 Animate Dead
+1 Reanimate
+1 Treachery
+1 Mystic Confluence
+1 Force Spike
+1 Opt
+1 Balance
+1 Tundra
+1 Creeping Tar Pit
+1 Marsh Flats
+3 Plains
+4 Island
+5 Swamp
+
+1 Channel
+1 Horizon Canopy
+1 Fauna Shaman
+1 Carnophage
+1 Wildfire
+1 Talisman of Impulse
+1 Blade Splicer
+1 Archangel Avacyn
+1 Student of Warfare
+1 Braids, Cabal Minion
+1 Damnation
+1 Ancient Stone Idol
+1 Talisman of Unity
+1 Time Spiral
+1 Arid Mesa
+1 Recurring Nightmare
+1 Dark Confidant
