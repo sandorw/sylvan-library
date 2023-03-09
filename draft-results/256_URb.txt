@@ -1,0 +1,60 @@
+DeckId: 256
+Pilot: 1
+Date: 2022-10-05
+Colors: URb
+Labels: Artifacts
+Match Record: 3-0
+Game Record: 6-2
+vs. 257: 2-1
+vs. 258: 2-0
+vs. 259: 2-1
+
+1 Talisman of Creativity
+1 Thran Dynamo
+1 Urza, Lord High Artificer
+1 Myr Battlesphere
+1 Sundering Titan
+1 Fiery Confluence
+1 Retrofitter Foundry
+1 Sensei's Divining Top
+1 Tinker
+1 Mana Confluence
+1 Tolarian Academy
+1 Upheaval
+1 Talisman of Indulgence
+1 Vampiric Tutor
+1 Goblin Welder
+1 Talisman of Impulse
+1 Wooded Foothills
+1 Karn, Scion of Urza
+1 Blood Crypt
+1 Phyrexian Metamorph
+1 Urza's Saga
+1 Pithing Needle
+1 Mana Drain
+1 Pia and Kiran Nalaar
+1 Tezzeret, Agent of Bolas
+1 Dack Fayden
+1 Talisman of Dominance
+1 Daretti, Scrap Savant
+1 Volcanic Island
+1 Burning of Xinye
+4 Island
+4 Mountain
+2 Swamp
+
+1 Stoneforge Mystic
+1 Incinerate
+1 Maze of Ith
+1 Grist, the Hunger Tide
+1 Balance
+1 Siege-Gang Commander
+1 Young Pyromancer
+1 Umezawa's Jitte
+1 Duress
+1 Tireless Tracker
+1 Grief
+1 Hornet Queen
+1 Joraga Treespeaker
+1 Scrapheap Scrounger
+1 Reveillark

@@ -1,0 +1,59 @@
+DeckId: 262
+Pilot: 42
+Date: 2022-10-05
+Colors: RG
+Labels: Burn, Midrange
+Match Record: 0-3
+Game Record: 1-6
+vs. 259: 0-2
+vs. 255: 1-2
+vs. 260: 0-2
+
+1 Feldon of the Third Path
+1 Magma Jet
+1 Stormblood Berserker
+1 Winter Orb
+1 Chandra, Torch of Defiance
+1 Pest Infestation
+1 Kari Zev, Skyship Raider
+1 Bloodbraid Elf
+1 Stomping Ground
+1 Seasoned Pyromancer
+1 Zurgo Bellstriker
+1 Bloodthirsty Adversary
+1 Flametongue Yearling
+1 Dreadhorde Arcanist
+1 Hellrider
+1 Goblin Rabblemaster
+1 Burst Lightning
+1 Dragonlord Atarka
+1 Chain Lightning
+1 Goblin Cratermaker
+1 Ancient Stone Idol
+1 Purphoros, God of the Forge
+1 Krenko, Tin Street Kingpin
+1 Sword of Body and Mind
+1 Sulfuric Vortex
+11 Mountain
+4 Forest
+
+1 Wrenn and Six
+1 Grafted Wargear
+1 Craterhoof Behemoth
+1 Firebolt
+1 Gravecrawler
+1 Intrepid Adversary
+1 Hero of Bladehold
+1 Reclamation Sage
+1 Lotus Cobra
+1 Greater Gargadon
+1 Falkenrath Pit Fighter
+1 Chrome Mox
+1 Natural Order
+1 Rancor
+1 Inferno Titan
+1 Falkenrath Gorger
+1 Worn Powerstone
+1 Searing Spear
+1 Bonesplitter
+1 Primal Adversary

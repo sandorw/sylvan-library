@@ -1,0 +1,57 @@
+DeckId: 261
+Pilot: 41
+Date: 2022-10-05
+Colors: UB
+Labels: Midrange, Control
+Match Record: 0-2
+Game Record: 1-4
+vs. 258: 1-2
+vs. 257: 0-2
+
+1 Vedelken Shackles
+1 Dismember
+1 Phantasmal Image
+1 Dig Through Time
+1 Everflowing Chalice
+1 Grave Titan
+1 Baleful Strix
+1 Glen Elendra Archmage
+1 Mishra's Factory
+1 Misty Rainforest
+1 Preordain
+1 Sedgemoor Witch
+1 Ponder
+1 Watery Grave
+1 Remand
+1 Force of Will
+1 Underground Sea
+1 Creeping Tar Pit
+1 Mulldrifter
+1 Inquisition of Kozilek
+1 Opposition
+1 Lose Focus
+1 Opt
+1 Batterskull
+1 Snapcaster Mage
+1 Sower of Temptation
+1 Walking Ballista
+1 Venser, Shaper Savant
+1 Wurmcoil Engine
+6 Island
+6 Swamp
+
+1 Talisman of Progress
+1 Demonic Tutor
+1 Steam Vents
+1 Rankle, Master of Pranks
+1 Carnophage
+1 Daretti, Ingenious Iconoclast
+1 Talisman of Resilience
+1 Flametongue Kavu
+1 Sphinx of the Steel Wind
+1 Ravenous Chupacabra
+1 Smuggler's Copter
+1 Flesh Carver
+1 Porcelain Legionnaire
+1 Looter il-kor
+1 Hymn to Tourach

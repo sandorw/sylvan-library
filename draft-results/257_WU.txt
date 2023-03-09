@@ -1,0 +1,59 @@
+DeckId: 257
+Pilot: 22
+Date: 2022-10-05
+Colors: WU
+Labels: Control
+Match Record: 1-2
+Game Record: 4-4
+vs. 256: 1-2
+vs. 261: 2-0
+vs. 255: 1-2
+
+1 Brainstorm
+1 Arcane Denial
+1 Teferi, Time Raveler
+1 Fractured Identity
+1 Celestial Colonnade
+1 Talisman of Curiosity
+1 Arid Mesa
+1 Scalding Tarn
+8 Island
+6 Plains
+1 Jace, the Mind Sculptor
+1 Cryptic Command
+1 Counterspell
+1 Control Magic
+1 Consider
+1 Consecrated Sphinx
+1 Condescend
+1 Brazen Borrower
+1 Swords to Plowshares
+1 Skyclave Apparition
+1 Restoration Angel
+1 Palace Jailer
+1 Fateful Absence
+1 Council's Judgment
+1 Vendilion Clique
+1 True-Name Nemesis
+1 Mystic Confluence
+1 Jace, Vryn's Prodigy
+
+1 Lingering Souls
+1 Show and Tell
+1 Unexpectedly Absent
+1 Enlightened Tutor
+1 Nurturing Peatland
+1 Fiery Islet
+1 Silent Clearing
+1 Force Spike
+1 Thieving Skydiver
+1 Phyrexian Revoker
+1 Braids, Cabal Minion
+1 Monastery Mentor
+1 Crucible of Worlds
+1 Gideon Jura
+1 Talisman of Unity
+1 Thragtusk
+1 Breeding Pool
+1 Angel of Invention
+1 Knight of Autumn

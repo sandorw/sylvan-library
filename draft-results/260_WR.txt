@@ -1,0 +1,59 @@
+DeckId: 260
+Pilot: 6
+Date: 2022-10-05
+Colors: RW
+Labels: Aggro
+Match Record: 2-1
+Game Record: 5-3
+vs. 255: 2-1
+vs. 259: 1-2
+vs. 262: 2-0
+
+5 Plains
+4 Mountain
+1 Luminarch Aspirant
+1 Dauntless Bodyguard
+1 Lightning Bolt
+1 Lurrus of the Dream-Den
+1 Mother of Runes
+1 Plateau
+1 Firedrinker Satyr
+1 Thalia, Guardian of Thraben
+1 Ravages of War
+1 Path to Exile
+1 Mutavault
+1 Kytheon, Hero of Akros
+1 Ravagan, Nimble Pilferer
+1 Student of Warfare
+1 Horizon Canopy
+1 Oblivion Ring
+1 Goblin Guide
+1 Soldier of the Pantheon
+1 Strip Mine
+1 Sunbaked Canyon
+1 Armageddon
+1 Brimaz, King of Oreskos
+1 Figure of Destiny
+1 Usher of the Fallen
+1 Selfless Spirit
+1 Sacred Foundry
+1 Recruiter of the Guard
+1 Mardu Woe-Reaper
+1 Monastery Swiftspear
+1 Isamaru, Hound of Konda
+1 Wasteland
+
+1 Tangle Wire
+1 Elspeth, Sun's Champion
+1 Thundermaw Hellkite
+1 Blade Splicer
+1 Day Judgement
+1 Wildfire
+1 Flickerwisp
+1 Pack Rat
+1 Smokestack
+1 Esika's Chariot
+1 Gutterbones
+1 Adeline, Resplendent Cathar
+1 Gideon, Ally of Zendikar
+1 Rackdos Cackler
