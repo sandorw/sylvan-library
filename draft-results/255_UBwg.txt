@@ -1,0 +1,60 @@
+DeckId: 255
+Pilot: 37
+Date: 2022-10-05
+Colors: Uwbrg
+Labels: Control
+Match Record: 2-1
+Game Record: 5-4
+vs. 260: 1-2
+vs. 262: 2-1
+vs. 257: 2-1
+
+1 Memory Lapse
+1 Thoughtseize
+1 Dread Fugue
+1 Mystical Tutor
+1 Bloodchief's Thirst
+1 Damnation
+1 Wrath of God
+1 Engineered Explosives
+1 Timetwister
+1 Toxic Deluge
+1 Hullbreacher
+1 Narset, Parter of Veils
+1 Uro, Titan of Nature's Wrath
+1 Bitterblossom
+1 Talisman of Hierarchy
+1 Tarmogoyf
+1 Fabled Passage
+1 City of Brass
+1 Ugin, the Spirit Dragon
+1 Treachery
+1 Baleful Mastery
+1 Commit // Memory
+1 Forbid
+1 Leovold, Emissary of Trest
+1 Waterlogged Grove
+1 Karakas
+1 Treetop Village
+1 Tundra
+1 Prismatic Vista
+1 Godless Shrine
+1 Scrubland
+1 Savannah
+1 Mountain
+3 Swamp
+4 Island
+
+1 Dread Wanderer
+1 Skullclamp
+1 Laelia, the Blade Reforged
+1 Soulherder
+1 Ramunap Excavator
+1 Ajani Vengeant
+1 Bonecrusher Giant
+1 Prismari Command
+1 Mana Tithe
+1 Fury
+1 Blade of the Oni
+1 Grim Lavamancer
+1 Bloodsoaked Champion

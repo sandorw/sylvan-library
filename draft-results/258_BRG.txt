@@ -1,0 +1,60 @@
+DeckId: 258
+Pilot: 40
+Date: 2022-10-05
+Colors: BGR
+Labels: Reanimator
+Match Record: 1-1
+Game Record: 2-3
+vs. 261: 2-1
+vs. 256: 0-2
+
+1 Sneak Attack
+1 Assassin's Trophy
+1 Sylvan Library
+1 Archon of Cruelty
+1 Wheel of Fortune
+1 Entomb
+1 Polluted Delta
+1 Shriekmaw
+1 Life from the Loam
+1 Reanimate
+1 Bayou
+1 Bloodstained Mire
+1 Overgrown Tomb
+1 Marsh Flats
+1 Griselbrand
+1 Emrakul, the Promised End
+1 Endurance
+1 Snuff Out
+1 Liliana of the Veil
+1 Necromancy
+1 Oona's Prowler
+1 Abrade
+1 Murderous Rider
+1 Dark Confidant
+1 Eternal Witness
+1 Faithless Looting
+1 Taiga
+1 Badlands
+1 Kolaghan's Command
+1 Animate Dead
+4 Swamp
+4 Forest
+2 Mountain
+
+1 Survival of the Fittest
+1 Ophiomancer
+1 Elesh Norn, Grand Cenobite
+1 Recurring Nightmare
+1 Exhume
+1 Fauna Shaman
+1 Arc Trail
+1 Channel
+1 Abundant Harvest
+1 Lion Sash
+1 Ephemerate
+1 Garruk Wildspeaker
+1 Solitude
+1 Diregraf Ghoul
+1 Skyclave Shade
+1 Gilded Goose

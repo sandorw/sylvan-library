@@ -1,0 +1,59 @@
+DeckId: 258
+Pilot: 38
+Date: 2022-10-05
+Colors: Gb
+Labels: Ramp
+Match Record: 2-1
+Game Record: 5-3
+vs. 262: 2-0
+vs. 260: 2-1
+vs. 256: 1-2
+
+1 Noble Hierarch
+1 Plow Under
+1 Boseiju, Who Endures
+1 Scavenging Ooze
+1 Woodfall Primus
+1 Elvish Mystic
+1 Mind Twist
+1 Volrath's Stronghold
+1 Eureka
+1 Grim Monolith
+1 Regrowth
+1 Fyndhorn Elves
+1 Llanovar Elves
+1 Courser of Kruphix
+1 Ulamog, the Ceaseless Hunger
+1 Ignoble Hierarch
+1 Rofellos, Llanowar Emissary
+1 Carnage Tyrant
+1 Primeval Titan
+1 Hexdrinker
+1 Nissa, Who Shakes the World
+1 Birds of Paradise
+1 Mox Diamond
+1 Sakura-Tribe Elder
+1 Deep Forest Hermit
+1 Questing Beast
+1 Deranged Hermit
+1 Garruk Relentless
+1 Verdant Catacombs
+1 Ancient Tomb
+1 Gaea's Cradle
+1 Rishadan Port
+7 Forest
+1 Swamp
+
+1 Sword of Fire and Ice
+1 Bloodghast
+1 Oath of Druids
+1 Coalition Relic
+1 Talisman of Conviction
+1 Mana Leak
+1 Tropical Island
+1 Shatter the Sky
+1 Wall of Omens
+1 Flooded Strand
+1 Temple Garden
+1 Windswept Heath
+1 Hallowed Fountain
